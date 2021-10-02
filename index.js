@@ -18,8 +18,9 @@ const searchResults = await mojira.issueSearch.searchForIssuesUsingJql({
 
 console.log(searchResults)
 
-if ( !searchResults.issues ) {
+if ( !searchResults.issues || searchResults.issues.length === 0 ) {
   console.log('No new issues found.')
+  console.log('::set-output name=new-issue::no')
   process.exit(0) 
 }
 
