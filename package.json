@@ -1,0 +1,13 @@
+{
+  "name": "@spxx/database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/SPXFellow/spxx-translation-database",
+  "author": "Dianliang233 <dianliang233@gmail.com>",
+  "license": "CC0-1.0",
+  "private": true,
+  "dependencies": {
+    "jira.js": "^2.6.3"
+  }
+}
