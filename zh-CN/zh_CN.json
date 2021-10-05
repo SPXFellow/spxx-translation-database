@@ -1,4 +1,6 @@
 {
+    "MC-229365": "Large amounts of goats causes performance issues ",
+    "MC-217906": "Large amounts of axolotls cause performance issues",
     "MC-236736": "No relief on treasure map or explorer maps",
     "MC-238265": "version.json 内包含的是内部版本号而非游戏版本号",
     "MC-237925": "在最新快照中打开来自1.12.2（或更旧的版本）的世界会随机重新生成区块",
