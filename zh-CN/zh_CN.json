@@ -1,4 +1,9 @@
 {
+    "MC-238104": "Blue Orchid generation has decreased",
+    "MC-237962": "Entities bob their head up and down when targeting towards the player",
+    "MC-237951": "Cave vines can generate into water",
+    "MC-237950": "Cave vines can generate without tip because prioritize_tip option is negated",
+    "MC-237933": "Sweet Berries generate much too often",
     "MC-229365": "大量山羊会导致性能问题",
     "MC-217906": "大量美西螈会导致性能问题",
     "MC-236736": "藏宝图或探索者地图上没有标记",
