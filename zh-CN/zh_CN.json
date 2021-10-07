@@ -1,4 +1,5 @@
 {
+    "MC-237490": "The bottom parts of aquifers aren't always surrounded by blocks which can occasionally cause them to spill into caves in ways that appear bizarre",
     "MC-236896": "Strange mini broken aquifer walls generating commonly on the surface",
     "MC-238104": "兰花的生成频率下降了",
     "MC-237962": "实体在朝向玩家时会上下点头",
