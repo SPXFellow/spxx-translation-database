@@ -1,6 +1,8 @@
 {
-    "MC-237490": "The bottom parts of aquifers aren't always surrounded by blocks which can occasionally cause them to spill into caves in ways that appear bizarre",
-    "MC-236896": "Strange mini broken aquifer walls generating commonly on the surface",
+    "MC-236617": "Mountains & Gravelly Mountains use their 1.17.1 biome ID name",
+    "MC-197688": "Mountain Edge never generates",
+    "MC-237490": "方块没有把含水层的底部包裹好，导致有时候会让水撒到洞穴里，看起来非常怪",
+    "MC-236896": "在地表会出现很多奇怪的微型破碎含水层",
     "MC-238104": "兰花的生成频率下降了",
     "MC-237962": "实体在朝向玩家时会上下点头",
     "MC-237951": "洞穴藤蔓会生长进水体内",
