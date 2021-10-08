@@ -1,4 +1,6 @@
 {
+    "MC-238003": "Stone in jagged peaks is always covered by snow blocks",
+    "MC-237457": "Snowy Slopes biome no longer generates stone cliff feature from experimental snapshots",
     "MC-237666": "未被使用的生物群系依然出现在游戏文件内",
     "MC-227064": "悬浮的草会在湖面上生成",
     "MC-225858": "种子和花在水塘内出现",
