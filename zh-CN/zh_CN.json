@@ -1,4 +1,6 @@
 {
+    "MC-238561": "Axolotls aren't able to spawn at all in lush caves (recurrence of MC-218701)",
+    "MC-236650": "Minecraft in 1.18 has 2^48 seeds instead of 2^64 seeds.",
     "MC-230302": "Glow Item Frame item texture is missing two pixels",
     "MC-227398": "Misplaced pixel on cave vines texture",
     "MC-225949": "Parity Issue: different Bedrock and Java sign items textures.",
