@@ -1,5 +1,5 @@
 {
-    "MC-237330": "Worlds created with seed \"REDApRES\" (0) crash when trying to load new 1.18 mountain biomes / java.lang.NullPointerException: Cannot invoke \"dfw.a(double, double, double)\" because \"this.a\" is null",
+    "MC-237330": "当尝试使用1.18新山地生物群系加载使用“REDApRES”种子创建的世界时崩溃，报错为：java.lang.NullPointerException: Cannot invoke “dfw.a(double，double，double)” because “this.a” is null",
     "MC-238561": "美西螈无法在繁茂洞穴生成（MC-218701的重现）",
     "MC-236650": "1.18版本的种子数只有2^48个，而非2^64个了",
     "MC-230302": "发光物品展示框的纹理少了两个像素",
