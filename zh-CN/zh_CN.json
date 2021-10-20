@@ -2,7 +2,7 @@
     "MC-233771": "Parity issue: Light blocks do not display their light level when shown via a held light block item",
     "MC-214288": "`min_y`大于0时玩家不会生成在世界地表",
     "MC-236837": "加载新世界时玩家偶尔会在地下生成",
-    "MC-132347": "冰山中会生成生物",
+    "MC-132347": "玩家会出生在冰山内",
     "MC-129912": "玩家在世界生成时不再在最高层生成",
     "MC-238900": "默认世界生成的噪声设置中的数个为`infinity`的值",
     "MC-238582": "沙滩在沙漠和海洋之间生成",
