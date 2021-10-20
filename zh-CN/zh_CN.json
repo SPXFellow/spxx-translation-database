@@ -1,4 +1,8 @@
 {
+    "MC-214288": "Player does not spawn on the surface of the world when min_y is greater than 0",
+    "MC-236837": "The player can occasionally spawn underground when loading into a new world",
+    "MC-132347": "Spawning inside icebergs",
+    "MC-129912": "Player no longer spawned at highest level at world spawn",
     "MC-238900": "Values of 'Infinity' in noise settings in default worldgen ",
     "MC-238582": "Beaches generate between desert and ocean",
     "MC-237330": "当尝试使用1.18新山地生物群系加载使用“REDApRES”种子创建的世界时崩溃，报错为：java.lang.NullPointerException: Cannot invoke “dfw.a(double，double，double)” because “this.a” is null",
