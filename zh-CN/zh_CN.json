@@ -1,5 +1,5 @@
 {
-    "MC-233771": "Parity issue: Light blocks do not display their light level when shown via a held light block item",
+    "MC-233771": "一致性问题：光源方块在手持时不显示其光照等级",
     "MC-214288": "`min_y`大于0时玩家不会生成在世界地表",
     "MC-236837": "加载新世界时玩家偶尔会在地下生成",
     "MC-132347": "玩家会出生在冰山内",
