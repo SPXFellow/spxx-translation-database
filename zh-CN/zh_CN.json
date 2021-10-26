@@ -1,4 +1,6 @@
 {
+    "MC-236970": "Badlands strata is covered by orange terracotta at Y=160 and above",
+    "MC-156616": "Badlands layers not generating properly",
     "MC-236624": "Deep Warm Oceans don't count towards the \"Adventuring Time\" advancement",
     "MC-233771": "一致性问题：光源方块在手持时不显示其光照等级",
     "MC-214288": "`min_y`大于0时玩家不会生成在世界地表",
