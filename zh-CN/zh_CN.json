@@ -1,4 +1,6 @@
 {
+    "MC-238939": "Stone can generate in the Nether",
+    "MC-238073": "Decorators are independent of world seed",
     "MC-236970": "Badlands strata is covered by orange terracotta at Y=160 and above",
     "MC-156616": "Badlands layers not generating properly",
     "MC-236624": "Deep Warm Oceans don't count towards the \"Adventuring Time\" advancement",
