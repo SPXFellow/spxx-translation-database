@@ -1,4 +1,6 @@
 {
+    "MC-217379": "Pufferfish don't spawn in deep warm ocean",
+    "MC-131930": "Deep warm ocean generates without coral and sea pickles",
     "MC-238939": "Stone can generate in the Nether",
     "MC-238073": "Decorators are independent of world seed",
     "MC-236970": "Badlands strata is covered by orange terracotta at Y=160 and above",
