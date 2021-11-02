@@ -1,4 +1,5 @@
 {
+    "MC-239689": "The \"amplified\" boolean in noise settings does nothing",
     "MC-239397": "岩浆池在冰山中生成",
     "MC-217379": "河豚不会在暖水深海生成",
     "MC-131930": "暖水深海中不会生成海泡菜和珊瑚",
