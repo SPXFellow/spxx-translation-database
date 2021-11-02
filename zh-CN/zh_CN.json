@@ -1,4 +1,9 @@
 {
+    "MC-238968": "Windswept Gravelly Hills & Windswept Savanna aren't apart of the \"Adventuring Time\" advancement",
+    "MC-238966": "Old Growth Spruce Taiga and Old Growth Birch Forest aren't apart of the \"Adventuring Time\" advancement",
+    "MC-238877": "Deep Ocean & Ocean is not needed for the \"Adventure Time\" advancement",
+    "MC-238761": "Adventuring Time does not account for the new cave biomes",
+    "MC-236701": "New mountain biomes don't count towards \"Adventuring Time\" advancement",
     "MC-239344": "All torches in mineshafts are facing the wrong way",
     "MC-216561": "Torches not spawning in abandoned mineshafts under y=0",
     "MC-216432": "Mineshafts can generate with light but without any torches",
