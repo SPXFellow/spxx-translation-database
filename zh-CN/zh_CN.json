@@ -1,4 +1,6 @@
 {
+    "MC-239866": "Terrain shaper in noise_settings is not used",
+    "MC-236938": "/jfr stop output does not have a link",
     "MC-238968": "Windswept Gravelly Hills & Windswept Savanna aren't apart of the \"Adventuring Time\" advancement",
     "MC-238966": "Old Growth Spruce Taiga and Old Growth Birch Forest aren't apart of the \"Adventuring Time\" advancement",
     "MC-238877": "Deep Ocean & Ocean is not needed for the \"Adventure Time\" advancement",
