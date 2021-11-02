@@ -1,4 +1,5 @@
 {
+    "MC-238912": "Powder snow strips can't generate exposed to the surface",
     "MC-239866": "Terrain shaper in noise_settings is not used",
     "MC-236938": "/jfr stop output does not have a link",
     "MC-238968": "Windswept Gravelly Hills & Windswept Savanna aren't apart of the \"Adventuring Time\" advancement",
