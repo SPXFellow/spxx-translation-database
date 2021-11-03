@@ -1,4 +1,7 @@
 {
+    "MC-238062": "Foxes & Wolves don't spawn in Groves",
+    "MC-170551": "Foxes can't spawn on podzol or coarse dirt",
+    "MC-239280": "Withers do not move down to follow the player when the wither's health is half or lower",
     "MC-238962": "Icebergs go all the way to ocean floor.",
     "MC-238900": "默认世界生成的噪声设置中的数个为`infinity`的值",
     "MC-239359": "Wither Skeletons can only spawn on Nether Bricks",
