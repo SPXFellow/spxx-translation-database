@@ -1,4 +1,5 @@
 {
+    "MC-238900": "默认世界生成的噪声设置中的数个为`infinity`的值",
     "MC-239359": "Wither Skeletons can only spawn on Nether Bricks",
     "MC-237986": "Mobs specific to structures aren't spawning in their structures",
     "MC-238912": "暴露在空气中的细雪片会被替换成常规的雪",
@@ -28,7 +29,6 @@
     "MC-236837": "加载新世界时玩家偶尔会在地下生成",
     "MC-132347": "玩家会出生在冰山内",
     "MC-129912": "玩家不会在重生点的最高处重生",
-    "MC-238900": "默认世界生成的噪声设置中的数个为`infinity`的值",
     "MC-238582": "沙滩在沙漠和海洋之间生成",
     "MC-237330": "当尝试使用1.18新山地生物群系加载使用“REDApRES”种子创建的世界时崩溃，报错为：java.lang.NullPointerException: Cannot invoke “dfw.a(double，double，double)” because “this.a” is null",
     "MC-238561": "美西螈无法在繁茂洞穴生成（MC-218701的重现）",
