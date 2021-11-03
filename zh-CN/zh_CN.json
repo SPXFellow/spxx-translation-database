@@ -1,4 +1,5 @@
 {
+    "MC-63340": "Sleeping always resets time until rain",
     "MC-238062": "Foxes & Wolves don't spawn in Groves",
     "MC-170551": "Foxes can't spawn on podzol or coarse dirt",
     "MC-239280": "Withers do not move down to follow the player when the wither's health is half or lower",
