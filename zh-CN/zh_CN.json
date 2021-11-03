@@ -1,4 +1,6 @@
 {
+    "MC-239359": "Wither Skeletons can only spawn on Nether Bricks",
+    "MC-237986": "Mobs specific to structures aren't spawning in their structures",
     "MC-238912": "暴露在空气中的细雪片会被替换成常规的雪",
     "MC-239866": "Terrain shaper in noise_settings is not used",
     "MC-236938": "/jfr stop 的输出不包含链接",
