@@ -1,4 +1,5 @@
 {
+    "MC-238962": "Icebergs go all the way to ocean floor.",
     "MC-238900": "默认世界生成的噪声设置中的数个为`infinity`的值",
     "MC-239359": "Wither Skeletons can only spawn on Nether Bricks",
     "MC-237986": "Mobs specific to structures aren't spawning in their structures",
