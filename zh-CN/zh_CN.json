@@ -1,7 +1,7 @@
 {
     "MC-237621": "Missing biome definitions in some peak grid cells causes unintended ocean placement",
     "MC-238038": "新加入的进度的命名空间ID与其本地化键名有出入",
-    "MC-237954": "The \"Sound of Music\" and \"Feels like home\" advancements are internally located in the incorrect tab folder",
+    "MC-237954": "进度“音乐之声”和“温暖如家”在内部标签文件夹中分类错误",
     "MC-240534": "点击JFR链接会复制完整的服务端路径",
     "MC-240531": "方块模拟距离被锁定在8个区块，滑块调整无效",
     "MC-239858": "下界的装饰性方块可以生成在基岩层上",
