@@ -1,4 +1,5 @@
 {
+    "MC-237598": "Projectiles glitch around in the air when exiting simulation distance",
     "MC-237621": "在一些边缘区块中未定义的生物群系会被海洋生物群系代替",
     "MC-238038": "新加入的进度的命名空间ID与其本地化键名有出入",
     "MC-237954": "进度“音乐之声”和“温暖如家”在内部标签文件夹中分类错误",
