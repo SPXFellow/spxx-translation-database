@@ -1,5 +1,5 @@
 {
-    "MC-237621": "Missing biome definitions in some peak grid cells causes unintended ocean placement",
+    "MC-237621": "在一些边缘区块中未定义的生物群系会被海洋生物群系代替",
     "MC-238038": "新加入的进度的命名空间ID与其本地化键名有出入",
     "MC-237954": "进度“音乐之声”和“温暖如家”在内部标签文件夹中分类错误",
     "MC-240534": "点击JFR链接会复制完整的服务端路径",
