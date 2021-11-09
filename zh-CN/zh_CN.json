@@ -1,4 +1,10 @@
 {
+    "MC-240021": "Cullface arguments in cauldrons are excessive",
+    "MC-229517": "Conversion sounds for strays & drowned is controlled by Friendly Creatures mixer, not Hostile Creatures",
+    "MC-113425": "Player can interact with entities outside the worldborder",
+    "MC-54119": "Can place/take water/lava/lilypads outside worldborder and inside spawn protection",
+    "MC-53444": "You can get outside of the worldborder by mounting a rideable entity (boat, pig, etc.) outside of it",
+    "MC-46584": "Clicking and dragging MOUSE3 (Mouse wheel) over item slots incorrectly attempts to place full stacks in survival",
     "MC-237598": "Projectiles glitch around in the air when exiting simulation distance",
     "MC-237621": "在一些边缘区块中未定义的生物群系会被海洋生物群系代替",
     "MC-238038": "新加入的进度的命名空间ID与其本地化键名有出入",
