@@ -1,4 +1,5 @@
 {
+    "MC-239714": "Doing /locate desert_pryamid on a desert superflat world freezes the world",
     "MC-96535": "Ambient property of potion effects with ShowParticles:0b is not disregarded",
     "MC-240021": "炼药锅的面剔除（Cullface）参数过多",
     "MC-229517": "流浪者和溺尸的转化音效由友好生物混合器控制，而非敌对生物混合器",
