@@ -1,4 +1,7 @@
 {
+    "MC-236652": "Weather can be incorrect sometimes within a biome",
+    "MC-231666": "Dragon egg can teleport to outside the world border",
+    "MC-117800": "Half bed can be placed outside the worldborder",
     "MC-187174": "世界边界没有考虑下界坐标缩放",
     "MC-136523": "末地的世界边界不可视",
     "MC-121997": "每一个维度的世界边界是独立运作的，且不在其实际地点出现",
