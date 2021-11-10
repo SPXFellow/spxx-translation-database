@@ -1,9 +1,9 @@
 {
-    "MC-229013": "Lava lake decorator config is unused",
-    "MC-219035": "Fossil structures can't generate in far east and south blocks of a chunk",
-    "MC-131808": "Forests don't spawn trees near the positive edges, but overstretch bounds on the negative edges",
+    "MC-229013": "岩浆湖的装饰器设置未被使用",
+    "MC-219035": "化石结构无法生成在区块的最东侧和最南侧",
+    "MC-131808": "森林不会在靠近正方向一侧的边际生成，却会在负方向一侧过度延伸",
     "MC-239714": "在沙漠超平坦世界中执行 `/locate desert_pryamid` 后，世界似乎被“冻结”",
-    "MC-96535": "Ambient property of potion effects with ShowParticles:0b is not disregarded",
+    "MC-96535": "ShowParticles:0b的状态效果没有做到忽视其Ambient属性",
     "MC-240021": "炼药锅的面剔除（Cullface）参数过多",
     "MC-229517": "流浪者和溺尸的转化音效由友好生物混合器控制，而非敌对生物混合器",
     "MC-113425": "玩家可以与世界边界外的实体互动",
