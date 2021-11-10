@@ -1,4 +1,9 @@
 {
+    "MC-187174": "Worldborder does not take nether coordinates into account",
+    "MC-136523": "Invisible world border in the end dimension",
+    "MC-121997": "Every dimension's world border is operating independently, and doesn't appear where it actually is",
+    "MC-62550": "Worldborder not correctly initialized for the End and Nether",
+    "MC-237791": "Villager spawn eggs used on grove, frozen peaks, snowy slopes and jagged peaks don't spawn snowy plains villagers",
     "MC-229013": "岩浆湖的装饰器设置未被使用",
     "MC-219035": "化石结构无法生成在区块的最东侧和最南侧",
     "MC-131808": "森林不会在靠近正方向一侧的边际生成，却会在负方向一侧过度延伸",
