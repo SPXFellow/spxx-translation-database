@@ -1,6 +1,6 @@
 {
     "MC-236628": "Lava pools cause sand to fall now instead of putting sandstone beneath it",
-    "MC-236610": "Lava lakes generates without stone around",
+    "MC-236610": "熔岩湖没有被石头包围",
     "MC-222388": "Acacia trees under y=0 often grow with bare branches",
     "MC-236803": "Extremely low amount of pillager spawns in outpost on jagged peaks, groves, snowy slopes & frozen peaks",
     "MC-240998": "Portals no longer load chunks as non entity processing",
