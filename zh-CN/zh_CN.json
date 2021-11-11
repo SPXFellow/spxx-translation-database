@@ -1,4 +1,6 @@
 {
+    "MC-222388": "Acacia trees under y=0 often grow with bare branches",
+    "MC-236803": "Extremely low amount of pillager spawns in outpost on jagged peaks, groves, snowy slopes & frozen peaks",
     "MC-240998": "Portals no longer load chunks as non entity processing",
     "MC-240631": "末地的地形生成速度很慢",
     "MC-240481": "在旧区块中，新的洞穴生成时不会生成深板岩",
