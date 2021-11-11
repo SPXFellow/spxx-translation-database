@@ -1,7 +1,7 @@
 {
-    "MC-240503": "Bedrock doesn`t generate in Badlands or Wooded Badlands",
-    "MC-240495": "Deepslate does not generate below Y=0 in Badlands or Wooded Badlands Biomes",
-    "MC-238972": "Deserts generate with little or no sandstone",
+    "MC-240503": "恶地和繁茂的恶地底层不生成基岩",
+    "MC-240495": "恶地和繁茂的恶地在Y=0以下地层不生成深板岩",
+    "MC-238972": "沙漠里生成的砂岩很少，甚至没有",
     "MC-239852": "Lava pools intersecting strongholds can cause end portal frames to be deleted",
     "MC-237040": "下落的方块在着地时有时仍然会短暂消失",
     "MC-236652": "生物群系内部的天气可能不正确",
