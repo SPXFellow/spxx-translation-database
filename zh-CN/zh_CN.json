@@ -1,4 +1,6 @@
 {
+    "MC-240481": "Deepslate doesn't generate in the new cave generation under old chunks",
+    "MC-239851": "Upgrading old worlds causes leaves to change to surface builder blocks",
     "MC-215139": "洞穴中的一些水不会立刻流动",
     "MC-206660": "钟乳石在下方一格有方块时无法正确掉落",
     "MC-240503": "恶地和繁茂的恶地底层不生成基岩",
