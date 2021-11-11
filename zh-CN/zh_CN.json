@@ -1,4 +1,5 @@
 {
+    "MC-240482": "There is no bedrock in the overworld in old chunks",
     "MC-240516": "Cave carvers don't generate below old chunks",
     "MC-236628": "Lava pools cause sand to fall now instead of putting sandstone beneath it",
     "MC-236610": "熔岩湖没有被石头包围",
