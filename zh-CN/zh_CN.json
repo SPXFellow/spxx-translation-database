@@ -1,4 +1,6 @@
 {
+    "MC-215139": "Some water in caves will not start flowing",
+    "MC-206660": "Stalactites don't fall properly if there are blocks directly below it",
     "MC-240503": "恶地和繁茂的恶地底层不生成基岩",
     "MC-240495": "在恶地和繁茂的恶地中，Y=0以下不生成深板岩",
     "MC-238972": "沙漠里生成的砂岩很少，甚至没有",
