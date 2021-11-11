@@ -1,5 +1,9 @@
 {
-    "MC-237040": "Falling blocks still sometimes disappear for a moment when landing",
+    "MC-240503": "Bedrock doesn`t generate in Badlands or Wooded Badlands",
+    "MC-240495": "Deepslate does not generate below Y=0 in Badlands or Wooded Badlands Biomes",
+    "MC-238972": "Deserts generate with little or no sandstone",
+    "MC-239852": "Lava pools intersecting strongholds can cause end portal frames to be deleted",
+    "MC-237040": "下落的方块在着地时有时仍然会短暂消失",
     "MC-236652": "生物群系内部的天气可能不正确",
     "MC-231666": "龙蛋可以传送至世界边界外",
     "MC-117800": "有半边床可以放置到世界边界外",
