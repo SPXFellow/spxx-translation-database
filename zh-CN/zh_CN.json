@@ -1,4 +1,6 @@
 {
+    "MC-240507": "Mob Spawning in structures fails in pre-1.18 generated monuments/swamp huts/outposts",
+    "MC-240494": "Duplicate Mineshafts With New Cave Generation",
     "MC-239397": "岩浆池在冰山中生成",
     "MC-238076": "UpgradeData in chunk is not migrated to new world height",
     "MC-220061": "Painting back texture is mirrored",
