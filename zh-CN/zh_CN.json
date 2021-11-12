@@ -1,4 +1,7 @@
 {
+    "MC-239899": "Connected redstone does not properly upgrade from older versions",
+    "MC-239857": "Fences, iron bars, and glass panes often use an incorrect block state after conversion",
+    "MC-239856": "Upgrading old worlds causes vines to have the wrong block state",
     "MC-240030": "Infdev and Alpha holes in the world below y=0 after conversion since 21W43A",
     "MC-240482": "旧世界升级而来的主世界区块下方没有基岩",
     "MC-240516": "噪声洞穴不在旧世界升级而来的区块下方生成",
