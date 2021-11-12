@@ -1,4 +1,5 @@
 {
+    "MC-240030": "Infdev and Alpha holes in the world below y=0 after conversion since 21W43A",
     "MC-240482": "旧世界升级而来的主世界区块下方没有基岩",
     "MC-240516": "噪声洞穴不在旧世界升级而来的区块下方生成",
     "MC-236628": "熔岩池现在导致悬浮的沙子掉落，而不是在沙子下方生成砂岩",
