@@ -1,4 +1,6 @@
 {
+    "MC-220061": "Painting back texture is mirrored",
+    "MC-206303": "Minecarts have old textures on the bottom",
     "MC-239899": "Connected redstone does not properly upgrade from older versions",
     "MC-239857": "Fences, iron bars, and glass panes often use an incorrect block state after conversion",
     "MC-239856": "Upgrading old worlds causes vines to have the wrong block state",
