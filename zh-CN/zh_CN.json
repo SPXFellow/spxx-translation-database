@@ -1,4 +1,5 @@
 {
+    "MC-238076": "UpgradeData in chunk is not migrated to new world height",
     "MC-220061": "Painting back texture is mirrored",
     "MC-206303": "Minecarts have old textures on the bottom",
     "MC-239899": "Connected redstone does not properly upgrade from older versions",
