@@ -1,4 +1,5 @@
 {
+    "MC-239397": "岩浆池在冰山中生成",
     "MC-238076": "UpgradeData in chunk is not migrated to new world height",
     "MC-220061": "Painting back texture is mirrored",
     "MC-206303": "Minecarts have old textures on the bottom",
@@ -72,7 +73,6 @@
     "MC-200494": "废弃矿洞内的火把在生成时没有把支撑方块修改为木质方块",
     "MC-217038": "滴水石簇生成在洞穴外",
     "MC-239689": "噪声设置中的布尔值\"amplified\"不起任何作用",
-    "MC-239397": "岩浆池在冰山中生成",
     "MC-217379": "河豚不会在暖水深海生成",
     "MC-131930": "暖水深海中不会生成海泡菜和珊瑚",
     "MC-238939": "石头可以在下界中生成",
