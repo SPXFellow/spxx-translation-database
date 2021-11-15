@@ -1,4 +1,5 @@
 {
+    "MC-241194": "Crash: java.lang.NullPointerException: Cannot invoke \"ddm.a(cao, cps, java.util.Random, gh)\" because the return value of \"java.util.function.Supplier.get()\" is null",
     "MC-217038": "滴水石簇生成在洞穴外",
     "MC-223917": "Goats on fire do not attempt to pathfind towards water",
     "MC-238049": "Passive mobs (cows, pigs, sheep, chickens) sometimes do not spawn",
