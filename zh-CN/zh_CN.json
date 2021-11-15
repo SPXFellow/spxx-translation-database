@@ -1,4 +1,5 @@
 {
+    "MC-223917": "Goats on fire do not attempt to pathfind towards water",
     "MC-238049": "Passive mobs (cows, pigs, sheep, chickens) sometimes do not spawn",
     "MC-236858": "由出生点在海洋中间的世界种子生成的世界性能迟缓",
     "MC-240507": "在1.18前生成的海底神殿/沼泽小屋/掠夺者前哨站里无法正常生成生物",
