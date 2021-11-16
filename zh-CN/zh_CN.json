@@ -1,7 +1,7 @@
 {
     "MC-241413": "Floating water generates around ravines",
     "MC-32813": "Floating water / lava above caves / cave carver doesn't update water",
-    "MC-241199": "Double chests have incorrect block states after upgrading old worlds",
+    "MC-241199": "升级旧世界后，大型箱子的方块状态不正确",
     "MC-241234": "Fossils get cut of at chunk borders",
     "MC-240610": "\"Allow Server Listings\" option doesn't save its last setting",
     "MC-238375": "Crash and/or data corruption upon attempting to save a world with a world border center over 30 million blocks",
@@ -14,7 +14,7 @@
     "MC-227231": "Steven Silvester's name might be misspelt in the credits",
     "MC-227206": "Random names in the new credits use curly quotes/apostrophes",
     "MC-227204": "在使用新版鸣谢名单后，`Explore, dream, discover` 那段语录不再出现",
-    "MC-227163": "Credits say ''IT Manager'' instead of ''IT Managers''",
+    "MC-227163": "鸣谢名单中 `IT Managers` 错写成 `IT Manager`",
     "MC-226689": "Albert Pastore's name is grey and improperly indented in the credits",
     "MC-241194": "Crash: java.lang.NullPointerException: Cannot invoke \"ddm.a(cao, cps, java.util.Random, gh)\" because the return value of \"java.util.function.Supplier.get()\" is null",
     "MC-217038": "滴水石簇生成在洞穴外",
