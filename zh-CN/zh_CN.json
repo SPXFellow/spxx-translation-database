@@ -1,4 +1,9 @@
 {
+    "MC-241199": "Double chests have incorrect block states after upgrading old worlds",
+    "MC-241234": "Fossils get cut of at chunk borders",
+    "MC-240610": "\"Allow Server Listings\" option doesn't save its last setting",
+    "MC-238375": "Crash and/or data corruption upon attempting to save a world with a world border center over 30 million blocks",
+    "MC-237608": "Server address shown when connection fails during server startup",
     "MC-241111": "Some Mojang employees are not mentioned in the credits",
     "MC-239423": "Kumi Tanioka isn't under \"Music composed by\" in the credits",
     "MC-231782": "Missing \"(\" in Frank Criscione credit",
