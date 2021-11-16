@@ -1,4 +1,6 @@
 {
+    "MC-238587": "Sprinting while flying into a block causes the screen to rapidly zoom in and out ",
+    "MC-236756": "Biome-exclusive mob spawn rates are reduced",
     "MC-240570": "Biomes in old chunks are not copied to new caves below Y=0 when chunks are extended",
     "MC-241208": "Powered buttons, pressure plates, and tripwire hooks remain powered forever after upgrading old worlds",
     "MC-241413": "Floating water generates around ravines",
