@@ -1,4 +1,6 @@
 {
+    "MC-241413": "Floating water generates around ravines",
+    "MC-32813": "Floating water / lava above caves / cave carver doesn't update water",
     "MC-241199": "Double chests have incorrect block states after upgrading old worlds",
     "MC-241234": "Fossils get cut of at chunk borders",
     "MC-240610": "\"Allow Server Listings\" option doesn't save its last setting",
