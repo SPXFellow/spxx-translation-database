@@ -1,4 +1,6 @@
 {
+    "MC-240783": "Powder snow does not reduce or negate fall damage",
+    "MC-217056": "Some high-speed particles lag/freeze the game",
     "MC-239884": "Water from old chunks don't properly propagate into new chunks",
     "MC-238587": "Sprinting while flying into a block causes the screen to rapidly zoom in and out ",
     "MC-236756": "Biome-exclusive mob spawn rates are reduced",
