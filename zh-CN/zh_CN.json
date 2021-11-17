@@ -11,7 +11,7 @@
     "MC-241199": "升级旧世界后，大型箱子的方块状态不正确",
     "MC-241234": "化石在区块边界处被截断",
     "MC-240610": "“允许列入服务器玩家列表”选项不会记住选择",
-    "MC-238375": "Crash and/or data corruption upon attempting to save a world with a world border center over 30 million blocks",
+    "MC-238375": "世界边界中心点在30,000,000格外时，保存世界会导致存档和/或数据损坏",
     "MC-237608": "Server address shown when connection fails during server startup",
     "MC-241111": "部分Mojang雇员未出现在鸣谢名单中",
     "MC-239423": "Kumi Tanioka未出现在鸣谢名单的 `Music composed by` 段落中",
