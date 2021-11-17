@@ -1,4 +1,7 @@
 {
+    "MC-109260": "Full-width punctuation characters are rendered incorrectly",
+    "MC-239397": "熔岩池在冰山中生成",
+    "MC-239950": "Feature placement doesn't check for biomes, causing unnecessary lag",
     "MC-240483": "Foxes that spawn in grove biomes aren't the snowy variant",
     "MC-240229": "Rain and snow fall on the same blocks in a certain height range",
     "MC-231818": "You can no longer use the up or down arrow to navigate between servers in the multiplayer menu",
@@ -40,7 +43,6 @@
     "MC-236858": "由出生点在海洋中间的世界种子生成的世界性能迟缓",
     "MC-240507": "在1.18前生成的海底神殿/沼泽小屋/掠夺者前哨站里无法正常生成生物",
     "MC-240494": "新的洞穴生成机制导致生成重复的废弃矿井",
-    "MC-239397": "熔岩池在冰山中生成",
     "MC-238076": "区块内的UpgradeData标签没有转换到新的世界高度",
     "MC-220061": "画的背部纹理被镜像翻转",
     "MC-206303": "矿车的底部使用了旧纹理",
