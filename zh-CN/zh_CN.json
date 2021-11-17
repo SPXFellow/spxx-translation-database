@@ -1,4 +1,8 @@
 {
+    "MC-241255": "Gigantic Performance Drop after a couple of minutes",
+    "MC-240589": "Game froze for several minutes and then crashed while flying around and loading chunks",
+    "MC-239682": "Out of memory crash: World generation exhausts Java heap space",
+    "MC-185263": "Non full chunks in cache memory \"semi-leak\"",
     "MC-240783": "细雪不减少或消除掉落伤害",
     "MC-217056": "一些高速粒子效果会导致游戏卡顿或冻结游戏",
     "MC-239884": "来自旧区块的水不会正确蔓延至新区块",
