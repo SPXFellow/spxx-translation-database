@@ -1,6 +1,6 @@
 {
-    "MC-241778": "Game crashes or freeze when loading and upgrading the 1.17.1 version of the Superflat world // java.util.concurrent.CompletionException: z: Biome decoration ",
-    "MC-241775": "Crash when going through end portals or creating a single biome world with end biomes // java.lang.NegativeArraySizeException: -5",
+    "MC-241778": "在加载或升级1.17.1版本的超平坦世界时游戏崩溃：java.util.concurrent.CompletionException: z: Biome decoration ",
+    "MC-241775": "在通过末地传送门或创建末地相关的单一生物群系世界时崩溃：java.lang.NegativeArraySizeException: -5",
     "MC-241774": "在通过下界传送门或创建下界相关的单一生物群系世界时崩溃：java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
     "MC-236740": "在尝试定位埋藏的宝藏或打开/破坏含有地图的箱子时会导致服务端出现短时剧烈延迟",
     "MC-241352": "客户端与服务端的目录结构不统一",
