@@ -12,7 +12,7 @@
     "MC-236764": "Lighting lags behind world generation",
     "MC-223840": "Lava blocks from \"Lava Aquifers\" don't get updated when a cave cuts through underneath them",
     "MC-241255": "Gigantic Performance Drop after a couple of minutes",
-    "MC-240589": "Game froze for several minutes and then crashed while flying around and loading chunks",
+    "MC-240589": "在到处飞加载区块的时候游戏会冻结几分钟然后崩溃",
     "MC-239682": "内存溢出崩溃：世界生成导致Java虚拟机堆栈耗尽",
     "MC-185263": "缓存内未完全加载的区块会导致内存“半溢出”",
     "MC-240783": "细雪不减少或消除掉落伤害",
