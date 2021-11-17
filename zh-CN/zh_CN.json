@@ -1,8 +1,8 @@
 {
-    "MC-109260": "Full-width punctuation characters are rendered incorrectly",
+    "MC-109260": "全角符号渲染不正确",
     "MC-239397": "熔岩池在冰山中生成",
     "MC-239950": "Feature placement doesn't check for biomes, causing unnecessary lag",
-    "MC-240483": "Foxes that spawn in grove biomes aren't the snowy variant",
+    "MC-240483": "生成在雪林生物群系的狐狸不是雪地变种",
     "MC-240229": "Rain and snow fall on the same blocks in a certain height range",
     "MC-231818": "You can no longer use the up or down arrow to navigate between servers in the multiplayer menu",
     "MC-239610": "Severe world corruption due to 1.18 snapshots failing to deserialize chunks that 1.17 loads fine",
