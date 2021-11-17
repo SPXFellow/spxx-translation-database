@@ -1,4 +1,5 @@
 {
+    "MC-239610": "Severe world corruption due to 1.18 snapshots failing to deserialize chunks that 1.17 loads fine",
     "MC-236764": "Lighting lags behind world generation",
     "MC-223840": "Lava blocks from \"Lava Aquifers\" don't get updated when a cave cuts through underneath them",
     "MC-241255": "Gigantic Performance Drop after a couple of minutes",
