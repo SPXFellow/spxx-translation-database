@@ -1,4 +1,5 @@
 {
+    "MC-236740": "Server-side lag spike sometimes occurs when attempting to locate a buried treasure or opening/breaking a chest containing a map",
     "MC-241352": "Directory structure is not consistent between server and client",
     "MC-241245": "Generated Deepslate overwrites ore veins (mainly Iron ore veins)",
     "MC-109260": "全角符号渲染不正确",
