@@ -1,5 +1,7 @@
 {
-    "MC-241774": "Crash when going nether portals or create a single biome world about Nether // java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+    "MC-241778": "Game crashes or freeze when loading and upgrading the 1.17.1 version of the Superflat world // java.util.concurrent.CompletionException: z: Biome decoration ",
+    "MC-241775": "Crash when going through end portals or creating a single biome world with end biomes // java.lang.NegativeArraySizeException: -5",
+    "MC-241774": "在通过下界传送门或创建下界相关的单一生物群系世界时崩溃：java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
     "MC-236740": "在尝试定位埋藏的宝藏或打开/破坏含有地图的箱子时会导致服务端出现短时剧烈延迟",
     "MC-241352": "客户端与服务端的目录结构不统一",
     "MC-241245": "生成的深板岩会覆盖矿脉（主要是铁矿石矿脉）",
