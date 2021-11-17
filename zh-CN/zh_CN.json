@@ -1,4 +1,6 @@
 {
+    "MC-236764": "Lighting lags behind world generation",
+    "MC-223840": "Lava blocks from \"Lava Aquifers\" don't get updated when a cave cuts through underneath them",
     "MC-241255": "Gigantic Performance Drop after a couple of minutes",
     "MC-240589": "Game froze for several minutes and then crashed while flying around and loading chunks",
     "MC-239682": "Out of memory crash: World generation exhausts Java heap space",
