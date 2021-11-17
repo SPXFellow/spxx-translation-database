@@ -1,4 +1,7 @@
 {
+    "MC-240483": "Foxes that spawn in grove biomes aren't the snowy variant",
+    "MC-240229": "Rain and snow fall on the same blocks in a certain height range",
+    "MC-231818": "You can no longer use the up or down arrow to navigate between servers in the multiplayer menu",
     "MC-239610": "Severe world corruption due to 1.18 snapshots failing to deserialize chunks that 1.17 loads fine",
     "MC-236764": "Lighting lags behind world generation",
     "MC-223840": "Lava blocks from \"Lava Aquifers\" don't get updated when a cave cuts through underneath them",
