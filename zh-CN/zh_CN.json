@@ -1,4 +1,5 @@
 {
+    "MC-241784": "Some sliders in options menu do not work properly",
     "MC-236723": "The Floating Islands preset does not seem to be generating correctly",
     "MC-241778": "在加载或升级1.17.1版本的超平坦世界时游戏崩溃：java.util.concurrent.CompletionException: z: Biome decoration ",
     "MC-241775": "在通过末地传送门或创建末地相关的单一生物群系世界时崩溃：java.lang.NegativeArraySizeException: -5",
