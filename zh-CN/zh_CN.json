@@ -1,4 +1,5 @@
 {
+    "MC-241539": "Stone generates in the side of hoodoos",
     "MC-235567": "Clusters of dripstone (stalagmites) tend to generate abnormally frequent with thickness \"tip\" on tall caves",
     "MC-241747": "Inconsistent Colors in grindstone gui ",
     "MC-234039": "The back of wild axolotls are off-centered",
@@ -27,7 +28,7 @@
     "MC-241847": "Floating stone platform doesn't generate in void superflat world preset ",
     "MC-229977": "使用东西朝向的活塞破坏方块时，游戏明显迟缓",
     "MC-180398": "声音过多会导致客户端卡顿。存在大量兔子时很容易到达声音数上限",
-    "MC-177664": "Sound system warning messages are spamming to the system log",
+    "MC-177664": "系统日志中，声音系统的警告消息反复显示",
     "MC-241588": "Cave vines can sometimes generate hanging on water",
     "MC-241278": "Azalea trees are no longer generating",
     "MC-239237": "Azalea trees can be generated on icebergs",
