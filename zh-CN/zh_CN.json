@@ -1,4 +1,7 @@
 {
+    "MC-229977": "Breaking blocks with pistons on the east/west direction causes significant lag",
+    "MC-180398": "Too many sounds causes client to stall, limit can be easily reached with rabbits",
+    "MC-177664": "Sound system warning messages are spamming to the system log",
     "MC-241588": "Cave vines can sometimes generate hanging on water",
     "MC-241278": "Azalea trees are no longer generating",
     "MC-239237": "Azalea trees can be generated on icebergs",
