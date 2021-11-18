@@ -1,9 +1,9 @@
 {
     "MC-241539": "Stone generates in the side of hoodoos",
     "MC-235567": "Clusters of dripstone (stalagmites) tend to generate abnormally frequent with thickness \"tip\" on tall caves",
-    "MC-241747": "Inconsistent Colors in grindstone gui ",
-    "MC-234039": "The back of wild axolotls are off-centered",
-    "MC-226711": "Carrot crop texture has an incorrect pixel",
+    "MC-241747": "砂轮的GUI颜色不一致",
+    "MC-234039": "棕色美西螈的尾部纹理未居中",
+    "MC-226711": "胡萝卜作物的纹理有一个像素是错误的",
     "MC-225553": "Oak and iron doors have a line in their textures",
     "MC-222763": "Armor stands use the old smooth stone slab texture",
     "MC-221172": "Warped and Crimson Stems use different top texture from Bedrock Edition",
