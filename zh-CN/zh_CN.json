@@ -1,7 +1,7 @@
 {
     "MC-241800": "无法在世界创建时更改游戏规则的数字",
-    "MC-241728": "Converting world to 1.18 pre-release 2 generates new caves in too many places",
-    "MC-241933": "Spore blossoms, cave vines, and pointed dripstones generate indented into the cave surface",
+    "MC-241728": "将世界转换到1.18-pre2后洞穴生成过于频繁",
+    "MC-241933": "孢子花、洞穴藤蔓和滴水石锥生成时陷进洞穴的地表里",
     "MC-231818": "多人游戏菜单中，无法使用上下箭头键来选择服务器",
     "MC-239847": "区块过渡有时会在区块交界处产生很尖锐的边缘",
     "MC-241539": "石头在恶地石柱（Hoodoo）的侧边生成",
