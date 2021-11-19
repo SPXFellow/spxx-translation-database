@@ -1,4 +1,5 @@
 {
+    "MC-241800": "Cannot change numbers for gamerules on world creation",
     "MC-241728": "Converting world to 1.18 pre-release 2 generates new caves in too many places",
     "MC-241933": "Spore blossoms, cave vines, and pointed dripstones generate indented into the cave surface",
     "MC-231818": "多人游戏菜单中，无法使用上下箭头键来选择服务器",
