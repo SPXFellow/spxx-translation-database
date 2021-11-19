@@ -1,4 +1,13 @@
 {
+    "MC-241566": "Mossy cobblestone boulders generate in a grid pattern in old-growth spruce taigas",
+    "MC-241256": "Some feature configs still expect a configured feature instead of a placed feature",
+    "MC-239489": "Melons generate rarely in jungle biomes",
+    "MC-239128": "Sweet berry bushes generate extremely rare in comparison with 1.17.1",
+    "MC-231272": "Cave vines can sometimes generate hanging on cobwebs",
+    "MC-222154": "Cave vines can generate hanging on pointed dripstone",
+    "MC-198007": "Villages replace ice with path blocks instead of wood",
+    "MC-241672": "Mobs don't panic when burning if standing on blocks placed above water",
+    "MC-233883": "The hide and show messages buttons in the social interactions menu display their hover text regardless of the position of the cursor",
     "MC-241800": "无法在世界创建时更改游戏规则的数字",
     "MC-241728": "将世界转换到1.18-pre2后洞穴生成过于频繁",
     "MC-241933": "孢子花、洞穴藤蔓和滴水石锥生成时陷进洞穴的地表里",
