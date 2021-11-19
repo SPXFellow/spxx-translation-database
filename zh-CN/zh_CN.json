@@ -1,7 +1,7 @@
 {
     "MC-241566": "Mossy cobblestone boulders generate in a grid pattern in old-growth spruce taigas",
     "MC-241256": "Some feature configs still expect a configured feature instead of a placed feature",
-    "MC-239489": "Melons generate rarely in jungle biomes",
+    "MC-239489": "西瓜很少在丛林生物群系中生成",
     "MC-239128": "Sweet berry bushes generate extremely rare in comparison with 1.17.1",
     "MC-231272": "Cave vines can sometimes generate hanging on cobwebs",
     "MC-222154": "Cave vines can generate hanging on pointed dripstone",
