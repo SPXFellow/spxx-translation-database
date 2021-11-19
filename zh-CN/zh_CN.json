@@ -1,5 +1,5 @@
 {
-    "MC-241566": "Mossy cobblestone boulders generate in a grid pattern in old-growth spruce taigas",
+    "MC-241566": "在寿命较长的云杉针叶林中，苔石堆呈网格状生成",
     "MC-241256": "Some feature configs still expect a configured feature instead of a placed feature",
     "MC-239489": "西瓜很少在丛林生物群系中生成",
     "MC-239128": "与1.17相比，甜浆果丛的生成更为稀少",
@@ -7,7 +7,7 @@
     "MC-222154": "洞穴藤蔓有时可以挂在滴水石锥上",
     "MC-198007": "Villages replace ice with path blocks instead of wood",
     "MC-241672": "站立在水上方方块的生物着火时不会恐慌",
-    "MC-233883": "The hide and show messages buttons in the social interactions menu display their hover text regardless of the position of the cursor",
+    "MC-233883": "无论光标在什么位置，社交菜单中的“隐藏/显示消息”按钮始终显示其悬浮提示",
     "MC-241800": "无法在世界创建时更改游戏规则的数字",
     "MC-241728": "将世界转换到1.18-pre2后洞穴生成过于频繁",
     "MC-241933": "孢子花、洞穴藤蔓和滴水石锥生成时陷进洞穴的地表里",
