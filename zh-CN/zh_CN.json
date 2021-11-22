@@ -1,4 +1,5 @@
 {
+    "MC-241941": "Nether bedrock roof can generate exposed",
     "MC-242022": "Game crashes when loading new chunks (Exception generating new chunk, caused by ArrayIndexOutOfBoundsException: Index 268435455 out of bounds for length 32)",
     "MC-241630": "Temperatures don't properly get converted",
     "MC-241566": "在原始云杉针叶林中，苔石堆呈网格状生成",
