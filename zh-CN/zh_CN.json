@@ -1,4 +1,6 @@
 {
+    "MC-242016": "Dripstone doesn't generate at high y values",
+    "MC-241820": "Ocean Monuments upgraded from previous versions appears to have the bounding box shifted to chunk borders north and west",
     "MC-242479": "Pointed dripstone makes holes in lava pools",
     "MC-239900": "Upgrading custom world to 21w43a ignores min_y and height",
     "MC-241767": "Breaking a vine or ladder block while the player is climbing it while sneaking allows the player to hover in place indefinetly ",
