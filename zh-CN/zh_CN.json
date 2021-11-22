@@ -1,4 +1,7 @@
 {
+    "MC-241767": "Breaking a vine or ladder block while the player is climbing it while sneaking allows the player to hover in place indefinetly ",
+    "MC-236947": "Signature attribute is stripped from java records",
+    "MC-239880": "Some chunks have missing blocks below 0",
     "MC-238959": "Falling block placing at Y=1 changes into dropped item when landing on Y=0",
     "MC-241263": "Off-heap memory leak",
     "MC-241830": "Windswept savannas in amplified worlds have the incorrect surface blocks",
