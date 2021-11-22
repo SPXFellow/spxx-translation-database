@@ -1,4 +1,5 @@
 {
+    "MC-238959": "Falling block placing at Y=1 changes into dropped item when landing on Y=0",
     "MC-241263": "Off-heap memory leak",
     "MC-241830": "Windswept savannas in amplified worlds have the incorrect surface blocks",
     "MC-238930": "Soul Sand and Soul Soil generate below the nether ceiling",
