@@ -1,4 +1,5 @@
 {
+    "MC-242546": "When optimizing 1.17 world in 1.18, old \"Level\" Compound is not deleted, resulting in increased world size",
     "MC-242016": "滴水石锥不会生成在y轴高处",
     "MC-241820": "Ocean Monuments upgraded from previous versions appears to have the bounding box shifted to chunk borders north and west",
     "MC-242479": "Pointed dripstone makes holes in lava pools",
