@@ -1,4 +1,6 @@
 {
+    "MC-242068": "Dirt part of the Dirt Path texture is one pixel too low",
+    "MC-218592": "杜鹃树可以在湖中生成（甚至完全浸没在水中）",
     "MC-241327": "Render Distance 13 at the world border causes excessive lag",
     "MC-241277": "Server can't generate amplified/large biomes worlds from scratch",
     "MC-242546": "When optimizing 1.17 world in 1.18, old \"Level\" Compound is not deleted, resulting in increased world size",
@@ -747,7 +749,6 @@
     "MC-218587": "避雷针仍然不能被充水",
     "MC-218588": "裂纹深板岩砖和裂纹深板岩瓦在创造模式物品栏的位置不正确",
     "MC-218590": "键名为“commands.give.failed.toomanyitems”的本地化信息并不会翻译物品的名称",
-    "MC-218592": "杜鹃树可以在湖中生成（甚至完全浸没在水中）",
     "MC-218594": "调式区块的边界不会被正确渲染",
     "MC-218596": "调试盘会变成全黑状态",
     "MC-218597": "水下的雾状效果消失了",
