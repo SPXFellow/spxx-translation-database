@@ -1,4 +1,5 @@
 {
+    "MC-227537": "Crash: java.lang.NullPointerException: Cannot invoke \"it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)\" because \"$$4\" is null",
     "MC-236783": "Parity Issue: Ravagers still attack baby villagers in Java Edition",
     "MC-241991": "Game freezes without crash logs when upgrading from 1.12.2 to 1.18 pre-5",
     "MC-230866": "Eating whilst traveling through a Nether portal prints error in game log",
