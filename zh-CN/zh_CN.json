@@ -1,4 +1,5 @@
 {
+    "MC-241991": "Game freezes without crash logs when upgrading from 1.12.2 to 1.18 pre-5",
     "MC-230866": "Eating whilst traveling through a Nether portal prints error in game log",
     "MC-242375": "Cats no longer scare phantoms away",
     "MC-242068": "Dirt part of the Dirt Path texture is one pixel too low",
