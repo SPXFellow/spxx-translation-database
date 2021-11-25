@@ -1,5 +1,5 @@
 {
-    "MC-242708": "Moving through blocks in spectator mode causes a memory leak",
+    "MC-242708": "在旁观模式下穿过方块会导致内存泄漏",
     "MC-242647": "方块寻找方块状态时崩溃：Missing Palette entry for index",
     "MC-227537": "崩溃：java.lang.NullPointerException: Cannot invoke \"it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)\" because \"$$4\" is null",
     "MC-236783": "一致性问题：Java版中劫掠兽依然攻击幼年村民",
