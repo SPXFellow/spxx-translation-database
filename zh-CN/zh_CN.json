@@ -1,4 +1,5 @@
 {
+    "MC-243216": "Chunk render distance on servers seems shorter than in 1.17.1",
     "MC-242729": "Observer activating without any updates nearby, caused by /clone",
     "MC-219507": "Beacon's power reverts back to previous one on world reload",
     "MC-242859": "Blocks losing the loot inside them after dying",
