@@ -1,4 +1,5 @@
 {
+    "MC-244190": "Entity fog doesn't match the fog of blocks around them",
     "MC-243796": "Random non fatal exceptions in console: Failed to store chunk ConcurrentModificationException",
     "MC-229321": "Bees inside of bee hives / nests sometimes despawn when the world is reloaded",
     "MC-243216": "服务器上的区块渲染距离似乎比1.17.1版本中的近一些",
