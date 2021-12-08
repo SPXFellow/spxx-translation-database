@@ -1,4 +1,5 @@
 {
+    "MC-245010": "Sometimes certain chunks will never load",
     "MC-244190": "Entity fog doesn't match the fog of blocks around them",
     "MC-243796": "Random non fatal exceptions in console: Failed to store chunk ConcurrentModificationException",
     "MC-229321": "重新载入世界后，蜂箱/蜂巢内的蜜蜂偶尔会消失",
