@@ -1,7 +1,7 @@
 {
     "MC-244190": "Entity fog doesn't match the fog of blocks around them",
     "MC-243796": "Random non fatal exceptions in console: Failed to store chunk ConcurrentModificationException",
-    "MC-229321": "Bees inside of bee hives / nests sometimes despawn when the world is reloaded",
+    "MC-229321": "重新载入世界后，蜂箱/蜂巢内的蜜蜂偶尔会消失",
     "MC-243216": "服务器上的区块渲染距离似乎比1.17.1版本中的近一些",
     "MC-242729": "/clone导致周围没有更新时侦测器被触发",
     "MC-219507": "信标的能量在世界重载时回退到先前的设置",
