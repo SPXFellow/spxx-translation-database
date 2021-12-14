@@ -1,5 +1,5 @@
 {
-    "MC-242709": "Pointed dripstone clusters create holes in the ground when generating in aquifers",
+    "MC-242709": "滴水石锥群在含水层中生成时会使地上形成凹坑",
     "MC-243489": "控制台输出大量「跳过已移除玩家的更新」信息",
     "MC-237262": "崩溃报告和刻分析会造成日志中出现大量的「无法找到_的模块信息」",
     "MC-238114": "草甸的树有时候不会生成蜂巢",
