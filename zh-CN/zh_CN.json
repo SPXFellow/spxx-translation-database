@@ -1,4 +1,5 @@
 {
+    "MC-243245": "Unable to label \"What is Realms?\" button using tab",
     "MC-239031": "区块渲染问题自21w41a起一直存在",
     "MC-240559": "JFR JSON报告中的 `bytesPerSecond` 计算错误",
     "MC-236693": "“按键控制”子菜单中的 [完成] 按钮太靠下了",
