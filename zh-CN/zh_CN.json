@@ -1,5 +1,5 @@
 {
-    "MC-245406": "Memory leak leading to crashes when loading pre-1.18 chunks",
+    "MC-245406": "加载1.18预发布版中的区块时发生内存泄漏，导致崩溃",
     "MC-243245": "Unable to label \"What is Realms?\" button using tab",
     "MC-239031": "区块渲染问题自21w41a起一直存在",
     "MC-240559": "JFR JSON报告中的 `bytesPerSecond` 计算错误",
