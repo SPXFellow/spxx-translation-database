@@ -1,5 +1,5 @@
 {
-    "MC-239031": "Glitchy chunk rendering persists since 21w41a",
+    "MC-239031": "区块渲染问题自21w41a起一直存在",
     "MC-240559": "JFR JSON报告中的 `bytesPerSecond` 计算错误",
     "MC-236693": "“按键控制”子菜单中的 [完成] 按钮太靠下了",
     "MC-242331": "实体先于区块而显示",
