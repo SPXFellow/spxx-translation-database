@@ -1,6 +1,7 @@
 {
-    "MC-245416": "Baby turtles suffocate on soul sand",
-    "MC-242543": "Suffocation always uses the entity head center position for predicate and collision box",
+    "MC-243619": "Raid waves can spawn outside of simulation distance",
+    "MC-245416": "幼年海龟在灵魂沙上窒息",
+    "MC-242543": "窒息的谓词和碰撞箱判定总是使用实体头部中心坐标",
     "MC-245347": "使用鞘翅滑翔撞击浮空的流动的水有时不会重置摔落伤害",
     "MC-229313": "一些消除摔落伤害的方块在部分高度下不能可靠保护生物",
     "MC-185695": "缠怨藤不能可靠地保护玩家免除摔落伤害",
