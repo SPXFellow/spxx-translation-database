@@ -1,7 +1,9 @@
 {
-    "MC-245347": "Flying with an elytra and colliding with floating flowing water sometimes doesn't reset fall damage",
-    "MC-229313": "Some blocks that negate fall damage don't reliably protect mobs at certain heights",
-    "MC-185695": "Twisting vines don't reliably protect the player from fall damage",
+    "MC-245416": "Baby turtles suffocate on soul sand",
+    "MC-242543": "Suffocation always uses the entity head center position for predicate and collision box",
+    "MC-245347": "使用鞘翅滑翔撞击浮空的流动的水有时不会重置摔落伤害",
+    "MC-229313": "一些消除摔落伤害的方块在部分高度下不能可靠保护生物",
+    "MC-185695": "缠怨藤不能可靠地保护玩家免除摔落伤害",
     "MC-239436": "超长洞穴中出现损坏的方块剔除面",
     "MC-245406": "加载1.18预发布版中的区块时发生内存泄漏，导致崩溃",
     "MC-243245": "无法使用Tab键定位到“Realm是什么？”按钮",
