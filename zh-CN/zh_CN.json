@@ -1,4 +1,5 @@
 {
+    "MC-233599": "/spreadplayers command does not allow for negative \"under\" values",
     "MC-245345": "重新加载区块时崩溃",
     "MC-243619": "袭击队伍可以在模拟距离外生成",
     "MC-245416": "幼年海龟在灵魂沙上窒息",
