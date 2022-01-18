@@ -1,4 +1,5 @@
 {
+    "MC-235574": "Game crashes when replacing a block with a wall with blockstate up:false",
     "MC-243196": "Driver view angle resets when another player enters or exits boat",
     "MC-233599": "/spreadplayers command does not allow for negative \"under\" values",
     "MC-245345": "重新加载区块时崩溃",
