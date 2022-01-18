@@ -1,6 +1,6 @@
 {
-    "MC-235574": "Game crashes when replacing a block with a wall with blockstate up:false",
-    "MC-243196": "Driver view angle resets when another player enters or exits boat",
+    "MC-235574": "在用方块状态为 up:false 的墙来替换方块时，游戏崩溃",
+    "MC-243196": "当其他玩家上/下船时，驾船者的视角会重置",
     "MC-233599": "/spreadplayers command does not allow for negative \"under\" values",
     "MC-245345": "重新加载区块时崩溃",
     "MC-243619": "袭击队伍可以在模拟距离外生成",
