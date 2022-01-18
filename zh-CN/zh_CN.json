@@ -1,4 +1,9 @@
 {
+    "MC-223834": "Pointed dripstone can form below some non-full (non-solid) blocks",
+    "MC-135989": "Kicked for flying using trident with riptide enchantment",
+    "MC-111082": "Riding a boat with NoGravity on a server without flight enabled causes kick for flying",
+    "MC-98727": "Server: Entering a boat/minecart/horse while going upwards from jumping causes a kick for flying",
+    "MC-83938": "Standing on entities with solid collision boxes (shulkers, boats) kicks you for flying",
     "MC-235574": "在用方块状态为 up:false 的墙来替换方块时，游戏崩溃",
     "MC-243196": "当其他玩家上/下船时，驾船者的视角会重置",
     "MC-233599": "/spreadplayers command does not allow for negative \"under\" values",
