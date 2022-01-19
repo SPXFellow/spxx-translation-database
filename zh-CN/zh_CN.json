@@ -1,4 +1,5 @@
 {
+    "MC-241205": "Sandstone generates 2-5 layers instead of 3-8 layers",
     "MC-226359": "零宽不连字显示成了一个写有“ZWNJ”的框",
     "MC-242010": "雪块和细雪没有 `#azalea_root_replaceable` 标签，导致缠根泥土无法将其替换",
     "MC-241152": "细雪拥有 `#goat_spawnable_on` 方块标签，导致山羊可在其上方生成",
