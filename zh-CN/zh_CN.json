@@ -1,4 +1,7 @@
 {
+    "MC-242010": "Snow Blocks, Powder Snow aren't a part of #azalea_root_replaceable / Rooted dirt can't replace Snow Blocks & Powder Snow",
+    "MC-241152": "Powder snow is part of #goat_spawnable_on block tag / Goats can spawn on powder snow",
+    "MC-238866": "Snow / powder snow can generate underwater",
     "MC-244174": "虚空、失明、水、岩浆和细雪的迷雾效果是圆柱形的",
     "MC-230905": "天空背景在某些迷雾减小的情况下可见",
     "MC-205232": "带有失明效果的玩家在细雪中可以看得更远",
