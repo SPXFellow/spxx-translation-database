@@ -1,4 +1,9 @@
 {
+    "MC-244174": "Fog effect for void, blindness, water, lava & powder snow is cylindrical",
+    "MC-230905": "Sky background is visible on certain reduced fog situations",
+    "MC-205232": "Player can see farther in powder snow with blindness effect",
+    "MC-167763": "Blindness does not work underwater for certain graphics cards",
+    "MC-126772": "Underwater fog doesn't hide edge of chunks correctly at low render distances",
     "MC-223834": "Pointed dripstone can form below some non-full (non-solid) blocks",
     "MC-135989": "Kicked for flying using trident with riptide enchantment",
     "MC-111082": "Riding a boat with NoGravity on a server without flight enabled causes kick for flying",
