@@ -1,6 +1,10 @@
 {
-    "MC-244164": "Upgrade to 1.18 makes chests invisible and empty",
-    "MC-243015": "Falling blocks at chunk generation cause tons of entities and (client-side) lag",
+    "MC-247415": "Game crashes if coral related block tags are empty during coral reef generation",
+    "MC-246464": "Game crashes when dispensing a bone meal in a warm ocean and there is a block with no facing block state in #wall_corals",
+    "MC-246449": "Game crashes when villager tries to open non-door in #wooden_doors tag",
+    "MC-246445": "Game crashes when dispenser with shears is used on non-beehive block in #beehives tag",
+    "MC-244164": "升级到 1.18 后，箱子变得不可见且内容物被清空",
+    "MC-243015": "区块生成时产生的掉落的方块会产生大量实体并导致（客户端）卡顿",
     "MC-185545": "Knockback Resistance on players is still affected by chance",
     "MC-241205": "世界会生成 2 至 5 层砂岩，而非 3 至 8 层",
     "MC-226359": "零宽不连字显示成了一个写有“ZWNJ”的框",
