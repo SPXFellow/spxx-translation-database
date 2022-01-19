@@ -1,4 +1,5 @@
 {
+    "MC-226359": "The Zero-Width Non-Joiner shows as a \"ZWNJ\" box",
     "MC-242010": "雪块和细雪没有 `#azalea_root_replaceable` 标签，导致缠根泥土无法将其替换",
     "MC-241152": "细雪拥有 `#goat_spawnable_on block` 标签，导致山羊可在其上方生成",
     "MC-238866": "雪和细雪可以在水下生成",
