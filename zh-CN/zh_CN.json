@@ -1,4 +1,5 @@
 {
+    "MC-243015": "Falling blocks at chunk generation cause tons of entities and (client-side) lag",
     "MC-185545": "Knockback Resistance on players is still affected by chance",
     "MC-241205": "世界会生成 2 至 5 层砂岩，而非 3 至 8 层",
     "MC-226359": "零宽不连字显示成了一个写有“ZWNJ”的框",
