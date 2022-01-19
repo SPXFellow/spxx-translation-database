@@ -1,6 +1,6 @@
 {
-    "MC-244174": "Fog effect for void, blindness, water, lava & powder snow is cylindrical",
-    "MC-230905": "Sky background is visible on certain reduced fog situations",
+    "MC-244174": "虚空、失明、水、岩浆和细雪的迷雾效果是圆柱形的",
+    "MC-230905": "天空背景在某些迷雾减小的情况下可见",
     "MC-205232": "Player can see farther in powder snow with blindness effect",
     "MC-167763": "Blindness does not work underwater for certain graphics cards",
     "MC-126772": "Underwater fog doesn't hide edge of chunks correctly at low render distances",
@@ -20,7 +20,7 @@
     "MC-229313": "一些消除摔落伤害的方块在部分高度下不能可靠保护生物",
     "MC-185695": "缠怨藤不能可靠地保护玩家免除摔落伤害",
     "MC-239436": "超长洞穴中出现损坏的方块剔除面",
-    "MC-245406": "加载1.18预发布版中的区块时发生内存泄漏，导致崩溃",
+    "MC-245406": "加载1.18之前的区块时发生内存泄漏，导致崩溃",
     "MC-243245": "无法使用Tab键定位到 [“Realms”是什么？] 按钮",
     "MC-239031": "区块渲染问题自21w41a起一直存在",
     "MC-240559": "JFR JSON报告中的 `bytesPerSecond` 计算错误",
