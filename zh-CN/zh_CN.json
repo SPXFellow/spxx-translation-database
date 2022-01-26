@@ -1,4 +1,6 @@
 {
+    "MC-70848": "Water flows up",
+    "MC-4533": "Water graphical glitch when connecting diagonally",
     "MC-248195": "Typing /placefeature crashes client when connected to a server",
     "MC-247415": "若珊瑚礁生成过程中，珊瑚相关的方块标签为空，游戏会崩溃",
     "MC-246464": "在暖水海洋中使用发射器发射骨粉时，若未面向带有 `#wall_corals` 标签的方块，游戏会崩溃",
