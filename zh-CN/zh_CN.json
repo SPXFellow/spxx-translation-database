@@ -1,7 +1,7 @@
 {
     "MC-70848": "水往高处流",
-    "MC-4533": "Water graphical glitch when connecting diagonally",
-    "MC-248195": "Typing /placefeature crashes client when connected to a server",
+    "MC-4533": "水的图形效果在遇对角连接时会出现问题",
+    "MC-248195": "在连接到服务器时使用 `/placefeature` 命令会导致客户端崩溃",
     "MC-247415": "若珊瑚礁生成过程中，珊瑚相关的方块标签为空，游戏会崩溃",
     "MC-246464": "在暖水海洋中使用发射器发射骨粉时，若未面向带有 `#wall_corals` 标签的方块，游戏会崩溃",
     "MC-246449": "村民尝试打开带 `#wooden_doors` 标签的非门方块时，游戏崩溃",
