@@ -1,7 +1,7 @@
 {
-    "MC-247636": "Deleting a world no longer logs that a world is being deleted",
-    "MC-245772": "Outdated chests' loot tables get deleted when updating to 1.18.1",
-    "MC-243152": "Slimes spawn in \"Redstone Ready\" superflat worlds",
+    "MC-247636": "删除世界操作不再会被记录",
+    "MC-245772": "升级到 1.18.1 后，过期的箱子战利品表被删除",
+    "MC-243152": "“红石俱备”超平坦世界中生成史莱姆",
     "MC-248225": "Incorrect BlockPos getSquaredDistance() calculation",
     "MC-248181": "玩家在某些高度下会消失",
     "MC-216589": "废弃矿井有时不删除滴水石",
