@@ -1,4 +1,5 @@
 {
+    "MC-248225": "Incorrect BlockPos getSquaredDistance() calculation",
     "MC-248181": "玩家在某些高度下会消失",
     "MC-216589": "废弃矿井有时不删除滴水石",
     "MC-216004": "废弃矿井的木柱子会在滴水石锥上生成",
