@@ -1,4 +1,5 @@
 {
+    "MC-105317": "Structure blocks do not rotate entities correctly when loading",
     "MC-247636": "删除世界操作不再会被记录",
     "MC-245772": "升级到 1.18.1 后，过期的箱子战利品表被删除",
     "MC-243152": "“红石俱备”超平坦世界中生成史莱姆",
