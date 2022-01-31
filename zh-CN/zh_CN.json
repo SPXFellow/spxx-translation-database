@@ -1,5 +1,7 @@
 {
-    "MC-236775": "Biome Selector is disordered in other languages",
+    "MC-248230": "Players get stuck on the \"Loading terrain...\" screen after rejoining the world whilst above or below the build limit",
+    "MC-248189": "Teleporting below level 0 from the overworld to another dimension freezes the game on the loading screen until player dies",
+    "MC-236775": "群系选择器在其他语言中乱序",
     "MC-105317": "结构方块在加载时不能正确旋转实体",
     "MC-247636": "删除世界操作不再会被记录",
     "MC-245772": "升级到 1.18.1 后，过期的箱子战利品表被删除",
