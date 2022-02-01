@@ -1,4 +1,5 @@
 {
+    "MC-245910": "Campfires and hoppers cause constant chunk saving",
     "MC-248230": "Players get stuck on the \"Loading terrain...\" screen after rejoining the world whilst above or below the build limit",
     "MC-248189": "从主世界 0 层以下传送到其他维度会导致游戏冻结在加载屏幕上，直至玩家死亡",
     "MC-236775": "群系选择器在其他语言中乱序",
