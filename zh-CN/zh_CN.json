@@ -1,6 +1,6 @@
 {
     "MC-245910": "营火和漏斗使区块不断地保存",
-    "MC-248230": "Players get stuck on the \"Loading terrain...\" screen after rejoining the world whilst above or below the build limit",
+    "MC-248230": "若玩家在高于或低于建筑高度限制处退出世界，则会在重新进入时停留在“加载地形中…”屏幕",
     "MC-248189": "从主世界 0 层以下传送到其他维度会导致游戏冻结在加载屏幕上，直至玩家死亡",
     "MC-236775": "群系选择器在其他语言中乱序",
     "MC-105317": "结构方块在加载时不能正确旋转实体",
