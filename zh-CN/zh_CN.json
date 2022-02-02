@@ -1,6 +1,6 @@
 {
     "MC-248210": "Harsh chunk borders appear when upgrading to 22w03a",
-    "MC-232290": "Foxes will lay down in powder snow and not try to escape even when taking damage",
+    "MC-232290": "狐狸在细雪中卧倒，即使受到伤害也不会尝试逃离",
     "MC-245910": "营火和漏斗使区块不断地保存",
     "MC-248230": "若玩家在高于或低于建筑高度限制处退出世界，则会在重新进入时停留在“加载地形中…”屏幕",
     "MC-248189": "从主世界 0 层以下传送到其他维度会导致游戏冻结在加载屏幕上，直至玩家死亡",
