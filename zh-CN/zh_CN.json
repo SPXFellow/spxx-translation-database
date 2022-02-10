@@ -1,4 +1,5 @@
 {
+    "MC-248523": "The game crashes when attempting to open the beacon GUI",
     "MC-105317": "结构方块在加载时不能正确旋转实体",
     "MC-248106": "鹦鹉在玩家在使用激流三叉戟滑翔时死亡",
     "MC-245937": "使用烟花火箭向上加速时，烟花粒子不停闪烁",
