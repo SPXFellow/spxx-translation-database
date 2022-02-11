@@ -1,4 +1,8 @@
 {
+    "MC-246465": "Lava can burn, damage, and destroy entities client-side and lead to de-sync",
+    "MC-245857": "Enchanting table registers block diagonally above the bookshelves as blocking said bookshelf",
+    "MC-244683": "Tropical Fish in lush caves spawn in bubble columns",
+    "MC-238977": "Glow squids spawn in villager farms and wells in superflat worlds",
     "MC-248095": "激活的循环型命令方块在世界转换到 1.18 版本后停止运行",
     "MC-248523": "尝试打开信标 GUI 时游戏崩溃",
     "MC-105317": "结构方块在加载时不能正确旋转实体",
