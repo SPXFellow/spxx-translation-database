@@ -1,5 +1,5 @@
 {
-    "MC-248095": "Active repeating command blocks stop running after world conversion to 1.18",
+    "MC-248095": "激活的循环型命令方块在世界转换到 1.18 版本后停止运行",
     "MC-248523": "尝试打开信标 GUI 时游戏崩溃",
     "MC-105317": "结构方块在加载时不能正确旋转实体",
     "MC-248106": "鹦鹉在玩家在使用激流三叉戟滑翔时死亡",
