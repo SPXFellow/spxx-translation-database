@@ -1,4 +1,5 @@
 {
+    "MC-245925": "Falling block visual glitch when dying with doImmediateRespawn",
     "MC-246465": "熔岩可在客户端点燃、损伤及摧毁实体并导致游戏不同步",
     "MC-245857": "Enchanting table registers block diagonally above the bookshelves as blocking said bookshelf",
     "MC-244683": "热带鱼可在繁茂洞穴中的气泡柱里生成",
