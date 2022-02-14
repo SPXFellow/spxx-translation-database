@@ -1,6 +1,6 @@
 {
-    "MC-243190": "Rooted dirt can replace cave vines",
-    "MC-245925": "Falling block visual glitch when dying with doImmediateRespawn",
+    "MC-243190": "缠根泥土会替换掉洞穴藤蔓",
+    "MC-245925": "在启用 `doImmediateRespawn` 游戏规则的情况下死亡时，下落的方块出现视觉故障",
     "MC-246465": "熔岩可在客户端点燃、损伤及摧毁实体并导致游戏不同步",
     "MC-245857": "Enchanting table registers block diagonally above the bookshelves as blocking said bookshelf",
     "MC-244683": "热带鱼可在繁茂洞穴中的气泡柱里生成",
