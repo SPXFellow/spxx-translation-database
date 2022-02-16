@@ -1,4 +1,5 @@
 {
+    "MC-237110": "Grass blocks can generate underwater",
     "MC-243190": "缠根泥土会替换掉洞穴藤蔓",
     "MC-245925": "在启用 `doImmediateRespawn` 游戏规则的情况下死亡时，下落的方块出现视觉效果问题",
     "MC-246465": "熔岩可在客户端点燃、损伤及摧毁实体并导致游戏不同步",
