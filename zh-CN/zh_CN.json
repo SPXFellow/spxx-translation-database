@@ -1,7 +1,8 @@
 {
-    "MC-241288": "Support for custom structures has been removed",
+    "MC-248532": "Elytra firework particle spawns on the wrong hand when dual wielding fireworks",
+    "MC-241288": "对自定义结构的支持被移除了",
     "MC-210612": "Strongholds do not generate in certain customized worlds despite /locate saying otherwise",
-    "MC-179315": "Ruined portals never generate in superflat worlds by default",
+    "MC-179315": "废弃传送门默认不在超平坦世界中生成",
     "MC-3524": "Structure related mobs do not spawn in flat type world generation",
     "MC-146854": "Player movement favors x axis when in a corner",
     "MC-244137": "The option \"level-seed\" is not present in server.properties by default",
