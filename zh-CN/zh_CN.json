@@ -1,5 +1,5 @@
 {
-    "MC-243766": "Not able to label \"Copyright Mojang AB. Do not distribute\" using Tab key",
+    "MC-243766": "无法使用 Tab 键定位到“Copyright Mojang AB. Do not distribute”",
     "MC-248532": "双持烟花火箭推进鞘翅时，粒子效果会生成在另一只手上",
     "MC-241288": "对自定义结构的支持被移除了",
     "MC-210612": "在某些自定义世界中不会生成要塞，尽管 /locate 会显示其位置",
