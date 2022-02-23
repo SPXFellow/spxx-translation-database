@@ -1,5 +1,5 @@
 {
-    "MC-248636": "The game output and server console are logged and spammed with \"Creating a MIN function between two non-overlapping inputs\" when joining or creating a world",
+    "MC-248636": "在加入或创建世界时，游戏输出、服务器控制台反复记录并警告 `Creating a MIN function between two non-overlapping inputs`",
     "MC-248680": "在超平坦世界使用 locate 命令寻找掠夺者前哨站时世界冻结",
     "MC-248539": "/locate 命令在超平坦世界无法正常工作",
     "MC-248717": "下界要塞的生物会在下界要塞之外生成",
