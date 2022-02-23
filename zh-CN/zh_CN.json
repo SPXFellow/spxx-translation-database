@@ -1,4 +1,5 @@
 {
+    "MC-248748": "Explorer maps leading to custom structures can cause the server to hang",
     "MC-248637": "Crash when opening singleplayer screen due to StackOverflowError in net.minecraft.nbt.CompoundTag$1.skip",
     "MC-218739": "发光浆果和发光地衣生成后不会跨区块更新光照",
     "MC-244772": "无法通过双击来加入 Realm",
