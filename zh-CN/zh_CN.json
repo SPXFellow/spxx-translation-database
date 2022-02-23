@@ -1,4 +1,5 @@
 {
+    "MC-248637": "Crash when opening singleplayer screen due to StackOverflowError in net.minecraft.nbt.CompoundTag$1.skip",
     "MC-218739": "Glow berries and glow lichen generation does not cause light updates across chunk borders",
     "MC-244772": "Can't double click to join a realm",
     "MC-248636": "在加入或创建世界时，游戏输出、服务器控制台反复记录并警告 `Creating a MIN function between two non-overlapping inputs`",
