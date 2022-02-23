@@ -1,6 +1,6 @@
 {
-    "MC-248680": "The world freezes on superflat when using the locate command to find a pillager outpost",
-    "MC-248539": "/locate command not working properly in Flat Worlds",
+    "MC-248680": "在超平坦世界使用 locate 命令寻找掠夺者前哨站时世界冻结",
+    "MC-248539": "/locate 命令在超平坦世界无法正常工作",
     "MC-248717": "下界要塞的生物会在下界要塞之外生成",
     "MC-248694": "空的生成器设置字符串会使服务器在启动时发生崩溃（在之前的版本没有问题）",
     "MC-248681": "不使用预设就无法创建超平坦世界",
