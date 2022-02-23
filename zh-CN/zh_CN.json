@@ -1,6 +1,6 @@
 {
-    "MC-248748": "Explorer maps leading to custom structures can cause the server to hang",
-    "MC-248637": "Crash when opening singleplayer screen due to StackOverflowError in net.minecraft.nbt.CompoundTag$1.skip",
+    "MC-248748": "指向自定义结构的探险家地图会导致服务器进程挂起",
+    "MC-248637": "打开担任游戏界面时在 net.minecraft.nbt.CompoundTag$1.skip 出现 StackOverflowError",
     "MC-218739": "发光浆果和发光地衣生成后不会跨区块更新光照",
     "MC-244772": "无法通过双击来加入 Realm",
     "MC-248636": "在加入或创建世界时，游戏输出、服务器控制台反复记录并警告 `Creating a MIN function between two non-overlapping inputs`",
