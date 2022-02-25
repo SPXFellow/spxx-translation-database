@@ -1,4 +1,6 @@
 {
+    "MC-248764": "Some worldgen datapacks can kill the internal server (possibly related to density functions)",
+    "MC-244682": "Some custom dimensions settings can cause the server to stop running, but not crash",
     "MC-248748": "指向自定义结构的探险家地图会导致服务器进程挂起",
     "MC-248637": "打开担任游戏界面时在 net.minecraft.nbt.CompoundTag$1.skip 出现 StackOverflowError",
     "MC-218739": "发光浆果和发光地衣生成后不会跨区块更新光照",
