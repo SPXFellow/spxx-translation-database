@@ -1,5 +1,5 @@
 {
-    "MC-109055": "Large Cocoa Pod texture is inconsistent",
+    "MC-109055": "大可可果的纹理宽度不一致",
     "MC-248814": "Unknown structure start: minecraft:ruined_portal_standard",
     "MC-248764": "一些世界生成数据包可能终止内部服务器（可能与密度函数有关）",
     "MC-244682": "一些自定义维度设置会导致服务器停止运行，但不会导致崩溃",
