@@ -29,7 +29,7 @@ const added = {}
 for (const i of searchResults.issues) {
   added[i.key] = {
     message: i.fields.summary,
-    description: i.fields.description,
+    description: `=>${i.key}\n${i.fields.description}`,
   }
 }
 const newTr = Object.assign(added, tr)
