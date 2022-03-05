@@ -13,7 +13,7 @@ fs.writeFileSync('./lastRun', new Buffer.from(Date.now().toString()))
 // https://github.com/mojira/mojira-discord-bot/blob/master/src/tasks/FilterFeedTask.ts
 const searchResults = await mojira.issueSearch.searchForIssuesUsingJql({
   jql: jql.replace('lastRun', lastRun),
-  fields: ['key', 'summary'],
+  fields: ['key', 'summary', 'description'],
 })
 
 console.log(searchResults)
@@ -21,13 +21,16 @@ console.log(searchResults)
 if ( !searchResults.issues || searchResults.issues.length === 0 ) {
   console.log('No new issues found.')
   console.log('::set-output name=new-issue::no')
-  process.exit(0) 
+  process.exit(0)
 }
 
 const tr = JSON.parse(fs.readFileSync('./en.json').toString())
 const added = {}
 for (const i of searchResults.issues) {
-  added[i.key] = i.fields.summary
+  added[i.key] = {
+    message: i.fields.summary,
+    description: `=>${i.key}\n${i.fields.description}`,
+  }
 }
 const newTr = Object.assign(added, tr)
 console.log(newTr)
