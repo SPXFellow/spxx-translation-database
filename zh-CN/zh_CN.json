@@ -4,7 +4,7 @@
     "MC-248764": "一些世界生成数据包可能终止内部服务器（可能与密度函数有关）",
     "MC-244682": "一些自定义维度设置会导致服务器停止运行，但不会导致崩溃",
     "MC-248748": "指向自定义结构的探险家地图会导致服务器进程挂起",
-    "MC-248637": "打开担任游戏界面时在 net.minecraft.nbt.CompoundTag$1.skip 出现 StackOverflowError",
+    "MC-248637": "打开单人游戏界面时在 net.minecraft.nbt.CompoundTag$1.skip 出现 StackOverflowError",
     "MC-218739": "发光浆果和发光地衣生成后不会跨区块更新光照",
     "MC-244772": "无法通过双击来加入 Realm",
     "MC-248636": "在加入或创建世界时，游戏输出、服务器控制台反复记录并警告 `Creating a MIN function between two non-overlapping inputs`",
