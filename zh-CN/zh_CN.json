@@ -5,7 +5,7 @@
     "MC-221639": "光源方块能被末影龙或凋零破坏",
     "MC-165990": "Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free",
     "MC-165036": "Boss bars with the notched style are rendered incorrectly if more than one boss bar is active",
-    "MC-158668": "Vex continue to attack their target after it has been killed",
+    "MC-158668": "恼鬼会持续攻击已经死亡的目标",
     "MC-106510": "结构方块界面容不下过长（多于 64 字符）的结构名称",
     "MC-238070": "酿造台支架和基座没有连在一起",
     "MC-230603": "狼的耳朵和腿的材质没有镜像",
