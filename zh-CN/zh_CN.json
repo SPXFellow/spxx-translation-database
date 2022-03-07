@@ -1,4 +1,5 @@
 {
+    "MC-248936": "Minecraft icon on MacOS is not showing correct icon",
     "MC-238807": "\"Out of memory!\" message is untranslatable",
     "MC-225837": "The word \"Recipe\" is spelled as \"Reciple\" within the \"narration.recipe\" string",
     "MC-221639": "Light Block isn't Dragon or Wither Immune",
