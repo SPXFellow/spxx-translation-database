@@ -1,4 +1,11 @@
 {
+    "MC-238807": "\"Out of memory!\" message is untranslatable",
+    "MC-225837": "The word \"Recipe\" is spelled as \"Reciple\" within the \"narration.recipe\" string",
+    "MC-221639": "Light Block isn't Dragon or Wither Immune",
+    "MC-165990": "Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free",
+    "MC-165036": "Boss bars with the notched style are rendered incorrectly if more than one boss bar is active",
+    "MC-158668": "Vex continue to attack their target after it has been killed",
+    "MC-106510": "Long structure names (over 64 characters) do not fit in the Structure Block GUI",
     "MC-238070": "酿造台支架和基座没有连在一起",
     "MC-230603": "狼的耳朵和腿的材质没有镜像",
     "MC-219852": "smoker_bottom纹理边角的旋转角度不正确",
