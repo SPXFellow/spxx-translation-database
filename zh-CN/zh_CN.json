@@ -1,10 +1,10 @@
 {
-    "MC-248936": "Minecraft icon on MacOS is not showing correct icon",
+    "MC-248936": "Minecraft 图标在 MacOS 上的显示不正确",
     "MC-238807": "无法翻译“内存不足！”界面",
     "MC-225837": "“narration.recipe”字符串中“Recipe”被拼成了“Reciple”",
     "MC-221639": "光源方块能被末影龙或凋零破坏",
     "MC-165990": "Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free",
-    "MC-165036": "Boss bars with the notched style are rendered incorrectly if more than one boss bar is active",
+    "MC-165036": "使用了 `notched` 风格的 Boss 栏在有多个 Boss 栏活跃时渲染不正确",
     "MC-158668": "恼鬼会持续攻击已经死亡的目标",
     "MC-106510": "结构方块界面容不下过长（多于 64 字符）的结构名称",
     "MC-238070": "酿造台支架和基座没有连在一起",
