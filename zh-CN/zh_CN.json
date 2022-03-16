@@ -1,4 +1,5 @@
 {
+    "MC-235964": "Crash on \"Saving world\" when F3+L profiling is active - java.lang.NullPointerException: Cannot read field \"f\" because \"this.D\" is null",
     "MC-219875": "重复取集液体可能导致不同步",
     "MC-183309": "爬行时客户端与服务端的玩家挖掘范围不同",
     "MC-195717": "自定义维度 JSON 文件中种子为必填项",
