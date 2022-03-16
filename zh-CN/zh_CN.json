@@ -1,4 +1,5 @@
 {
+    "MC-195717": "Custom Dimensions JSON Requires Seed",
     "MC-248936": "Minecraft 图标在 MacOS 上的显示不正确",
     "MC-238807": "无法翻译“内存不足！”界面",
     "MC-225837": "“narration.recipe”字符串中“Recipe”被拼成了“Reciple”",
