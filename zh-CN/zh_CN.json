@@ -1,7 +1,7 @@
 {
-    "MC-219875": "You can cause a desync when repeatably picking up liquids",
-    "MC-183309": "Player reach is different for client and server when crawling",
-    "MC-195717": "Custom Dimensions JSON Requires Seed",
+    "MC-219875": "重复取集液体可能导致不同步",
+    "MC-183309": "爬行时客户端与服务端的玩家挖掘范围不同",
+    "MC-195717": "自定义维度 JSON 文件中种子为必填项",
     "MC-248936": "Minecraft 图标在 MacOS 上的显示不正确",
     "MC-238807": "无法翻译“内存不足！”界面",
     "MC-225837": "“narration.recipe”字符串中“Recipe”被拼成了“Reciple”",
