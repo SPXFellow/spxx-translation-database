@@ -1,4 +1,6 @@
 {
+    "MC-219875": "You can cause a desync when repeatably picking up liquids",
+    "MC-183309": "Player reach is different for client and server when crawling",
     "MC-195717": "Custom Dimensions JSON Requires Seed",
     "MC-248936": "Minecraft 图标在 MacOS 上的显示不正确",
     "MC-238807": "无法翻译“内存不足！”界面",
