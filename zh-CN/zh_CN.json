@@ -1,4 +1,6 @@
 {
+    "MC-177321": "Soul sand doesn't have smooth lightning/ambient occlusion",
+    "MC-165503": "End portal frames, doors and fence gates (between walls) aren't affected by ambient occlusion/smooth lighting",
     "MC-249134": "Subtitle \"Frog hatches\" should be \"Tadpole hatches\"",
     "MC-249112": "进入末地后不会触发末影龙的战斗状态",
     "MC-235964": "F3+L 性能分析时，游戏会在“保存世界中”屏幕崩溃 - java.lang.NullPointerException: Cannot read field \"f\" because \"this.D\" is null",
