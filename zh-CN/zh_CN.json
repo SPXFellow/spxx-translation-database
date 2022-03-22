@@ -1,4 +1,8 @@
 {
+    "MC-249174": "Map color for mud bricks, mud brick stairs, and mud brick walls is incorrect",
+    "MC-249173": "Map color for mangrove trapdoor is incorrect",
+    "MC-249172": "Map color for mangrove slab is incorrect",
+    "MC-249171": "Map color for mangrove log is incorrect",
     "MC-177321": "Soul sand doesn't have smooth lightning/ambient occlusion",
     "MC-165503": "End portal frames, doors and fence gates (between walls) aren't affected by ambient occlusion/smooth lighting",
     "MC-249134": "字幕“Frog hatches”应为“Tadpole hatches”",
