@@ -1,4 +1,5 @@
 {
+    "MC-249181": "Powered rail / activator rail update order is reversed",
     "MC-165503": "末地传送门框架、门和栅栏门（在墙之间的）没有平滑光照/环境光遮蔽",
     "MC-249316": "红树木栅栏、栅栏门和船不能用作燃料",
     "MC-249312": "泥砖台阶比其他泥砖的挖掘速度慢",
@@ -9,8 +10,8 @@
     "MC-249184": "红树木栅栏的配方在配方书中没有和其他木栅栏配方分在一组",
     "MC-249098": "泥砖台阶使用通用的石头音效",
     "MC-249081": "在红树胎生苗里放置水会破坏它",
-    "MC-249073": "Mangrove Fence Gate & Mangrove Fence are in the wrong tab in the creative inventory",
-    "MC-238009": "Some end cities can generate floating above the ground",
+    "MC-249073": "红树木栅栏门和红树木栅栏在创造模式物品栏中分类错误",
+    "MC-238009": "有些末地城会浮空生成",
     "MC-249174": "泥砖、泥砖楼梯和泥砖墙的在地图上的颜色不正确",
     "MC-249173": "红树木活板门在地图上的颜色不正确",
     "MC-249172": "红树木台阶在地图上的颜色不正确",
