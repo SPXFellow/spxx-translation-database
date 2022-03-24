@@ -1,8 +1,8 @@
 {
-    "MC-239019": "/locatebiome command doesn't consistently locate the nearest cave biome",
+    "MC-239019": "`/locatebiome` 命令并不总是定位到最邻近的洞穴生物群系",
     "MC-249143": "Mud, Mangrove Roots, and their variants are too loud in comparison with other blocks",
-    "MC-248621": "TagKey creation leads to memory leak",
-    "MC-190661": "Pressing Esc or using the Cancel button in the \"Experimental Settings\" warning returns to main menu",
+    "MC-248621": "创建 TagKey 会导致内存泄漏",
+    "MC-190661": "在“实验性设置”警告屏幕按 Esc 键或 [取消] 按钮会返回到主菜单",
     "MC-179916": "Foxes path towards origin (0,0) during a thunderstorm",
     "MC-176081": "Striders with NoAI still get cold",
     "MC-236212": "书与笔 GUI 中无法使用 Ctrl + 箭头键移动光标",
