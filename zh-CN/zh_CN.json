@@ -1,4 +1,6 @@
 {
+    "MC-249110": "Z-fighting textures inside the frog's mouth",
+    "MC-249103": "Z-fighting can be seen on the underside of frogs' feet",
     "MC-249397": "Bottom face of Warden's right arm missing in 'warden_bioluminescent_layer' texture",
     "MC-249642": "监守者无法越过铁轨",
     "MC-249398": "与监守者有关的游戏崩溃",
