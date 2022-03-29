@@ -1,6 +1,6 @@
 {
-    "MC-249642": "Wardens can't pass over rails",
-    "MC-249398": "Game crash regarding warden",
+    "MC-249642": "监守者无法越过铁轨",
+    "MC-249398": "有关监守者的游戏崩溃",
     "MC-239019": "`/locatebiome` 命令并不总是定位到最邻近的洞穴生物群系",
     "MC-249143": "泥巴和红树根及其变种的音效比其他方块的响",
     "MC-248621": "创建 TagKey 会导致内存泄漏",
