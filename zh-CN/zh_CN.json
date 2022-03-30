@@ -1,4 +1,5 @@
 {
+    "MC-249409": "Furnaces, blast furnaces and smokers don't cook without fuel in the bottom slot, even if they are already fired up",
     "MC-249405": "chatScale option defaults to 0.0 instead of 1.0, causing chat to disappear",
     "MC-249392": "Options have missing or untranslated names",
     "MC-249389": "GUI Scale is a slider instead of a button",
