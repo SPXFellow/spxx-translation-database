@@ -2,7 +2,7 @@
     "MC-249409": "Furnaces, blast furnaces and smokers don't cook without fuel in the bottom slot, even if they are already fired up",
     "MC-249405": "chatScale option defaults to 0.0 instead of 1.0, causing chat to disappear",
     "MC-249392": "Options have missing or untranslated names",
-    "MC-249389": "GUI Scale is a slider instead of a button",
+    "MC-249389": "GUI 缩放调节选项是个滑块，而不是按钮",
     "MC-249110": "Z-fighting textures inside the frog's mouth",
     "MC-249103": "Z-fighting can be seen on the underside of frogs' feet",
     "MC-249397": "Bottom face of Warden's right arm missing in 'warden_bioluminescent_layer' texture",
