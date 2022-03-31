@@ -12,7 +12,7 @@
     "MC-249389": "GUI 缩放调节选项是个滑块，而不是按钮",
     "MC-249110": "Z-fighting textures inside the frog's mouth",
     "MC-249103": "Z-fighting can be seen on the underside of frogs' feet",
-    "MC-249397": "Bottom face of Warden's right arm missing in 'warden_bioluminescent_layer' texture",
+    "MC-249397": "监守者右臂的底面缺少 `warden_bioluminescent_layer` 纹理",
     "MC-249642": "监守者无法越过铁轨",
     "MC-249398": "与监守者有关的游戏崩溃",
     "MC-239019": "`/locatebiome` 命令并不总是定位到最邻近的洞穴生物群系",
