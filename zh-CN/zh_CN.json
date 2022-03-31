@@ -1,4 +1,8 @@
 {
+    "MC-249474": "Four-legged mobs do not sit correctly in a boat with a chest",
+    "MC-249404": "Boats with Chest aren't grouped in the recipe book",
+    "MC-249382": "Boats with chest do not drop items contained in chest when destroyed in Creative",
+    "MC-249380": "The locks of chests within chest boats are positioned slightly too high",
     "MC-249349": "发射蝌蚪桶时会把物品本身发射出去，而不会发射含蝌蚪的水",
     "MC-249132": "“成双成对”进度不要求繁殖青蛙",
     "MC-249115": "一些生物群系中生成的青蛙颜色错误",
