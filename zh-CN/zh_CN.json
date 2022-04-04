@@ -1,4 +1,5 @@
 {
+    "MC-249712": "Server hangs and game stops responding when loading a chunk containing a structure with an allay",
     "MC-249474": "四腿生物坐在运输船上时，姿势不正确",
     "MC-249404": "运输船在配方书中未正确分组",
     "MC-249382": "创造模式下，运输船被破坏时不会掉落箱子中的物品",
