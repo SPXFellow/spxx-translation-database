@@ -1,4 +1,8 @@
 {
+    "MC-249758": "Z-fighting can be seen when the arms of allays intersect their bodies",
+    "MC-249729": "Z-fighting can be seen on the underside of allays' heads",
+    "MC-249720": "Allay's wings are not attached to its body",
+    "MC-249714": "Z-fighting can be seen on the wings of allays during their death animation",
     "MC-249659": "Sculk Catalyst and Sculk Veins only drop when broken by Silk Touch hoe",
     "MC-249122": "block.sculk_catalyst.bloom has no subtitle",
     "MC-249254": "青蛙吞食命名的史莱姆和岩浆怪时控制台没有记录",
