@@ -1,5 +1,5 @@
 {
-    "MC-249674": "Wardens forget their targets on world reload",
+    "MC-249674": "监守者在重新载入世界后遗忘原先的目标",
     "MC-249646": "The warden sniffs excessively after killing a mob",
     "MC-249526": "Sculk shriekers are not activated when the player is riding something",
     "MC-249445": "Activated sculk shriekers fail to summon the warden when broken",
