@@ -1,4 +1,6 @@
 {
+    "MC-249659": "Sculk Catalyst and Sculk Veins only drop when broken by Silk Touch hoe",
+    "MC-249122": "block.sculk_catalyst.bloom has no subtitle",
     "MC-249254": "青蛙吞食命名的史莱姆和岩浆怪时控制台没有记录",
     "MC-249712": "加载含有悦灵的结构的区块时，服务器进程挂起，游戏停止响应",
     "MC-249474": "四腿生物坐在运输船上时，姿势不正确",
