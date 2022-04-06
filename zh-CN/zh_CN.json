@@ -1,4 +1,13 @@
 {
+    "MC-249800": "Eating doesn't activate redstone door Ancient City center",
+    "MC-249780": "Blocks that require support can generate floating in ancient cities",
+    "MC-249769": "Unused structures in ancient cities",
+    "MC-249768": "entrance_path_5 can never generate",
+    "MC-249764": "Second lamp in the centres of ancient cities is missing its sculk sensor",
+    "MC-249761": "Trapdoor of Ice Box in Ancient Cities is by default open",
+    "MC-249728": "Lava can generate in ancient cities and burn wool/make structures fly",
+    "MC-207635": "Sculk sensors react differently to wool occlusion depending on the global direction.",
+    "MC-207289": "Sculk sensor wool occlusion has directional bias",
     "MC-249758": "Z-fighting can be seen when the arms of allays intersect their bodies",
     "MC-249729": "Z-fighting can be seen on the underside of allays' heads",
     "MC-249720": "Allay's wings are not attached to its body",
