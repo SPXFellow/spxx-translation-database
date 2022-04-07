@@ -1,4 +1,5 @@
 {
+    "MC-249423": "You can't open the boat with chests without a shift, even when you can't get into the boat",
     "MC-249674": "监守者在重新载入世界后遗忘原先的目标",
     "MC-249646": "The warden sniffs excessively after killing a mob",
     "MC-249526": "Sculk shriekers are not activated when the player is riding something",
