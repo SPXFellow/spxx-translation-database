@@ -13,7 +13,7 @@
     "MC-249674": "监守者在重新载入世界后遗忘原先的目标",
     "MC-249646": "The warden sniffs excessively after killing a mob",
     "MC-249526": "Sculk shriekers are not activated when the player is riding something",
-    "MC-249445": "Activated sculk shriekers fail to summon the warden when broken",
+    "MC-249445": "激活的幽匿尖啸体在被破坏后无法生成监守者",
     "MC-249434": "在被多个玩家攻击时，监守者会一直叫喊",
     "MC-249816": "在出现和潜埋的时候，监守者的碰撞箱不会调整",
     "MC-249785": "监守者在出现和潜埋的时候能被推动",
