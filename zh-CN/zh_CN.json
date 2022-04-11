@@ -1,4 +1,5 @@
 {
+    "MC-249942": "Water got removed after waterlogged Mangrove Propagule grows",
     "MC-249979": "在水下用树苗栽种红树木时，红树根有一定概率未充水",
     "MC-249934": "红树根在水中生成时有一定概率未充水",
     "MC-249737": "拥有`{NoAI:1b}`的悦灵能被推动",
