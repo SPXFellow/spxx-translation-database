@@ -1,5 +1,5 @@
 {
-    "MC-249495": "Inconsistent shading in boat item sprites",
+    "MC-249495": "船的物品图标的阴影不一致",
     "MC-250025": "进度“找到一个好朋友”（You Got a Friend in Me）错误地使用了过去时态",
     "MC-249984": "进度 `allay_deliver_cake_to_noteblock` 中错把 `note_block` 拼写成了 `noteblock`",
     "MC-249980": "进度“生日快乐歌”的描述中有不正确的大小写",
