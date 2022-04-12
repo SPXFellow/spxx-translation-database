@@ -1,4 +1,10 @@
 {
+    "MC-250025": "The \"You Got a Friend in Me\" advancement is incorrectly presented in the past tense",
+    "MC-249984": "note_block is inconsistently spelled as noteblock in the allay_deliver_cake_to_noteblock advancement",
+    "MC-249980": "The Birthday Song advancement description is incorrectly capitalized",
+    "MC-249741": "New advancement names are not properly capitalized",
+    "MC-237924": "The word \"villager\" within the \"Star Trader\" advancement description is improperly capitalized",
+    "MC-231458": "The word \"ingot\" within the \"Serious Dedication\" advancement description is improperly capitalized",
     "MC-249923": "Recovery compass isn't sorted with regular compass in creative inventory",
     "MC-249942": "充水的红树胎生苗在长成后会把水清除",
     "MC-249979": "在水下用树苗栽种红树木时，红树根有一定概率未充水",
