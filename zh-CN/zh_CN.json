@@ -1,4 +1,5 @@
 {
+    "MC-249923": "Recovery compass isn't sorted with regular compass in creative inventory",
     "MC-249942": "充水的红树胎生苗在长成后会把水清除",
     "MC-249979": "在水下用树苗栽种红树木时，红树根有一定概率未充水",
     "MC-249934": "红树根在水中生成时有一定概率未充水",
