@@ -1,6 +1,6 @@
 {
-    "MC-249094": "Unexpected culling of inner sculk shrieker faces",
-    "MC-249072": "Sculk shriekers replace water blocks",
+    "MC-249094": "幽匿尖啸体面部内测有不正确的切刻",
+    "MC-249072": "幽匿尖啸体会替换水方块",
     "MC-249495": "船的物品图标的阴影不一致",
     "MC-250025": "进度“找到一个好朋友”（You Got a Friend in Me）错误地使用了过去时态",
     "MC-249984": "进度 `allay_deliver_cake_to_noteblock` 中错把 `note_block` 拼写成了 `noteblock`",
