@@ -63,7 +63,7 @@ if __name__ == "__main__":
                 translator = translator_info[key]
                 rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank)
-        rstr +='\n## Rank for All Time\nData since 22w14a.'
+        rstr +='\n## Rank for All Time\nData since 22w14a.\n'
         rank = {}
         for key in translator_info:
             translator = translator_info[key]
