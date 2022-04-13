@@ -9,6 +9,6 @@
 Data since 22w14a.
 |Translator|Score|
 |---|---|
+|Olvcpr423|46|
 |Ricolove|36|
-|Olvcpr423|33|
 |PercyDan|4|
