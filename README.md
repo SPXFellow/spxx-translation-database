@@ -1,5 +1,11 @@
 # SPXX Bug Translator Rank
-## Rank for Latest Version
+## Rank for Future Version
+|Translator|Score|
+|---|---|
+|Olvcpr423|38|
+|Ricolove|5|
+|PercyDan|2|
+## Rank for Latest Version 22w14a
 |Translator|Score|
 |---|---|
 |Ricolove|31|
@@ -9,6 +15,6 @@
 Data since 22w14a.
 |Translator|Score|
 |---|---|
-|Olvcpr423|46|
+|Olvcpr423|48|
 |Ricolove|36|
 |PercyDan|4|
