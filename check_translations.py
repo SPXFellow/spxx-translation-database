@@ -38,7 +38,7 @@ if __name__ == "__main__":
                     translator_info[key] = translator
 
     latest_released_version = latest_fixed[0].fields.fixVersions[0].name
-    is_new_released = translator_info['latest'] == latest_released_version
+    is_new_released = translator_info['latest'] != latest_released_version
     query_translator(future_fixed)
     query_translator(latest_fixed, is_new_released)
     if is_new_released:
