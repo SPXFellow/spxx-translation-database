@@ -44,4 +44,33 @@ if __name__ == "__main__":
     with open("translator.json", "w") as f:
         json.dump(translator_info, f)
 
+    #### Generate README here ####
+    with open("README.md", "w") as f:
+        rstr = "# SPXX Bug Translator Rank\n"
+        rstr += '## Rank for Latest Version\n'
+        def make_table(data: dict) -> str:
+            header = "|Translator|Score|"
+            spilter = "|---|---|"
+            strs = [header, spilter]
+            for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
+                strs.append("|{}|{}|".format(tr, score))
+            return '\n'.join(strs)
+                
+        rank = {}
+        for issue in latest_fixed:
+            key = issue.key
+            if key in translator_info:
+                translator = translator_info[key]
+                rank[translator] = rank.get(translator, 0) + 1
+        rstr += make_table(rank)
+        rstr +='\n## Rank for All Time\nData since 22w14a.'
+        rank = {}
+        for key in translator_info:
+            translator = translator_info[key]
+            rank[translator] = rank.get(translator, 0) + 1
+        rstr += make_table(rank)
+        f.write(rstr)
+
+
+
 
