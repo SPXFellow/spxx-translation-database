@@ -7,7 +7,10 @@ def get_translator(client, issue_id):
     if res['data']:
         target_id = res['data'][0]['data']['id']
         translation = client.string_translations.list_string_translations(projectId=4, stringId=target_id, languageId='zh-CN')
-        return translation['data'][0]['data']['user']['username']
+        if translation['data']:
+            return translation['data'][0]['data']['user']['username']
+        else:
+            return ''
     else:
         return ''
 
