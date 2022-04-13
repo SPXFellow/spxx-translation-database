@@ -21,7 +21,6 @@ class SPXCrowdinClient(CrowdinClient):
     RETRY_DELAY = 0.1  # Optional, sets the delay between failed requests 
     MAX_RETRIES = 5  # Optional, sets the number of retries
 
-
 if __name__ == "__main__":
     with open("translator.json", "r") as f:
         translator_info = json.load(f)
@@ -30,32 +29,48 @@ if __name__ == "__main__":
     future_fixed = mojira.search_issues('project = MC AND fixVersion = "Future Version - 1.19+"')
     client = SPXCrowdinClient()
 
-    def query_translator(fixed):
+    def query_translator(fixed, update = False):
         for issue in fixed:
             key = issue.key
-            if key not in translator_info:
+            if update or key not in translator_info:
                 translator = get_translator(client, key)
                 if translator:
                     translator_info[key] = translator
 
-    query_translator(latest_fixed)
+    latest_released_version = latest_fixed[0].fields.fixVersions[0].name
+    is_new_released = translator_info['latest'] == latest_released_version
     query_translator(future_fixed)
+    query_translator(latest_fixed, is_new_released)
+    if is_new_released:
+        translator_info['latest'] = latest_released_version
 
     with open("translator.json", "w") as f:
-        json.dump(translator_info, f)
+        json.dump(translator_info, f, ensure_ascii = False, indent = 4)
 
     #### Generate README here ####
     with open("README.md", "w") as f:
-        rstr = "# SPXX Bug Translator Rank\n"
-        rstr += '## Rank for Latest Version\n'
         def make_table(data: dict) -> str:
-            header = "|Translator|Score|"
-            spilter = "|---|---|"
-            strs = [header, spilter]
-            for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
-                strs.append("|{}|{}|".format(tr, score))
-            return '\n'.join(strs)
-                
+            if data:
+                header = "|Translator|Score|"
+                spilter = "|---|---|"
+                strs = [header, spilter]
+                for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
+                    strs.append("|{}|{}|".format(tr, score))
+                return '\n'.join(strs)
+            else:
+                return 'This catagory is empty for now.'
+
+        rstr = '# SPXX Bug Translator Rank\n'
+        rstr += '## Rank for Future Version\n'
+        rank = {}
+        for issue in future_fixed:
+            key = issue.key
+            if key in translator_info:
+                translator = translator_info[key]
+                rank[translator] = rank.get(translator, 0) + 1
+        rstr += make_table(rank)
+
+        rstr += '\n## Rank for Latest Version {}\n'.format(latest_released_version)   
         rank = {}
         for issue in latest_fixed:
             key = issue.key
@@ -63,9 +78,11 @@ if __name__ == "__main__":
                 translator = translator_info[key]
                 rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank)
+        
         rstr +='\n## Rank for All Time\nData since 22w14a.\n'
         rank = {}
         for key in translator_info:
+            if key == "latest": continue
             translator = translator_info[key]
             rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank)
