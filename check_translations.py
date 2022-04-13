@@ -21,7 +21,7 @@ class SPXCrowdinClient(CrowdinClient):
 
 if __name__ == "__main__":
     with open("translator.json", "r") as f:
-        translator_info = json.load()
+        translator_info = json.load(f)
     mojira = JIRA('https://bugs.mojang.com',auth=(os.getenv("JIRA_USERNAME"),os.getenv("JIRA_PASSWORD")))
     latest_fixed = mojira.search_issues('project = MC AND fixVersion = latestReleasedVersion()')
     future_fixed = mojira.search_issues('project = MC AND fixVersion = "Future Version - 1.19+"')
