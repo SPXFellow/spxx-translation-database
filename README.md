@@ -2,8 +2,8 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|Olvcpr423|39|
-|Ricolove|8|
+|Olvcpr423|38|
+|Ricolove|9|
 |PercyDan|2|
 ## Rank for Latest Version 22w14a
 |Translator|Score|
@@ -16,5 +16,5 @@ Data since 22w14a.
 |Translator|Score|
 |---|---|
 |Olvcpr423|49|
-|Ricolove|39|
+|Ricolove|40|
 |PercyDan|4|
