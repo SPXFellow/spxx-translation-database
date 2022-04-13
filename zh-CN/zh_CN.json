@@ -1,9 +1,11 @@
 {
+    "MC-250017": "UUID launch argument required",
+    "MC-249933": "Game crash related to the frog occurred (Accessing LegacyRandomSource from multiple threads)",
     "MC-249966": "Warden can forget a target it just roared at",
     "MC-249785": "监守者在出现和潜埋的时候能被推动",
     "MC-249664": "在离得很远的时候，监守者会消失",
     "MC-249445": "激活的幽匿尖啸体在被破坏后无法生成监守者",
-    "MC-249968": "Powering a beacon disconnects player from server",
+    "MC-249968": "激活信标使玩家从服务器断开连接",
     "MC-249931": "Growing a Mangrove Tree with bone meal creates a ghost block",
     "MC-249087": "The inside texture of mangrove roots darkens when solid blocks are placed adjacent to them",
     "MC-249094": "幽匿尖啸体面部内侧有不正确的切刻",
