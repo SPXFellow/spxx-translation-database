@@ -17,5 +17,5 @@ Data since 22w14a.
 ## Color of the Translators
 |Translator|Color|Hex Value|
 |---|---|---|
-|Ricolove|![##69328f](https://via.placeholder.com/15/#69328f/000000?text=+)|`#69328f`|
-|Olvcpr423|![##808000](https://via.placeholder.com/15/#808000/000000?text=+)|`#808000`|
+|Ricolove|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|`#69328f`|
+|Olvcpr423|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|`#808000`|
