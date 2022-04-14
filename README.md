@@ -1,16 +1,12 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
+This catagory is empty for now.
+## Rank for Latest Version 22w15a
 |Translator|Score|
 |---|---|
-|Olvcpr423|39|
+|Olvcpr423|34|
 |Ricolove|9|
-|PercyDan|2|
-## Rank for Latest Version 22w14a
-|Translator|Score|
-|---|---|
-|Ricolove|31|
-|Olvcpr423|10|
-|PercyDan|2|
+|PercyDan|1|
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
