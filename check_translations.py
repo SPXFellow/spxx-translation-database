@@ -52,8 +52,8 @@ if __name__ == "__main__":
         def make_table(data: dict) -> str:
             if data:
                 header = "|Translator|Score|"
-                spilter = "|---|---|"
-                strs = [header, spilter]
+                splitter = "|---|---|"
+                strs = [header, splitter]
                 for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
                     strs.append("|{}|{}|".format(tr, score))
                 return '\n'.join(strs)
@@ -86,6 +86,20 @@ if __name__ == "__main__":
             translator = translator_info[key]
             rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank)
+        
+        rstr += '\n## Color of the Translators\n'
+        with open("color.json", "r") as fc:
+            color = json.load(fc)
+            header = "|Translator|Color|Hex Value|"
+            splitter = "|---|---|---|"
+            strs = [header, splitter]
+            for user in color:
+                strs.append("|{}|{}|{}|".format(
+                    user,
+                    "![#{c}](https://via.placeholder.com/15/{c}/000000?text=+)".format(c=color[user]),
+                    "`{}`".format(color[user])
+                ))
+            rstr += '\n'.join(strs)
         f.write(rstr)
 
 
