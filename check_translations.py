@@ -96,7 +96,7 @@ if __name__ == "__main__":
             for user in color:
                 strs.append("|{}|{}|{}|".format(
                     user,
-                    "![#{c}](https://via.placeholder.com/15/{c}/000000?text=+)".format(c=color[user]),
+                    "![#{c}](https://via.placeholder.com/15/{c}/000000?text=+)".format(c=color[user][1:]),
                     "`{}`".format(color[user])
                 ))
             rstr += '\n'.join(strs)
