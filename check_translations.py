@@ -87,7 +87,7 @@ if __name__ == "__main__":
             if key == "latest": continue
             translator = translator_info[key]
             rank[translator] = rank.get(translator, 0) + 1
-        rstr += make_table(rank)
+        rstr += make_table(rank, color)
         f.write(rstr)
 
 
