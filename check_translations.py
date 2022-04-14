@@ -48,14 +48,16 @@ if __name__ == "__main__":
         json.dump(translator_info, f, ensure_ascii = False, indent = 4)
 
     #### Generate README here ####
+    with open("color.json", "r") as fc:
+        color = json.load(fc)
     with open("README.md", "w") as f:
-        def make_table(data: dict) -> str:
+        def make_table(data: dict, color: dict) -> str:
             if data:
-                header = "|Translator|Score|"
-                splitter = "|---|---|"
+                header = "|Translator|Score|Color|"
+                splitter = "|---|---|---|"
                 strs = [header, splitter]
                 for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
-                    strs.append("|{}|{}|".format(tr, score))
+                    strs.append("|{}|{}|{}|".format(tr, score,"![#{c}](https://via.placeholder.com/15/{c}/000000?text=+)".format(c=color[tr][1:])))
                 return '\n'.join(strs)
             else:
                 return 'This catagory is empty for now.'
@@ -68,7 +70,7 @@ if __name__ == "__main__":
             if key in translator_info:
                 translator = translator_info[key]
                 rank[translator] = rank.get(translator, 0) + 1
-        rstr += make_table(rank)
+        rstr += make_table(rank, color)
 
         rstr += '\n## Rank for Latest Version {}\n'.format(latest_released_version)   
         rank = {}
@@ -77,7 +79,7 @@ if __name__ == "__main__":
             if key in translator_info:
                 translator = translator_info[key]
                 rank[translator] = rank.get(translator, 0) + 1
-        rstr += make_table(rank)
+        rstr += make_table(rank, color)
         
         rstr +='\n## Rank for All Time\nData since 22w14a.\n'
         rank = {}
@@ -86,20 +88,6 @@ if __name__ == "__main__":
             translator = translator_info[key]
             rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank)
-        
-        rstr += '\n## Color of the Translators\n'
-        with open("color.json", "r") as fc:
-            color = json.load(fc)
-            header = "|Translator|Color|Hex Value|"
-            splitter = "|---|---|---|"
-            strs = [header, splitter]
-            for user in color:
-                strs.append("|{}|{}|{}|".format(
-                    user,
-                    "![#{c}](https://via.placeholder.com/15/{c}/000000?text=+)".format(c=color[user][1:]),
-                    "`{}`".format(color[user])
-                ))
-            rstr += '\n'.join(strs)
         f.write(rstr)
 
 
