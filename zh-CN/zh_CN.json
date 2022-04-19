@@ -1,8 +1,8 @@
 {
-    "MC-249092": "Mangrove Stripped Log, Stripped Wood and Wood are in the incorrect order in the creative inventory",
-    "MC-245001": "\"Manage with Microsoft account\" button in Social Interactions menu is not centered",
-    "MC-244957": "\"Search\" Option in Social Interactions Screen is not labeled in the right order when using Tab",
-    "MC-228174": "Axolotls try to pathfind through 2 tall walls",
+    "MC-249092": "红树去皮原木，红树去皮木头和红树木头在创造模式物品栏中的排序不正确",
+    "MC-245001": "社交菜单的“使用Microsoft账户管理”按钮没有居中",
+    "MC-244957": "使用Tab键导航时，社交屏幕的“搜索”选项没有按照正确的顺序标记",
+    "MC-228174": "美西螈寻路时会尝试穿过 2 格高的墙",
     "MC-250095": "监守者可在非常狭窄的地方生成，导致其窒息",
     "MC-250094": "监守者在钻出地面或钻回地下时，会忽略 /kill 命令的执行",
     "MC-250041": "监守者可以在世界边界外生成",
