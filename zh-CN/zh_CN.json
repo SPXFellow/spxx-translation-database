@@ -1,4 +1,11 @@
 {
+    "MC-250294": "Parity Issue: Allays item detection range is significantly smaller than in Bedrock",
+    "MC-249790": "Allay follows and drops items for players in spectator mode",
+    "MC-249766": "Allays can despawn after being given an item if they haven't picked up any items yet",
+    "MC-249715": "Allays don't drop their held items upon death",
+    "MC-187188": "Painting NBT and registry contain a typo: \"Motive\" instead of \"Motif\"",
+    "MC-111809": "Paintings unrender when entity data is updated rapidly",
+    "MC-81870": "Editing entitydata of Painting does not reflect ingame until chunk reload",
     "MC-250293": "The \"allay_dust\" particle is unused",
     "MC-249084": "No sound is present for placing a Bucket of Tadpole",
     "MC-249459": "仙人掌不会被蛙明灯破坏",
