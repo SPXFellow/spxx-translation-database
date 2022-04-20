@@ -1,4 +1,5 @@
 {
+    "MC-250312": "Game crashing when clicking singleplayer || java.lang.NullPointerException: Cannot invoke \"java.lang.Comparable.compareTo(Object)\" because \"pivot\" is null",
     "MC-250294": "一致性问题：悦灵的物品检测范围远小于基岩版",
     "MC-249790": "悦灵会对旁观模式的玩家进行跟随/给予的行动",
     "MC-249766": "即使给予悦灵物品，若此悦灵没有拾取过物品的话，也会消失",
