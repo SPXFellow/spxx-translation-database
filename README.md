@@ -6,6 +6,7 @@
 |Lakeus|3|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
 |Olvcpr423|1|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
+|dianliang|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 ## Rank for Latest Version 22w15a
 |Translator|Score|Color|
 |---|---|---|
@@ -22,3 +23,4 @@ Data since 22w14a.
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Lakeus|3|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
+|dianliang|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
