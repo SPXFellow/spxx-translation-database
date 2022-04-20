@@ -1,4 +1,5 @@
 {
+    "MC-250293": "The \"allay_dust\" particle is unused",
     "MC-249084": "No sound is present for placing a Bucket of Tadpole",
     "MC-249459": "仙人掌不会被蛙明灯破坏",
     "MC-249265": "有些方块无法放置在蛙明灯上",
