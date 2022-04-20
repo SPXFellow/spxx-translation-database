@@ -1,4 +1,5 @@
 {
+    "MC-249912": "minecraft:ancient_city/city_center_3 is one block shorter compared than the other ancient city centers",
     "MC-250044": "Observers don't detect mangrove roots when tree grows",
     "MC-249928": "Mangrove tree roots do not update blocks around them when generating",
     "MC-249092": "红树去皮原木，红树去皮木头和红树木头在创造模式物品栏中的排序不正确",
