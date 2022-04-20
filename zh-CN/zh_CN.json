@@ -1,4 +1,6 @@
 {
+    "MC-250044": "Observers don't detect mangrove roots when tree grows",
+    "MC-249928": "Mangrove tree roots do not update blocks around them when generating",
     "MC-249092": "红树去皮原木，红树去皮木头和红树木头在创造模式物品栏中的排序不正确",
     "MC-245001": "社交菜单的“使用Microsoft账户管理”按钮没有居中",
     "MC-244957": "使用Tab键导航时，社交屏幕的“搜索”选项没有按照正确的顺序标记",
