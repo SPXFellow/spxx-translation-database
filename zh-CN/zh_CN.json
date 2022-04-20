@@ -1,4 +1,6 @@
 {
+    "MC-249855": "Parity Issue: Allays don't have a flying animation in Java",
+    "MC-249838": "Allays lose their idle animation once they start moving",
     "MC-249912": "minecraft:ancient_city/city_center_3 is one block shorter compared than the other ancient city centers",
     "MC-250044": "Observers don't detect mangrove roots when tree grows",
     "MC-249928": "Mangrove tree roots do not update blocks around them when generating",
