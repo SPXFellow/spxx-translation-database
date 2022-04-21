@@ -1,5 +1,5 @@
 {
-    "MC-250339": "Paintings are off-centered in multiplayer servers",
+    "MC-250339": "多人游戏服务器中画的位置不居中",
     "MC-250312": "点击单人游戏后，游戏崩溃（`java.lang.NullPointerException: 无法调用 \"java.lang.Comparable.compareTo(Object)\" ，因为\"pivot\" 为空`）",
     "MC-250294": "一致性问题：悦灵的物品检测范围远小于基岩版",
     "MC-249790": "悦灵会对旁观模式的玩家进行跟随/给予的行动",
@@ -21,7 +21,7 @@
     "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
     "MC-249855": "一致性问题：Java 版中的悦灵没有飞行动画",
     "MC-249838": "悦灵在开始移动后会停止空闲时的动画",
-    "MC-249912": "minecraft:ancient_city/city_center_3 比其他的远古城市中心短一格。",
+    "MC-249912": "minecraft:ancient_city/city_center_3 比其他的远古城市中心短一格",
     "MC-250044": "红树生长时，侦测器不会检测到红树根的出现",
     "MC-249928": "红树根在生成时不会更新旁边的方块",
     "MC-249092": "红树去皮原木，红树去皮木头和红树木头在创造模式物品栏中的排序不正确",
