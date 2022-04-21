@@ -1,7 +1,7 @@
 {
-    "MC-249669": "tadpole.png has unused frog egg texture",
-    "MC-249039": "\"Half\" armor bar icon texture is incorrect",
-    "MC-249032": "Fence item model's bars inconsistent with placed block",
+    "MC-249669": "tadpole.png 有未使用的青蛙蛋纹理",
+    "MC-249039": "盔甲条的「半颗盔甲」图标的纹理不正确",
+    "MC-249032": "栅栏物品模型的横杆与放置的方块不一致",
     "MC-248562": "Iron golem has unused pixels in the texture",
     "MC-248561": "Vindicator's crossed arms element has miscolored pixels on the faces touching the other arm elements",
     "MC-248557": "Savanna villager body defines pixels identical to base villager texture",
