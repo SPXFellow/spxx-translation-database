@@ -20,7 +20,7 @@
     "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
     "MC-249855": "一致性问题：Java 版中的悦灵没有飞行动画",
     "MC-249838": "悦灵在开始移动后会停止空闲时的动画",
-    "MC-249912": "minecraft:ancient_city/city_center_3 is one block shorter compared than the other ancient city centers",
+    "MC-249912": "minecraft:ancient_city/city_center_3 比其他的远古城市中心短一格。",
     "MC-250044": "红树生长时，侦测器不会检测到红树根的出现",
     "MC-249928": "红树根在生成时不会更新旁边的方块",
     "MC-249092": "红树去皮原木，红树去皮木头和红树木头在创造模式物品栏中的排序不正确",
