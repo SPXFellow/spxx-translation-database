@@ -1,4 +1,5 @@
 {
+    "MC-250339": "Paintings are off-centered in multiplayer servers",
     "MC-250312": "点击单人游戏后，游戏崩溃（`java.lang.NullPointerException: 无法调用 \"java.lang.Comparable.compareTo(Object)\" ，因为\"pivot\" 为空`）",
     "MC-250294": "一致性问题：悦灵的物品检测范围远小于基岩版",
     "MC-249790": "悦灵会对旁观模式的玩家进行跟随/给予的行动",
