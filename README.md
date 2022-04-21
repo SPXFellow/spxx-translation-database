@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|Color|
+|---|---|---|
+|DrLee_lihr|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 ## Rank for Latest Version 22w16b
 |Translator|Score|Color|
 |---|---|---|
@@ -16,3 +18,4 @@ Data since 22w14a.
 |Lakeus|4|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |dianliang|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
+|DrLee_lihr|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
