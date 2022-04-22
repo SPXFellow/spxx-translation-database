@@ -144,5 +144,9 @@
     "MC-248557": "NoMathExpectation",
     "MC-106627": "NoMathExpectation",
     "MC-250379": "DrLee_lihr",
-    "MC-250460": "NoMathExpectation"
+    "MC-250460": "NoMathExpectation",
+    "MC-250411": "NoMathExpectation",
+    "MC-250288": "NoMathExpectation",
+    "MC-249262": "NoMathExpectation",
+    "MC-249180": "NoMathExpectation"
 }
