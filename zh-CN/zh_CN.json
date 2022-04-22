@@ -1,10 +1,10 @@
 {
-    "MC-250379": "Teleporting armor stands results in visual desync and abnormal behavior",
+    "MC-250379": "传送盔甲架会导致视觉上的不同步和异常行为",
     "MC-249669": "tadpole.png 有未使用的青蛙卵纹理",
     "MC-249039": "盔甲条的「半个盔甲」图标的纹理不正确",
     "MC-249032": "栅栏物品模型的横杆与放置的方块不一致",
     "MC-248562": "铁傀儡的纹理中有未使用的像素",
-    "MC-248561": "Vindicator's crossed arms element has miscolored pixels on the faces touching the other arm elements",
+    "MC-248561": "卫道士的“交叉手臂”模型元素中，和手臂相交的两个面存在纹理绘制错误",
     "MC-248557": "热带草原村民身体的纹理含有与基础村民身体纹理相同的像素",
     "MC-248556": "热带草原变种的僵尸村民缺少躯体纹理",
     "MC-248555": "村民、僵尸村民的纹理匹配错误",
