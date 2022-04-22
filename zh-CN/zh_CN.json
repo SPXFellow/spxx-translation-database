@@ -1,4 +1,8 @@
 {
+    "MC-250411": "Sculk can spread in ancient city structures and replace soul sand with fire on top, extinguishing fires",
+    "MC-250288": "Some blocks in Ancient City structures can only be covered by sculk veins and can't be converted into a sculk block.",
+    "MC-249262": "Sculk cannot replace soul sand or mud when mobs die on top of them",
+    "MC-249180": "Sculk blocks can spread outside the world border",
     "MC-250460": "多人游戏中其他玩家的渲染会有延迟",
     "MC-250379": "传送盔甲架会导致视觉上的不同步和异常行为",
     "MC-249669": "tadpole.png 有未使用的青蛙卵纹理",
