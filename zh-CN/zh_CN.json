@@ -1,4 +1,5 @@
 {
+    "MC-250379": "Teleporting armor stands results in visual desync and abnormal behavior",
     "MC-249669": "tadpole.png 有未使用的青蛙卵纹理",
     "MC-249039": "盔甲条的「半个盔甲」图标的纹理不正确",
     "MC-249032": "栅栏物品模型的横杆与放置的方块不一致",
