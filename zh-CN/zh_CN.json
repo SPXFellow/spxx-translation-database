@@ -1,6 +1,6 @@
 {
-    "MC-250076": "Shading is disabled for the two inner planes in mangrove roots, even though it isn't for all the other planes",
-    "MC-250075": "The inner two planes in mangrove roots are smaller than they should be",
+    "MC-250076": "不同于红树根的其他面，其两个内表面的阴影被禁用",
+    "MC-250075": "红树根的两个内表面纹理比应有的要小",
     "MC-250411": "幽匿块可以蔓延到远古城市的建筑结构上并替换被点燃的灵魂沙，导致火熄灭",
     "MC-250288": "远古城市建筑的一些方块只能被幽匿脉络覆盖，而不能转换成幽匿块",
     "MC-249262": "当有生物在幽匿催发体上死亡时，幽匿催发体不能转换灵魂沙或泥巴",
