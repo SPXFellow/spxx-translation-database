@@ -1,6 +1,6 @@
 {
-    "MC-250027": "Allays ignore the dimension when checking for liked note blocks",
-    "MC-249745": "If allay is holding an item, it can be equipped with ar‌mor using a dispenser",
+    "MC-250027": "悦灵在检测 `liked` 的音符盒时会忽略维度",
+    "MC-249745": "悦灵持有物品时可被发射器装备上盔甲",
     "MC-250240": "青蛙张开嘴时，其后背周围存在深度冲突",
     "MC-250429": "复述功能以不正确的方式读出聊天内容",
     "MC-250165": "在某些单一生物群系世界里使用`/locate stronghold`会产生意外错误",
