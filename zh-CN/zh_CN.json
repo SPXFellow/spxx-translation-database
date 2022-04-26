@@ -1,4 +1,5 @@
 {
+    "MC-208771": "Projectiles landing on wool trigger sculk sensors",
     "MC-250027": "悦灵在检测 `liked` 的音符盒时会忽略维度",
     "MC-249745": "悦灵持有物品时可被发射器装备上盔甲",
     "MC-250240": "青蛙张开嘴时，其后背周围存在深度冲突",
