@@ -1,4 +1,8 @@
 {
+    "MC-210901": "Sculk sensors are not activated upon entities sliding on ice",
+    "MC-210712": "Sculk sensors are not activated upon backwards movement in a boat",
+    "MC-208597": "Boats ridden over wool are detected by sculk sensor",
+    "MC-207309": "Landing entities such as minecarts and armor stands trigger sculk sensors but boats do not",
     "MC-250400": "Blocks and items can cause the world to render invisibly",
     "MC-250331": "Chunk rendering is glitchy / incorrect when redrawing",
     "MC-208771": "着落在羊毛上的弹射物会触发幽匿感测体",
