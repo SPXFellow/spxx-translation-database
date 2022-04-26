@@ -1,4 +1,6 @@
 {
+    "MC-250429": "Narrator improperly narrates chat",
+    "MC-250165": "Doing /locate stronghold in some single biomes causes an unexpected error",
     "MC-250076": "不同于红树根的其他面，其两个内表面的阴影被禁用",
     "MC-250075": "红树根的两个内表面纹理比应有的要小",
     "MC-250411": "幽匿块可以蔓延到远古城市的建筑结构上并替换被点燃的灵魂沙，导致火熄灭",
