@@ -1,4 +1,5 @@
 {
+    "MC-250240": "Z-fighting can be seen around the backs of frogs when they open their mouths",
     "MC-250429": "复述功能以不正确的方式读出聊天内容",
     "MC-250165": "在某些单一生物群系世界里使用`/locate stronghold`会产生意外错误",
     "MC-250076": "不同于红树根的其他面，其两个内表面的阴影被禁用",
