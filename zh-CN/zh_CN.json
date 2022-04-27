@@ -1,4 +1,6 @@
 {
+    "MC-249190": "Sculk blocks don't drop experience orbs when blown up",
+    "MC-176840": "Ores no longer drop experience when blown up",
     "MC-249919": "远古城市的柱子会生成出含水的楼梯",
     "MC-249780": "在远古城市中，需支撑的方块可浮空生成",
     "MC-250000": "悦灵和村民试图捡起超过其物品栏剩余空间的数量的物品堆时会创造幽灵物品",
