@@ -165,5 +165,7 @@
     "MC-207309": "Ricolove",
     "MC-250321": "Ricolove",
     "MC-250000": "NoMathExpectation",
-    "MC-249919": "Ricolove"
+    "MC-249919": "Ricolove",
+    "MC-249190": "NoMathExpectation",
+    "MC-176840": "NoMathExpectation"
 }
