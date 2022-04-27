@@ -1,5 +1,5 @@
 {
-    "MC-250321": "Flying and aquatic mobs pathfinding in certain blocks cause crash || The game crashed whilst ticking entityError: java.lang.NullPointerException: Cannot invoke \"dnm.a()\" because \"$$1\" is null",
+    "MC-250321": "飞行生物和水生生物在某些方块上的寻路会导致崩溃 || 错误提示：`The game crashed whilst ticking entityError: java.lang.NullPointerException: Cannot invoke \"dnm.a()\" because \"$$1\" is null`",
     "MC-210901": "幽匿感测体不会受冰面上的实体滑行影响而激活",
     "MC-210712": "幽匿感测体不会受向后移动的船影响而激活",
     "MC-208597": "幽匿感测体会检测在羊毛上的船",
