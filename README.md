@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|Color|
+|---|---|---|
+|Olvcpr423|1|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 ## Rank for Latest Version 22w17a
 |Translator|Score|Color|
 |---|---|---|
@@ -13,7 +15,7 @@ This catagory is empty for now.
 Data since 22w14a.
 |Translator|Score|Color|
 |---|---|---|
-|Olvcpr423|72|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Olvcpr423|73|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |Ricolove|61|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
 |NoMathExpectation|13|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
 |dianliang|6|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
