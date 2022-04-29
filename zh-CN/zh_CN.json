@@ -1,5 +1,5 @@
 {
-    "MC-250557": "Allay permanently stuck trying to pick up item stack if its slots contain stack of the same type with differing NBT (and vice versa)",
+    "MC-250557": "当悦灵尝试捡起与其物品栏中的物品类型相同但 NBT 不同的物品时会永久冻结（反之亦然）",
     "MC-249732": "世界重启会导致悦灵丢失已捡起的物品",
     "MC-250954": "单人游戏中玩家会被分配新的 UUID",
     "MC-250937": "单人游戏中用户的皮肤不会加载",
