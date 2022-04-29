@@ -1,4 +1,6 @@
 {
+    "MC-250557": "Allay permanently stuck trying to pick up item stack if its slots contain stack of the same type with differing NBT (and vice versa)",
+    "MC-249732": "Allays lose picked up items on world restart",
     "MC-250954": "单人游戏中玩家会被分配新的 UUID",
     "MC-250937": "单人游戏中用户的皮肤不会加载",
     "MC-249784": "远古城市可能被含水层淹没",
