@@ -1,4 +1,6 @@
 {
+    "MC-250954": "Player is assigned a new UUID in singleplayer",
+    "MC-250937": "User skins don't load in singleplayer",
     "MC-249784": "Ancient Cities can be submerged in aquifers",
     "MC-250926": "创造模式的“摧毁物品”槽位中有一个山羊角",
     "MC-249190": "幽匿块被爆炸摧毁时不再掉落经验球",
