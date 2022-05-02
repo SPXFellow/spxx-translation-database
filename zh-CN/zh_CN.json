@@ -5,7 +5,7 @@
     "MC-250218": "监守者在目标消失后仍在咆哮",
     "MC-250216": "监守者会对着未加载区块中的目标咆哮",
     "MC-250207": "监守者在玩家断开连接后仍在咆哮",
-    "MC-250198": "Warden continues to roar when the target of the enraged warden suffers an unnatural death",
+    "MC-250198": "当监守者的目标非自然死亡时监守者会继续咆哮",
     "MC-250183": "Warden continues to roar when angered by an ignited creeper",
     "MC-250163": "监守者死亡后仍可检测物体",
     "MC-250864": "数据包中含 `.DS_Store` 文件时，游戏无法加载世界生成设置",
