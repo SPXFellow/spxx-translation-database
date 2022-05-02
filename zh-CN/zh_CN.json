@@ -1,4 +1,5 @@
 {
+    "MC-207935": "Simultaneous vibrations don't trigger as expected",
     "MC-250974": "打开或创建世界时提示 MinecraftClientHttpException",
     "MC-250557": "当悦灵尝试捡起与其物品栏中的物品类型相同但 NBT 不同的物品时会永久冻结（反之亦然）",
     "MC-249732": "世界重启会导致悦灵丢失已捡起的物品",
