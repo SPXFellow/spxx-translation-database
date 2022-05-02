@@ -3,7 +3,7 @@
 |Translator|Score|Color|
 |---|---|---|
 |DrLee_lihr|5|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
-|Olvcpr423|2|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Olvcpr423|3|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 ## Rank for Latest Version 22w17a
 |Translator|Score|Color|
 |---|---|---|
@@ -16,7 +16,7 @@
 Data since 22w14a.
 |Translator|Score|Color|
 |---|---|---|
-|Olvcpr423|74|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Olvcpr423|75|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |Ricolove|61|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
 |NoMathExpectation|13|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
 |DrLee_lihr|7|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
