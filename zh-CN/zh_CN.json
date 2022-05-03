@@ -1,4 +1,5 @@
 {
+    "MC-249857": "Parity Issue: Allays don't follow the player / note blocks as closely on Java",
     "MC-250292": "监守者有时候会在敌人、攻击或声音过多时静止不动",
     "MC-250245": "监守者的音波攻击在玩家进入另一维度后仍可击中玩家",
     "MC-250244": "监守者在目标进入下界传送门、末地传送门和末地折跃门后仍在咆哮",
