@@ -1,5 +1,5 @@
 {
-    "MC-250506": "Mangrove leaves can appear at a higher altitude when grown below y = 0",
+    "MC-250506": "红树树叶在低于 y = 0 的地方生长时可能会出现在更高的高度",
     "MC-250939": "使用无效声音变种的山羊角时游戏崩溃：`java.lang.ArrayIndexOutOfBoundsException: Index <index> out of bounds for length 8`",
     "MC-249021": "Realms 菜单中的邀请按钮和新闻按钮有时会消失",
     "MC-249857": "一致性问题：悦灵在 Java 版不能较好地紧跟玩家或音符盒",
