@@ -1,5 +1,5 @@
 {
-    "MC-249021": "The invitation and news buttons aren't consistently displayed within the realms menu",
+    "MC-249021": "Realms 菜单中的邀请按钮和新闻按钮有时会消失",
     "MC-249857": "一致性问题：悦灵在 Java 版不能较好地紧跟玩家或音符盒",
     "MC-250292": "监守者有时候会在敌人、攻击或声音过多时静止不动",
     "MC-250245": "监守者的音波攻击在玩家进入另一维度后仍可击中玩家",
