@@ -1,4 +1,5 @@
 {
+    "MC-250939": "Game crashes when a goat horn with an invalid sound variant is used / java.lang.ArrayIndexOutOfBoundsException: Index <index> out of bounds for length 8",
     "MC-249021": "Realms 菜单中的邀请按钮和新闻按钮有时会消失",
     "MC-249857": "一致性问题：悦灵在 Java 版不能较好地紧跟玩家或音符盒",
     "MC-250292": "监守者有时候会在敌人、攻击或声音过多时静止不动",
