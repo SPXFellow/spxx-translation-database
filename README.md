@@ -2,8 +2,9 @@
 ## Rank for Future Version
 |Translator|Score|Color|
 |---|---|---|
-|DrLee_lihr|5|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
-|Olvcpr423|4|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Olvcpr423|10|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|DrLee_lihr|6|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
+|NoMathExpectation|2|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
 ## Rank for Latest Version 22w17a
 |Translator|Score|Color|
 |---|---|---|
@@ -16,10 +17,10 @@
 Data since 22w14a.
 |Translator|Score|Color|
 |---|---|---|
-|Olvcpr423|76|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Olvcpr423|82|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |Ricolove|61|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
-|NoMathExpectation|13|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
-|DrLee_lihr|7|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
+|NoMathExpectation|15|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
+|DrLee_lihr|8|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
 |dianliang|6|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Light_Beacon|5|![#2b93c0](https://via.placeholder.com/15/2b93c0/000000?text=+)|
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
