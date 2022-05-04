@@ -1,6 +1,7 @@
 {
+    "MC-232009": "Minecraft does not resolve SRV records correctly",
     "MC-250145": "监守者和青蛙的动画在游戏暂停时仍会继续",
-    "MC-249129": "The walking animation of frogs doesn't change in relation to their movement speed",
+    "MC-249129": "青蛙的行走动画并不随移动速度而改变",
     "MC-249175": "用精准采集附魔锄破坏放置在同一方块空间内的多个幽匿脉络只会掉落一个幽匿脉络",
     "MC-249740": "拴在栅栏上的悦灵无法移动且不能捡起物品",
     "MC-250144": "进度“潜行100级”的描述中，把幽匿尖啸体囊括进了可以“听”到玩家的方块之列",
