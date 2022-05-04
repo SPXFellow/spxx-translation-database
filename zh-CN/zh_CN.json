@@ -1,4 +1,8 @@
 {
+    "MC-250144": "\"Sneak 100\" advancement includes sculk shriekers as a block that can \"hear\" the player",
+    "MC-250143": "Improper advancement description for \"Sneak 100\"",
+    "MC-250139": "Snow layers cannot be placed on top of mud",
+    "MC-249454": "Sculk Catalysts will spread sculk if a baby mob that does not drop experience dies around it",
     "MC-250506": "红树树叶在低于 y = 0 的地方生长时可能会出现在更高的高度",
     "MC-250939": "使用无效声音变种的山羊角时游戏崩溃：`java.lang.ArrayIndexOutOfBoundsException: Index <index> out of bounds for length 8`",
     "MC-249021": "Realms 菜单中的邀请按钮和新闻按钮有时会消失",
