@@ -35,6 +35,18 @@ jobs:
           JIRA_PASSWORD: ${{ secrets.JIRA_PASSWORD }}
           CROWDIN_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
         run: python check_translations.py
+        
+      - name: Commit the changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "SPGlove"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Check translation for recording translator"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Use Node.js
         uses: actions/setup-node@v1
