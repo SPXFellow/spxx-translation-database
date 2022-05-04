@@ -5,8 +5,8 @@
 |Olvcpr423|14|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |DrLee_lihr|7|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
 |NoMathExpectation|3|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
+|Hatsuki_kiri|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Ricolove|1|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
-|Hatsuki_kiri|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 ## Rank for Latest Version 22w17a
 |Translator|Score|Color|
 |---|---|---|
@@ -27,5 +27,5 @@ Data since 22w14a.
 |Light_Beacon|5|![#2b93c0](https://via.placeholder.com/15/2b93c0/000000?text=+)|
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Lakeus|4|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
+|Hatsuki_kiri|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
-|Hatsuki_kiri|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
