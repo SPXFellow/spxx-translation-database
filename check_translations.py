@@ -42,7 +42,10 @@ if __name__ == "__main__":
     query_translator(future_fixed)
     query_translator(latest_fixed, is_new_released)
     if is_new_released:
+        print("New version detected:", latest_released_version)
         translator_info['latest'] = latest_released_version
+    else:
+        print("Latest:", latest_released_version)
 
     with open("translator.json", "w") as f:
         json.dump(translator_info, f, ensure_ascii = False, indent = 4)
