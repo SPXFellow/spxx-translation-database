@@ -1,5 +1,5 @@
 {
-    "MC-250145": "Warden/frogs continue animations when the game is paused",
+    "MC-250145": "监守者和青蛙的动画在游戏暂停时仍会继续",
     "MC-249129": "The walking animation of frogs doesn't change in relation to their movement speed",
     "MC-249175": "用精准采集附魔锄破坏放置在同一方块空间内的多个幽匿脉络只会掉落一个幽匿脉络",
     "MC-249740": "拴在栅栏上的悦灵无法移动且不能捡起物品",
