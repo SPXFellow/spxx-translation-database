@@ -1,6 +1,8 @@
 {
+    "MC-250145": "Warden/frogs continue animations when the game is paused",
+    "MC-249129": "The walking animation of frogs doesn't change in relation to their movement speed",
     "MC-249175": "用精准采集附魔锄破坏放置在同一方块空间内的多个幽匿脉络只会掉落一个幽匿脉络",
-    "MC-249740": "Allays leashed to a fence do not move and refuse to pick up items",
+    "MC-249740": "拴在栅栏上的悦灵无法移动且不能捡起物品",
     "MC-250144": "进度“潜行100级”的描述中，把幽匿尖啸体囊括进了可以“听”到玩家的方块之列",
     "MC-250143": "“潜行100级”的进度描述用词不恰当",
     "MC-250139": "雪层不能放在泥巴的顶部",
