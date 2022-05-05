@@ -1,6 +1,6 @@
 {
-    "MC-251350": "/give @s goat_horn gives a unregistered goat horn",
-    "MC-251316": "The game crashes when loading chunks that consist of jigsaw blocks",
+    "MC-251350": "执行 `/give @s goat_horn` 会给予一个未注册的山羊角",
+    "MC-251316": "加载包含拼图方块的区块时游戏会崩溃",
     "MC-232009": "Minecraft 无法正确解析 SRV 记录",
     "MC-250145": "监守者和青蛙的动画在游戏暂停时仍会继续",
     "MC-249129": "青蛙的行走动画并不随移动速度而改变",
