@@ -6,7 +6,7 @@ This catagory is empty for now.
 |---|---|---|
 |Olvcpr423|12|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
 |DrLee_lihr|10|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
-|_Xx_Akasha_xX_|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
+|_Xx_Akasha_xX_|3|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |Hatsuki_kiri|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |NoMathExpectation|2|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
 |Ricolove|1|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
@@ -22,6 +22,6 @@ Data since 22w14a.
 |Light_Beacon|5|![#2b93c0](https://via.placeholder.com/15/2b93c0/000000?text=+)|
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Lakeus|4|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
-|_Xx_Akasha_xX_|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
+|_Xx_Akasha_xX_|3|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |Hatsuki_kiri|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
