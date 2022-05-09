@@ -3,6 +3,7 @@
 |Translator|Score|Color|
 |---|---|---|
 |DrLee_lihr|2|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
+|_Xx_Akasha_xX_|1|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 ## Rank for Latest Version 22w18a
 |Translator|Score|Color|
 |---|---|---|
@@ -24,6 +25,6 @@ Data since 22w14a.
 |Light_Beacon|5|![#2b93c0](https://via.placeholder.com/15/2b93c0/000000?text=+)|
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Lakeus|4|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
-|_Xx_Akasha_xX_|3|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
+|_Xx_Akasha_xX_|4|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |Hatsuki_kiri|3|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |KaplanSteve|1|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
