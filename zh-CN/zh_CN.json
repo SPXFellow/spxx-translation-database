@@ -1,5 +1,5 @@
 {
-    "MC-251263": "\"Invalid signature for profile public key\" when trying to open a singleplayer world",
+    "MC-251263": "尝试打开单人游戏世界时显示“无效的个人信息公钥签名”",
     "MC-249130": "蝌蚪在相邻的方块内孵化，会导致它们窒息而亡",
     "MC-251350": "执行 `/give @s goat_horn` 会给予一个未注册的山羊角",
     "MC-251316": "加载包含拼图方块的区块时游戏会崩溃",
