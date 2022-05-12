@@ -1,7 +1,7 @@
 {
     "MC-249801": "Mineshafts can intersect ancient cities",
-    "MC-231600": "Sculk sensor continuously receives vibrations when next to a powered big dripleaf",
-    "MC-197647": "Players cannot jump off the edge of blocks when sneaking if they have a block above",
+    "MC-231600": "幽匿感测体紧邻大型垂滴叶时持续接收振动",
+    "MC-197647": "如果玩家的上方有方块阻挡，则在潜行时不能从玩家下方的方块边缘起跳",
     "MC-251464": "被动生物在被监守者的音波攻击伤害后不会惊慌",
     "MC-251321": "在监守者出现时可以通过爆炸来击退它",
     "MC-251029": "玩家在被监守者追踪时死亡后，监守者被冻结住且不再对玩家敌对",
