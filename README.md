@@ -4,6 +4,8 @@
 |---|---|---|
 |_Xx_Akasha_xX_|3|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |DrLee_lihr|2|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
+|Olvcpr423|1|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
+|Ricolove|1|![#69328f](https://via.placeholder.com/15/69328f/000000?text=+)|
 ## Rank for Latest Version 22w18a
 |Translator|Score|Color|
 |---|---|---|
