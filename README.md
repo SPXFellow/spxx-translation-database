@@ -5,7 +5,7 @@ This catagory is empty for now.
 |Translator|Score|Color|
 |---|---|---|
 |Hatsuki_kiri|7|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
-|_Xx_Akasha_xX_|6|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
+|AkashaMCPK|6|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |dianliang|6|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |DrLee_lihr|3|![#1f1e33](https://via.placeholder.com/15/1f1e33/000000?text=+)|
 |Olvcpr423|1|![#808000](https://via.placeholder.com/15/808000/000000?text=+)|
@@ -20,7 +20,7 @@ Data since 22w14a.
 |NoMathExpectation|15|![#a2d2e2](https://via.placeholder.com/15/a2d2e2/000000?text=+)|
 |dianliang|12|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Hatsuki_kiri|10|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
-|_Xx_Akasha_xX_|9|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
+|AkashaMCPK|9|![#de8500](https://via.placeholder.com/15/de8500/000000?text=+)|
 |Light_Beacon|5|![#2b93c0](https://via.placeholder.com/15/2b93c0/000000?text=+)|
 |PercyDan|4|![#388d40](https://via.placeholder.com/15/388d40/000000?text=+)|
 |Lakeus|4|![#156fe6](https://via.placeholder.com/15/156fe6/000000?text=+)|
