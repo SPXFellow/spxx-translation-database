@@ -60,7 +60,7 @@ if __name__ == "__main__":
                 splitter = "|---|---|"
                 strs = [header, splitter]
                 for tr, score in sorted([(tr, score) for tr, score in data.items()], key=lambda x: x[1], reverse=True):
-                    strs.append("|{}|{}|".format("![#{c}](https://img.shields.io/static/v1?label=&message={tr}&color={c})".format(tr = tr, c = color[tr][1:] if tr in color else "388d40"), score))
+                    strs.append("|{}|{}|".format("![#{c}](https://img.shields.io/static/v1?label=&message={tr}&color={c}&style=flat-square)".format(tr = tr, c = color[tr][1:] if tr in color else "388d40"), score))
                 return '\n'.join(strs)
             else:
                 return 'This catagory is empty for now.'
