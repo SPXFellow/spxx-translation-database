@@ -1,4 +1,6 @@
 {
+    "MC-251652": "Warden emerge/roar/sonic charge/dig animation (and possibly other similar animations) don't start unless the player looks at the Warden first",
+    "MC-251647": "Chat closes itself if the control for Open Chat is set to Enter",
     "MC-250351": "/tp \"argument\" duplicated on the tab options",
     "MC-251641": "与监守者发怒有关的游戏崩溃",
     "MC-249801": "废弃矿井会与远古城市相交",
