@@ -1,6 +1,6 @@
 {
-    "MC-251736": "Reflected ghast fireball cannot hit the ghast",
-    "MC-249834": "Swapping items to the player's off-hand can generate vibrations",
+    "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
+    "MC-249834": "与玩家的副手交换物品时会产生震动",
     "MC-213915": "Equipping armor through the inventory does not count as a vibration",
     "MC-94060": "Equipping armor/elytra through inventory or dispenser doesn't play sounds",
     "MC-251650": "铁傀儡可以在树叶、玻璃、海晶灯等非生成方块上生成",
