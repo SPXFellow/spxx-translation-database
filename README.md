@@ -3,7 +3,7 @@
 |Translator|Score|
 |---|---|
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|3|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|1|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|2|
 ## Rank for Latest Version 22w19a
 |Translator|Score|
 |---|---|
