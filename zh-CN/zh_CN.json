@@ -6,7 +6,7 @@
     "MC-251649": "点击“命令不完整”提示后会移除输入框中的斜杠",
     "MC-251640": "在聊天消息中使用特殊字符时报错：io.netty.handler.codec.EncoderException",
     "MC-251405": "结构方块的消息被当作聊天消息来格式化",
-    "MC-134892": "PacketBuffer.writeString's max length is in bytes, while readString is in characters",
+    "MC-134892": "`PacketBuffer.writeString` 以 byte 类型检查最大长度，而 `readString` 按字符串长度检查",
     "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
     "MC-249834": "与玩家的副手交换物品时会产生振动",
     "MC-213915": "通过物品栏装备盔甲不被算作振动",
