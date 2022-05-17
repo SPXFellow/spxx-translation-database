@@ -1,5 +1,5 @@
 {
-    "MC-251355": "Potted mangrove propagule model is incorrect",
+    "MC-251355": "红树胎生苗盆栽的模型不正确",
     "MC-251656": "/say command fails to apply server message styling when sent from a command block, server console, or RCON, unlike /msg",
     "MC-251312": "Entity selectors in /say commands are no longer evaluated",
     "MC-251762": "使用两条斜杠作前缀时也可执行命令",
