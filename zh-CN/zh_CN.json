@@ -1,8 +1,9 @@
 {
+    "MC-251355": "Potted mangrove propagule model is incorrect",
     "MC-251656": "/say command fails to apply server message styling when sent from a command block, server console, or RCON, unlike /msg",
     "MC-251312": "Entity selectors in /say commands are no longer evaluated",
     "MC-251762": "使用两条斜杠作前缀时也可执行命令",
-    "MC-251649": "Clicking \"incomplete command\" message removes / in chat",
+    "MC-251649": "点击“命令不完整”提示后会移除输入框中的斜杠",
     "MC-251640": "在聊天消息中使用特殊字符时报错：io.netty.handler.codec.EncoderException",
     "MC-251405": "结构方块的消息被当作聊天消息来格式化",
     "MC-134892": "PacketBuffer.writeString's max length is in bytes, while readString is in characters",
