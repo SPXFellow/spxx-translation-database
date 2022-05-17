@@ -1,5 +1,5 @@
 {
-    "MC-251650": "Iron golems can spawn on non spawnable blocks such as leaves, glass, sea lanterns, etc",
+    "MC-251650": "铁傀儡可以在树叶、玻璃、海晶灯等非生成方块上生成",
     "MC-249328": "青蛙被黏液球引诱时会跳来跳去",
     "MC-250919": "当尝试加载包括由前一个输出字段中的大量字符组成的含有命令方块的区块时，服务器会崩溃",
     "MC-251479": "翻译文件里出现重复的键值对",
