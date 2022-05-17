@@ -1,6 +1,7 @@
 {
+    "MC-249328": "Frogs can jump around while being tempted with slimeballs",
     "MC-250919": "当尝试加载包括由前一个输出字段中的大量字符组成的含有命令方块的区块时，服务器会崩溃",
-    "MC-251479": "Duplicate object key [lang file]",
+    "MC-251479": "翻译文件里出现重复的键值对",
     "MC-251132": "服务器日志的“游戏测试服务器”消息",
     "MC-250932": "山羊角（Goat horn）的字幕未正确大小写",
     "MC-250006": "英国短毛猫的纹理名称与ID不匹配",
