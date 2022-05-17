@@ -1,8 +1,8 @@
 {
     "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
-    "MC-249834": "与玩家的副手交换物品时会产生震动",
-    "MC-213915": "Equipping armor through the inventory does not count as a vibration",
-    "MC-94060": "Equipping armor/elytra through inventory or dispenser doesn't play sounds",
+    "MC-249834": "与玩家的副手交换物品时会产生振动",
+    "MC-213915": "通过物品栏装备盔甲不被算作振动",
+    "MC-94060": "通过物品栏或发射器装备盔甲/鞘翅时不会播放声音",
     "MC-251650": "铁傀儡可以在树叶、玻璃、海晶灯等非生成方块上生成",
     "MC-249328": "青蛙被黏液球引诱时会跳来跳去",
     "MC-250919": "当尝试加载包括由前一个输出字段中的大量字符组成的含有命令方块的区块时，服务器会崩溃",
