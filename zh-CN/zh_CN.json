@@ -1,4 +1,6 @@
 {
+    "MC-251690": "Wardens can spawn on any non-full block, as long as it's solid",
+    "MC-225195": "Goats don't panic when tempted with their favorite food",
     "MC-250317": "用桶装一只蝌蚪的字幕为通用的“桶：装满”字幕",
     "MC-249456": "Tadpoles drop experience, unlike other baby mobs",
     "MC-249260": "Tadpoles are not tempted by slime balls",
