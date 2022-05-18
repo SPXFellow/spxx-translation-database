@@ -247,5 +247,6 @@
     "MC-251312": "NoMathExpectation",
     "MC-251656": "NoMathExpectation",
     "MC-134892": "NoMathExpectation",
-    "MC-251550": "AkashaMCPK"
+    "MC-251550": "AkashaMCPK",
+    "MC-251773": "AkashaMCPK"
 }
