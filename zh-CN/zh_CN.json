@@ -1,4 +1,5 @@
 {
+    "MC-251773": "The --dev argument for the data generators no longer converts nbt to snbt properly.",
     "MC-251550": "无法在 32 位操作系统中启动游戏",
     "MC-251355": "红树胎生苗盆栽的模型不正确",
     "MC-251656": "不像 `/msg` 命令， `/say` 命令被命令方块、服务器控制台或 RCON 执行时，应用服务器消息格式会失败",
