@@ -1,5 +1,5 @@
 {
-    "MC-249696": "Certain void worlds fail to spawn the player on the stone platform",
+    "MC-249696": "在一些虚空超平坦世界中，玩家不会出生在石头平台上",
     "MC-251871": "在与副手交换物品时产生的 `minecraft:item.armor.equip_generic` 音效被只能被其他玩家听见",
     "MC-251864": "用桶装鱼、美西螈或者蝌蚪时会产生 `minecraft:item.armor.equip_generic` 音效",
     "MC-251860": "在给悦灵物品时会产生 `minecraft:item.armor.equip_generic` 音效",
