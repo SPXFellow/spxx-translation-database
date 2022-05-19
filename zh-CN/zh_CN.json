@@ -12,7 +12,7 @@
     "MC-208761": "Sculk Sensor's 'block destroyed' doesn't trigger when blocks are destroyed by pistons",
     "MC-208760": "Sculk Sensor's 'block placed' doesn't trigger when snow golems place snow layers",
     "MC-208759": "Sculk Sensor's 'block placed' doesn't trigger with villagers placing crops",
-    "MC-207268": "Sculk sensors don't detect stripping logs, tilling dirt, or pathing grass",
+    "MC-207268": "幽匿感测体不会感测到给原木去皮、泥土开垦为耕地和草方块转变为草径",
     "MC-251890": "run_command click events send value as command instead of chat message",
     "MC-250259": "监守者骑乘实体时 AI 无法正常运作",
     "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
