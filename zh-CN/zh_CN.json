@@ -1,4 +1,7 @@
 {
+    "MC-251871": "The minecraft:item.armor.equip_generic sound is produced and can only be heard by other players when switching items between hands",
+    "MC-251864": "The minecraft:item.armor.equip_generic sound is produced when filling water buckets with fish, axolotls, or tadpoles",
+    "MC-251860": "The minecraft:item.armor.equip_generic sound is produced when giving items to allays",
     "MC-251690": "监守者可以在任何非完整的固体方块上生成",
     "MC-225195": "山羊在被它们喜爱的食物引诱时不会惊慌",
     "MC-250317": "用桶装一只蝌蚪的字幕为通用的“桶：装满”字幕",
