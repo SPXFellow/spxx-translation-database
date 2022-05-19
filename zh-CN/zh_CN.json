@@ -1,7 +1,7 @@
 {
     "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
-    "MC-251876": "Villagers produce armor equipping sound when previewing armor",
-    "MC-251862": "Shift clicking the destroy item button in the creative inventory creates a vibration when there is nothing in your equipment slots",
+    "MC-251876": "预览盔甲时村民会产生装备盔甲的音效",
+    "MC-251862": "按住 Shift 点击创造模式物品栏中的销毁物品按钮会产生震动，尽管护甲栏里什么也没有",
     "MC-251859": "Gear equipping sound plays every time armor/elytra durability changes while equipped",
     "MC-251854": "杀死不提供经验的生物时会被授予“它蔓延了”成就",
     "MC-249696": "在一些虚空超平坦世界中，玩家不会出生在石头平台上",
