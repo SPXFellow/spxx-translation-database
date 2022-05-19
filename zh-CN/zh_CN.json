@@ -1,4 +1,5 @@
 {
+    "MC-250259": "Warden AI doesn't function properly when it rides on entities",
     "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
     "MC-251876": "预览盔甲时村民会产生装备盔甲的音效",
     "MC-251862": "按住 Shift 点击创造模式物品栏中的销毁物品按钮会产生震动，尽管护甲栏里什么也没有",
