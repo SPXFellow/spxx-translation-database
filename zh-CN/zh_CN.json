@@ -1,5 +1,9 @@
 {
-    "MC-251854": "\"It Spreads\" advancement can be granted when killing a mob that does not give experience",
+    "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
+    "MC-251876": "Villagers produce armor equipping sound when previewing armor",
+    "MC-251862": "Shift clicking the destroy item button in the creative inventory creates a vibration when there is nothing in your equipment slots",
+    "MC-251859": "Gear equipping sound plays every time armor/elytra durability changes while equipped",
+    "MC-251854": "杀死不提供经验的生物时会被授予“它蔓延了”成就",
     "MC-249696": "在一些虚空超平坦世界中，玩家不会出生在石头平台上",
     "MC-251871": "在与副手交换物品时产生的 `minecraft:item.armor.equip_generic` 音效被只能被其他玩家听见",
     "MC-251864": "用桶装鱼、美西螈或者蝌蚪时会产生 `minecraft:item.armor.equip_generic` 音效",
@@ -28,7 +32,6 @@
     "MC-251640": "在聊天消息中使用特殊字符时报错：io.netty.handler.codec.EncoderException",
     "MC-251405": "结构方块的消息被当作聊天消息来格式化",
     "MC-134892": "`PacketBuffer.writeString` 以 byte 类型检查最大长度，而 `readString` 按字符串长度检查",
-    "MC-251736": "恶魂的火球在反弹后不能击中恶魂",
     "MC-249834": "与玩家的副手交换物品时会产生振动",
     "MC-213915": "通过物品栏装备盔甲不被算作振动",
     "MC-94060": "通过物品栏或发射器装备盔甲/鞘翅时不会播放声音",
