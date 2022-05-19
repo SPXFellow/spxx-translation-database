@@ -1,4 +1,5 @@
 {
+    "MC-251854": "\"It Spreads\" advancement can be granted when killing a mob that does not give experience",
     "MC-249696": "在一些虚空超平坦世界中，玩家不会出生在石头平台上",
     "MC-251871": "在与副手交换物品时产生的 `minecraft:item.armor.equip_generic` 音效被只能被其他玩家听见",
     "MC-251864": "用桶装鱼、美西螈或者蝌蚪时会产生 `minecraft:item.armor.equip_generic` 音效",
