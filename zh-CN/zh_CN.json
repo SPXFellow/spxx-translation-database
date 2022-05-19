@@ -1,9 +1,9 @@
 {
-    "MC-251889": "io.netty.handler.codec.EncoderException when evaluating too many entity selectors in chat preview",
+    "MC-251889": "在计算含有大量实体选择器的聊天预览时产生 `io.netty.handler.codec.EncoderException`",
     "MC-251824": "监守者不会被不会造成伤害的弹射物激怒",
     "MC-251675": "Mesa Mineshafts no longer generate with /place command outside of badlands biomes despite saying the structure has been generated successfully",
-    "MC-251314": "Goats loaded from older worlds lose their horns",
-    "MC-250956": "Baby goats with horns lose their horns when fed",
+    "MC-251314": "从旧版世界加载过来的山羊的角会消失",
+    "MC-250956": "给有角的幼年山羊喂食会使其失去角",
     "MC-250941": "山羊在撞到铜矿石时不会掉落山羊角",
     "MC-220087": "幽匿感测体无法感测到蜜脾给铜块上蜡",
     "MC-220086": "幽匿感测体无法感测到斧给铜块脱蜡或除锈",
