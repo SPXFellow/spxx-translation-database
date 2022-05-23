@@ -1,4 +1,5 @@
 {
+    "MC-210801": "Wool incorrectly occludes the vibration of item frames being placed",
     "MC-251889": "在计算含有大量实体选择器的聊天预览时产生 `io.netty.handler.codec.EncoderException`",
     "MC-251824": "监守者不会被不会造成伤害的弹射物激怒",
     "MC-251675": "恶地废弃矿井无法再通过 `/place` 命令来在恶地以外的生物群系生成，尽管游戏提示该结构已成功生成",
