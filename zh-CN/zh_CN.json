@@ -1,4 +1,8 @@
 {
+    "MC-251646": "\"death.attack.sonic_boom.item\" displays raw translation string (is untranslated)",
+    "MC-251639": "Warden emerging particles don't match up with block they emerge on the entire way",
+    "MC-186851": "\"death.attack.sting.item\" displays raw translation string (is untranslated)",
+    "MC-186148": "\"death.attack.witherSkull.item\" displays raw translation string (is untranslated)",
     "MC-210801": "Wool incorrectly occludes the vibration of item frames being placed",
     "MC-251889": "在计算含有大量实体选择器的聊天预览时产生 `io.netty.handler.codec.EncoderException`",
     "MC-251824": "监守者不会被不会造成伤害的弹射物激怒",
