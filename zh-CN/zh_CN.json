@@ -1,4 +1,8 @@
 {
+    "MC-251500": "Wardens ignore PersistenceRequired and dig away",
+    "MC-251412": "Warden afflicting Darkness to players in the same team",
+    "MC-210330": "Sculk sensors are not activated upon throwing eyes of ender",
+    "MC-209701": "Sculk sensors are not activated upon placing food onto campfires",
     "MC-251929": "为瓶子装水时会播放装备盔甲的音效",
     "MC-251928": "为瓶子装蜂蜜时会播放装备盔甲的音效",
     "MC-251927": "拥有 `CanPickUpLoot` 标签的生物在捡起物品时会播放装备盔甲的音效及显示其字幕",
