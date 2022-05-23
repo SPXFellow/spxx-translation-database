@@ -1,4 +1,7 @@
 {
+    "MC-251670": "Villager sometimes won't refill their stock",
+    "MC-251601": "Darkness rendering incorrectly when reloading the game",
+    "MC-251336": "Darkness fog flashes at high duration values",
     "MC-251500": "Wardens ignore PersistenceRequired and dig away",
     "MC-251412": "Warden afflicting Darkness to players in the same team",
     "MC-210330": "Sculk sensors are not activated upon throwing eyes of ender",
