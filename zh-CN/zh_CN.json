@@ -1,4 +1,6 @@
 {
+    "MC-251878": "Sculk sensors hearing items being dropped on the ground doesn't alert shriekers even if a player drops it",
+    "MC-209932": "Sculk sensors only detect the last turtle egg being broken when being stepped on",
     "MC-214622": "Sculk sensors do not detect daylight detector mode switching",
     "MC-210278": "Sculk sensors are not activated upon bees entering or leaving their hive or nest",
     "MC-210277": "Sculk sensors are not activated upon chickens laying eggs",
