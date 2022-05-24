@@ -1,6 +1,7 @@
 {
-    "MC-252078": "Allays no longer flee or panic when taking damage",
-    "MC-251858": "Subtitles are higher than in previous versions",
+    "MC-250162": "Placing a map in an item frame will break any intersecting paintings and item frames with a map inside",
+    "MC-252078": "悦灵受伤时不再逃跑和恐慌",
+    "MC-251858": "字幕的位置高于之前的版本",
     "MC-250983": "悦灵可能在非完整方块中被卡住",
     "MC-249094": "幽匿尖啸体面部内侧有不正确的切刻",
     "MC-249230": "青蛙受伤时会优先吃实体，而不会惊慌",
