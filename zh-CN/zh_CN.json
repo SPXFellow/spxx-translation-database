@@ -1,4 +1,7 @@
 {
+    "MC-214622": "Sculk sensors do not detect daylight detector mode switching",
+    "MC-210278": "Sculk sensors are not activated upon bees entering or leaving their hive or nest",
+    "MC-210277": "Sculk sensors are not activated upon chickens laying eggs",
     "MC-251670": "村民有时不会补货",
     "MC-251601": "黑暗效果在重新加载游戏时渲染错误",
     "MC-251336": "黑暗效果时间较长时其造成的雾会快速闪烁",
