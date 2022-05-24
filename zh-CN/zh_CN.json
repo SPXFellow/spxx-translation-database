@@ -1,5 +1,5 @@
 {
-    "MC-250162": "Placing a map in an item frame will break any intersecting paintings and item frames with a map inside",
+    "MC-250162": "把地图放入物品展示框会破坏掉与之重合的画和其他放入地图的物品展示框",
     "MC-252078": "悦灵受伤时不再逃跑和恐慌",
     "MC-251858": "字幕的位置高于之前的版本",
     "MC-250983": "悦灵可能在非完整方块中被卡住",
