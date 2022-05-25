@@ -1,5 +1,7 @@
 {
-    "MC-251872": "The game output and server console are logged with warnings regarding chat packets with invalid signatures when using entity selectors within commands",
+    "MC-252071": "监守者在信号传播时死亡后仍能检测到该信号",
+    "MC-251420": "Demo Mode: The \"Purchase Now!\" link's destination is incorrect",
+    "MC-251872": "在命令中使用实体选择器时，游戏输出和服务器控制台会记录关于聊天数据包带有无效签名的警告",
     "MC-251220": "22w17a 中方块延伸部分的亮度比 1.18.2 暗得多",
     "MC-250238": "青蛙尝试寻找攻击范围外的实体时会旋转并抽搐",
     "MC-250162": "把地图放入物品展示框会破坏掉与之重合的画和其他放入地图的物品展示框",
