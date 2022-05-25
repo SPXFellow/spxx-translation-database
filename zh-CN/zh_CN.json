@@ -1,7 +1,7 @@
 {
     "MC-251872": "The game output and server console are logged with warnings regarding chat packets with invalid signatures when using entity selectors within commands",
-    "MC-251220": "Block lighting on extended parts are a lot darker in 22w17a compared to 1.18.2",
-    "MC-250238": "Frogs attempt to pathfind to entities outside of their reach causing them to spin and twitch constantly",
+    "MC-251220": "22w17a 中方块延伸部分的亮度比 1.18.2 暗得多",
+    "MC-250238": "青蛙尝试寻找攻击范围外的实体时会旋转并抽搐",
     "MC-250162": "把地图放入物品展示框会破坏掉与之重合的画和其他放入地图的物品展示框",
     "MC-252078": "悦灵受伤时不再逃跑和恐慌",
     "MC-251858": "字幕的位置高于之前的版本",
