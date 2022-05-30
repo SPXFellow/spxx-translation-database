@@ -1,6 +1,6 @@
 {
     "MC-249831": "含水层会在区块边界截断",
-    "MC-220067": "Chunk corruption with command block full of certain Unicode characters",
+    "MC-220067": "当命令方块内填满特定 Unicode 字符时，其所在的区块会崩溃",
     "MC-245504": "触屏模式下发生崩溃：`java.lang.ClassCastException: class eec$a cannot be cast to class eec$c (eec$a and eec$c are in unnamed module of loader 'app')`",
     "MC-251840": "在获取方块状态时游戏崩溃：`cwj: Missing Palette entry for index 8`",
     "MC-251989": "无法发送聊天或使用命令",
