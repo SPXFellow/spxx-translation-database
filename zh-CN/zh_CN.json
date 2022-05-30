@@ -1,4 +1,5 @@
 {
+    "MC-220067": "Chunk corruption with command block full of certain Unicode characters",
     "MC-245504": "触屏模式下发生崩溃：`java.lang.ClassCastException: class eec$a cannot be cast to class eec$c (eec$a and eec$c are in unnamed module of loader 'app')`",
     "MC-251840": "在获取方块状态时游戏崩溃：`cwj: Missing Palette entry for index 8`",
     "MC-251989": "无法发送聊天或使用命令",
