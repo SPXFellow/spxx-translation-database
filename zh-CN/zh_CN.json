@@ -1,4 +1,5 @@
 {
+    "MC-251840": "Game crash whilst getting block state: cwj: Missing Palette entry for index 8",
     "MC-251989": "无法发送聊天或使用命令",
     "MC-251859": "装备盔甲/鞘翅时，每当其耐久度发生变化时都会播放装备盔甲的声音",
     "MC-251968": "使用 `/execute` 执行与聊天相关的命令会使日志产生“收到没有有效签名的聊天数据包”的警告",
