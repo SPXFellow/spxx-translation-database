@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#1f1e33](https://img.shields.io/static/v1?label=&message=DrLee_lihr&color=1f1e33&style=flat-square)|1|
 ## Rank for Latest Version 1.19 Pre-release 3
 |Translator|Score|
 |---|---|
