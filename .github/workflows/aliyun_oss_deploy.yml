@@ -1,0 +1,23 @@
+name: Deploy to Aliyun OSS
+
+on:
+  push:
+    branches:
+     - master
+     - crowdin
+
+jobs:
+  if: "!contains(github.event.head_commit.message, '[skip ci]')"
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Upload to Aliyun
+        uses: Teahouse-Studios/aliyun-oss-action@0.7
+        with:
+          KEY_ID: ${{ secrets.KEY_ID }}
+          KEY_SECRET: ${{ secrets.KEY_SECRET }}
+          BUCKET: spxx-translation-database
+          LOCAL_PATH: ./
+          REMOTE_PREFIX: ${{ github.ref_name }}/
