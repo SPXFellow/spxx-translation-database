@@ -1,4 +1,7 @@
 {
+    "MC-252038": "Warden attacks immediately if hit during emerging animation",
+    "MC-251594": "Leads are leashed too high on allays",
+    "MC-251323": "Mobs target emerging warden/ warden faces attacking mob while emerging if dealt melee damage",
     "MC-249831": "含水层会在区块边界截断",
     "MC-220067": "当命令方块内填满特定 Unicode 字符时，其所在的区块会崩溃",
     "MC-245504": "触屏模式下发生崩溃：`java.lang.ClassCastException: class eec$a cannot be cast to class eec$c (eec$a and eec$c are in unnamed module of loader 'app')`",
