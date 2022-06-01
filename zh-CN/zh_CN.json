@@ -1,6 +1,6 @@
 {
-    "MC-249323": "Modifying a world preset to not include overworld settings will not give a datapack error, but selecting the world type will instantly crash your game",
-    "MC-252157": "'CustomName' NBT tag still prevents wardens from digging down",
+    "MC-249323": "使用不包含主世界设置的数据包调整世界预设不会产生数据包错误，但选择世界类型会立即使游戏崩溃",
+    "MC-252157": "`CustomName` NBT 标签仍会阻止监守者钻地",
     "MC-249121": "幽匿块的一些声音没有字幕",
     "MC-252108": "吃东西不能再打开在 `city_center_2` 中的活塞门",
     "MC-250295": "悦灵的头不会旋转至它的视线方向",
