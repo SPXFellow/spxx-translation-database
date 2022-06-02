@@ -1,4 +1,5 @@
 {
+    "MC-252398": "Darkness effect fading in death screen causes subtle flashing",
     "MC-249323": "使用不包含主世界设置的数据包调整世界预设不会产生数据包错误，但选择世界类型会立即使游戏崩溃",
     "MC-252157": "`CustomName` NBT 标签仍会阻止监守者钻地",
     "MC-249121": "幽匿块的一些声音没有字幕",
