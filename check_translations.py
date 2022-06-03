@@ -37,18 +37,21 @@ if __name__ == "__main__":
                 if translator:
                     translator_info[key] = translator
 
-    latest_released_version = latest_fixed[0].fields.fixVersions[0].name
-    is_new_released = translator_info['latest'] != latest_released_version
-    query_translator(future_fixed)
-    query_translator(latest_fixed, is_new_released)
-    if is_new_released:
-        print("New version detected:", latest_released_version)
-        translator_info['latest'] = latest_released_version
+    if len(latest_fixed) == 0: # in case of empty issue list
+        latest_released_version = ""
     else:
-        print("Latest:", latest_released_version)
+        latest_released_version = latest_fixed[0].fields.fixVersions[0].name
+        is_new_released = translator_info['latest'] != latest_released_version
+        query_translator(future_fixed)
+        query_translator(latest_fixed, is_new_released)
+        if is_new_released:
+            print("New version detected:", latest_released_version)
+            translator_info['latest'] = latest_released_version
+        else:
+            print("Latest:", latest_released_version)
 
-    with open("translator.json", "w") as f:
-        json.dump(translator_info, f, ensure_ascii = False, indent = 4)
+        with open("translator.json", "w") as f:
+            json.dump(translator_info, f, ensure_ascii = False, indent = 4)
 
     #### Generate README here ####
     with open("color.json", "r") as fc:
@@ -75,14 +78,15 @@ if __name__ == "__main__":
                 rank[translator] = rank.get(translator, 0) + 1
         rstr += make_table(rank, color)
 
-        rstr += '\n## Rank for Latest Version {}\n'.format(latest_released_version)   
-        rank = {}
-        for issue in latest_fixed:
-            key = issue.key
-            if key in translator_info:
-                translator = translator_info[key]
-                rank[translator] = rank.get(translator, 0) + 1
-        rstr += make_table(rank, color)
+        if latest_released_version: # in case of empty issue list
+            rstr += '\n## Rank for Latest Version {}\n'.format(latest_released_version)   
+            rank = {}
+            for issue in latest_fixed:
+                key = issue.key
+                if key in translator_info:
+                    translator = translator_info[key]
+                    rank[translator] = rank.get(translator, 0) + 1
+            rstr += make_table(rank, color)
         
         rstr +='\n## Rank for All Time\nData since 22w14a.\n'
         rank = {}
