@@ -1,4 +1,5 @@
 {
+    "MC-252082": "Loading server resource packs reloads twice when one is already loaded",
     "MC-249780": "在远古城市中，需支撑的方块可浮空生成",
     "MC-252398": "黑暗效果在死亡屏幕上逐渐消失时会导致轻微的闪烁",
     "MC-249323": "使用不包含主世界设置的数据包调整世界预设不会产生数据包错误，但选择世界类型会立即使游戏崩溃",
