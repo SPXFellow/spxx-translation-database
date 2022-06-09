@@ -1,4 +1,7 @@
 {
+    "MC-249523": "Sky color is visible for a brief moment after applying Night Vision under Darkness effect",
+    "MC-250267": "青蛙不在含水方块上产卵",
+    "MC-250261": "青蛙可以在流动水中产卵",
     "MC-252082": "Loading server resource packs reloads twice when one is already loaded",
     "MC-249780": "在远古城市中，需支撑的方块可浮空生成",
     "MC-252398": "黑暗效果在死亡屏幕上逐渐消失时会导致轻微的闪烁",
