@@ -1,4 +1,5 @@
 {
+    "MC-252539": "Commands sending messages use formatting of regular chat in server logs",
     "MC-252683": "Unexpected exception in the selector loop causing server lag",
     "MC-252439": "被治愈的村民不会刷新交易",
     "MC-177505": "被治愈的村民可能会在错误的工作站点上工作",
