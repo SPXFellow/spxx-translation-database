@@ -1,5 +1,8 @@
 {
-    "MC-146891": "Nitwit villager can have a profession",
+    "MC-252683": "Unexpected exception in the selector loop causing server lag",
+    "MC-252439": "被治愈的村民不会刷新交易",
+    "MC-177505": "被治愈的村民可能会在错误的工作站点上工作",
+    "MC-146891": "傻子村民可能会获得职业",
     "MC-144043": "行商羊驼在攻击的目标死亡后仍会继续向其吐唾沫",
     "MC-252363": "自然生成装备盔甲的生物时，会附加播放装备盔甲的音效",
     "MC-249523": "在黑暗效果下使用夜视，天空颜色会短暂可见",
