@@ -5,6 +5,10 @@ on:
     branches:
      - master
      - crowdin
+  workflow_run:
+    workflows: ["Check Mojira"]
+    types:
+      - completed
 
 jobs:
   deploy:
