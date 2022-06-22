@@ -1,4 +1,5 @@
 {
+    "MC-251518": "Allay's poses, flying animations, and dancing animations for duping differ from Bedrock's, causing intense clipping, inconsistencies, choppy movements, and strange item positioning",
     "MC-250423": "青蛙尝试远距离跳到体积较小的方块上时很少能成功",
     "MC-130754": "玩家在耕地上跳跃时会被略微挤开",
     "MC-253191": "悦灵复制产生的粒子无法被其他玩家看到",
