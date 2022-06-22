@@ -1,5 +1,5 @@
 {
-    "MC-253422": "The selection of the \"Please report breaches of our Community Standards\" text within the \"Select Report Category\" menu is slightly confusing due to the words \"Community Standards\" being underlined by default",
+    "MC-253422": "“选择举报类型”菜单中，选中状态下的“请举报违反我们社区准则的行为”文本容易引起用户误会，因为“社区准则”一词本身已带有下划线",
     "MC-252511": "新旧渲染边界间不会生成基岩",
     "MC-253336": "在 `-3721742095548798177` 种子生成的世界中使用末影之眼会被踢出服务器",
     "MC-252987": "Illegal character '\\n' in text component clickEvent",
