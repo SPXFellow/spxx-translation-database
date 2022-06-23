@@ -1,4 +1,7 @@
 {
+    "MC-253225": "Selection boxes of fields within player reporting menu lists don't contain white outlines when selected using the TAB key",
+    "MC-253188": "Selection boxes within the \"Select Chat Messages to Report\" menu differ in size ever so slightly depending on how they're selected",
+    "MC-253114": "Selection boxes within the \"Select Chat Messages to Report\" menu don't disappear when deselecting fields after reentering the menu",
     "MC-253189": "有 `NoAI` 数据的悦灵仍会跳舞",
     "MC-250020": "`mobGriefing` 设为 `true` 时悦灵不会忽略物品",
     "MC-253422": "“选择举报类型”菜单中，选中状态下的“请举报违反我们社区准则的行为”文本容易引起用户误会，因为“社区准则”一词本身已带有下划线",
