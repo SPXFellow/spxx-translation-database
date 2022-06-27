@@ -1,4 +1,7 @@
 {
+    "MC-253501": "Long messages within the \"Select Chat Messages to Report\" menu can extend beyond selection boxes and past the scroll bar",
+    "MC-253495": "Selection boxes of fields within the \"Select Report Category\" menu list don't contain white outlines when selected using the TAB key",
+    "MC-253493": "The descriptions of report categories can once again overlap the \"Description:\" subtitle",
     "MC-253227": "玩家下线后无法被举报",
     "MC-253225": "在“玩家举报”菜单的列表中使用 Tab 键导航时，消息选择框没有出现白色边框",
     "MC-253188": "“选择要举报的聊天消息”菜单中选择框的尺寸依选中方式的不同而存在细微差异",
