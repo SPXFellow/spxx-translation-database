@@ -1,4 +1,6 @@
 {
+    "MC-253497": "Entities and other non-player chat message sources appear in the Social Interactions menu",
+    "MC-253121": "Entities and other non-player chat message sources appear as players on the Select Chat Messages to Report screen",
     "MC-253517": "使用正版验证的玩家无法连接到没有正版验证的服务器，因为“无效的个人资料公钥签名”",
     "MC-253501": "“请选择要举报的聊天消息”菜单中，较长的消息文本会超出选择框的轮廓范围和滚动条的位置",
     "MC-253495": "在“请选择举报类别”菜单的列表中使用 Tab 键导航时，消息选择框不带白色边框",
