@@ -1,5 +1,5 @@
 {
-    "MC-253112": "The game output console is logged with warnings regarding chat packets with invalid signatures when using entity selectors within commands",
+    "MC-253112": "在命令中使用实体选择器时，游戏输出控制台会记录关于聊天数据包带有无效签名的警告",
     "MC-253497": "实体和其他非玩家的聊天消息发送者会出现在社交菜单当中",
     "MC-253121": "实体和其他非玩家的聊天消息发送者会在“选择要举报的聊天消息”界面中被当作玩家显示",
     "MC-253517": "使用正版验证的玩家无法连接到没有正版验证的服务器，因为“无效的个人资料公钥签名”",
