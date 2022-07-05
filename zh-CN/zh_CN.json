@@ -1,4 +1,6 @@
 {
+    "MC-253223": "A preposition is incorrectly used within the \"gui.abuseReport.reason.terrorism_or_violent_extremism.description\" string",
+    "MC-253182": "The second instance of a reflexive pronoun is used incorrectly within the \"gui.abuseReport.reason.self_harm_or_suicide.description\" string",
     "MC-253742": "聊天消息滚动条与消息可信状态颜色指示器交叠",
     "MC-253496": "由 `/execute as {player} run say` 产生的消息可以被举报系统选中",
     "MC-253773": "私聊总是显示被服务器修改",
