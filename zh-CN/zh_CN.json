@@ -1,5 +1,5 @@
 {
-    "MC-253738": "Vibration particle faces at a constant pitch of about 60 degs, not pointing towards the target",
+    "MC-253738": "振动粒子会指向一个约60°的恒定俯仰角方向，而并不是指向朝向目标的方向",
     "MC-251296": "悦灵的纹理有透明部分，但在游戏里不透明",
     "MC-249875": "趋同事项：悦灵在进行跟随玩家、投掷物品等行为时会迟钝一段时间",
     "MC-249842": "悦灵会尝试向世界边界外的物品寻路",
