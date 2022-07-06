@@ -5,7 +5,9 @@
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|4|
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|3|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|3|
+|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|1|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|1|
+|![#69328f](https://img.shields.io/static/v1?label=&message=Ricolove&color=69328f&style=flat-square)|1|
 ## Rank for Latest Version 1.19.1 Pre-release 2
 |Translator|Score|
 |---|---|
@@ -24,7 +26,7 @@ Data since 22w14a.
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|28|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
+|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
-|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|4|
 |![#bb45ee](https://img.shields.io/static/v1?label=&message=XiTieShiZ&color=bb45ee&style=flat-square)|3|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KaplanSteve&color=388d40&style=flat-square)|1|
