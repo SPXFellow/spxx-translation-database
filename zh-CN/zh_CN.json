@@ -1,4 +1,5 @@
 {
+    "MC-253214": "Tooltips will become offset in certain cases ",
     "MC-253076": "悦灵的NBT数据被每刻更新时其会复制物品",
     "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-253182": "字符串 `gui.abuseReport.reason.self_harm_or_suicide.description` 中的第二个反身代词用法不正确",
