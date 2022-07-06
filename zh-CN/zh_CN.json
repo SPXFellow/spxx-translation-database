@@ -1,5 +1,5 @@
 {
-    "MC-253076": "Allay duplicates Items when its NBT data is updated every tick",
+    "MC-253076": "悦灵的NBT数据被每刻更新时其会复制物品",
     "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-253182": "字符串 `gui.abuseReport.reason.self_harm_or_suicide.description` 中的第二个反身代词用法不正确",
     "MC-253742": "聊天消息滚动条与消息可信状态颜色指示器交叠",
@@ -37,7 +37,7 @@
     "MC-252327": "重启游戏并删除世界后，世界列表加载失败",
     "MC-249973": "1.19中加载资源包明显变慢",
     "MC-253183": "`gui.chatSelection.fold` 字符串中的“Unrelated”一词被错误地大写了",
-    "MC-253178": "`gui.abuseReport.reason.non_consensual_intimate_imagery` 字符串中的“ Non-consensual”一词被错拼成“Non-consentual”",
+    "MC-253178": "`gui.abuseReport.reason.non_consensual_intimate_imagery` 字符串中的“Non-consensual”一词被错拼成“Non-consentual”",
     "MC-253127": "无法创建聊天举报时未提供理由",
     "MC-253126": "“选择要举报的消息”菜单中的滚动条的位置在向上滚动时有时会重置到底部",
     "MC-253123": "“发送举报中”菜单中的按钮在调整窗口大小后会变化",
