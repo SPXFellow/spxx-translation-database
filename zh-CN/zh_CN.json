@@ -1,4 +1,5 @@
 {
+    "MC-253076": "Allay duplicates Items when its NBT data is updated every tick",
     "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-253182": "字符串 `gui.abuseReport.reason.self_harm_or_suicide.description` 中的第二个反身代词用法不正确",
     "MC-253742": "聊天消息滚动条与消息可信状态颜色指示器交叠",
