@@ -1,4 +1,5 @@
 {
+    "MC-253813": "Chat commands with entity selectors often reported as \"This message is not secure\"",
     "MC-253743": "服务器控制台不显示聊天信息是否安全或被修改",
     "MC-253738": "振动粒子会指向一个约60°的恒定俯仰角方向，而并不是指向朝向目标的方向",
     "MC-251296": "悦灵的纹理有透明部分，但在游戏里不透明",
