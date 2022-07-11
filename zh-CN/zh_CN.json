@@ -1,4 +1,5 @@
 {
+    "MC-253997": "The current description of \"Imminent harm - Threat to harm others\" report category seems not matching its title",
     "MC-253813": "由与聊天有关的命令产生的消息使用了实体选择器时常被标记为“此消息不安全”",
     "MC-253743": "服务器控制台不显示聊天信息是否安全或被修改",
     "MC-253738": "振动粒子会指向一个约60°的恒定俯仰角方向，而并不是指向朝向目标的方向",
