@@ -1,4 +1,5 @@
 {
+    "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-252702": "当系统使用阿拉伯文、波斯文或与其相似的语言时尝试启动 1.19 时游戏崩溃。",
     "MC-252546": "音频质量与 1.18.2 版本相比有下降",
     "MC-253888": "由服务器通过聊天举报功能篡改过的消息仍可被签名及举报",
@@ -17,7 +18,6 @@
     "MC-250249": "趋同事项：悦灵捡拾的药箭/药水的效果与其所持的不同",
     "MC-253214": "悬浮提示在部分情况下显示位置有偏移",
     "MC-253076": "悦灵的NBT数据被每刻更新时其会复制物品",
-    "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-253182": "字符串 `gui.abuseReport.reason.self_harm_or_suicide.description` 中的第二个反身代词用法不正确",
     "MC-253742": "聊天消息滚动条与消息可信状态颜色指示器交叠",
     "MC-253496": "由 `/execute as {player} run say` 产生的消息可以被举报系统选中",
