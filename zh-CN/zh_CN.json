@@ -1,4 +1,5 @@
 {
+    "MC-253888": "Messages that servers have tampered with through chat reporting are signed and reportable",
     "MC-254089": "聊天预览组件允许服务器“隐藏”聊天内容",
     "MC-253950": "输入信息后发送得太快，无法在最终正确的聊天预览上签名",
     "MC-249106": "透过青蛙卵碰撞箱/模型看见的水被不正确地渲染",
