@@ -1,5 +1,5 @@
 {
-    "latest": "1.19.1 Pre-release 4",
+    "latest": "1.19.1 Pre-release 5",
     "MC-249816": "Ricolove",
     "MC-249800": "Ricolove",
     "MC-249785": "Ricolove",
@@ -419,5 +419,7 @@
     "MC-254089": "Olvcpr423",
     "MC-253888": "Olvcpr423",
     "MC-252546": "Olvcpr423",
-    "MC-252702": "KaplanSteve"
+    "MC-252702": "KaplanSteve",
+    "MC-149047": "Lakeus",
+    "MC-130243": "Lakeus"
 }
