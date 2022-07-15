@@ -1,6 +1,6 @@
 {
-    "MC-149047": "Scroll Sensitivity slider label uses OS locale for number formatting",
-    "MC-130243": "/debug stop message uses OS locale specific number formatting",
+    "MC-149047": "滚轮灵敏度滑块的标签文字总是跟随操作系统区域设置的数字格式",
+    "MC-130243": "/debug命令的停止消息总是跟随操作系统区域设置的数字格式",
     "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
     "MC-252702": "当系统使用阿拉伯文、波斯文或与其相似的语言时尝试启动 1.19 时游戏崩溃。",
     "MC-252546": "音频质量与 1.18.2 版本相比有下降",
