@@ -1,5 +1,5 @@
 {
-    "MC-254284": "Sending chat packets with invalid message type id crashes the game",
+    "MC-254284": "发送带无效消息类型 ID 的聊天数据包会导致游戏崩溃",
     "MC-149047": "滚轮灵敏度滑块的标签文字总是跟随操作系统区域设置的数字格式",
     "MC-130243": "`/debug` 命令的停止消息总是使用操作系统设置的区域数字格式",
     "MC-253223": "字符串 `gui.abuseReport.reason.terrorism_or_violent_extremism.description` 中使用了错误的介词",
