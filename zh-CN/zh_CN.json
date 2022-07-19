@@ -1,4 +1,8 @@
 {
+    "MC-253402": "Game crash when you shift right click on item in your hotbar to the chest at the same time as you die",
+    "MC-252265": "--server argument causes java.lang.NullPointerException crash on some servers",
+    "MC-235614": "Reference to unexisting predicate in a datapack causes java.lang.NullPointerException ",
+    "MC-148149": "Linux game crash when opening links",
     "MC-254261": "聊天预览部分的背景不透明框在床上睡觉时渲染在“起床”按钮的后面",
     "MC-254255": "聊天预览功能设为“发送时”时无法在睡觉时在聊天栏打字",
     "MC-254284": "发送带无效消息类型 ID 的聊天数据包会导致游戏崩溃",
