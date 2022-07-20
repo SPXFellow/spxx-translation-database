@@ -1,8 +1,8 @@
 {
-    "MC-254349": "Crash when putting dye into a loom on a modded server",
-    "MC-252258": "Wool block / carpet items generate vibrations, unless thrown by crouching players",
-    "MC-252190": "Player-dropped items creating vibrations depends on you sneaking at the moment the item hits the ground, instead of when you threw the item",
-    "MC-207077": "Crash on loading pre-1.13 world with noteblock + note NBT in inventory",
+    "MC-254349": "在被修改的服务器里将染料放入织布机会导致游戏崩溃",
+    "MC-252258": "羊毛/地毯的掉落物会产生振动，除非是被潜行的玩家丢弃的",
+    "MC-252190": "玩家丢弃的物品是否产生振动取决于物品落地时玩家是否潜行，而不是丢弃物品时",
+    "MC-207077": "加载 1.13 前含有音高 nbt 的音符盒的物品栏的世界会导致崩溃",
     "MC-253402": "玩家在 Shift + 右击快捷栏中的物品将其放入箱子时死亡会导致游戏崩溃",
     "MC-252265": "`--server` 参数在一些服务器上会导致 `java.lang.NullPointerException` 崩溃",
     "MC-235614": "数据包中引用不存在的谓词引发 `java.lang.NullPointerException` 崩溃",
