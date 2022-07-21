@@ -1,4 +1,5 @@
 {
+    "MC-254355": "Key binds set to mouse buttons of number greater than 8 switch over by 1 when the game starts",
     "MC-254405": "调试信息的前缀并非灰色指示器",
     "MC-254349": "在被修改的服务器里将染料放入织布机会导致游戏崩溃",
     "MC-252258": "羊毛/地毯的掉落物会产生振动，除非是被潜行的玩家丢弃的",
