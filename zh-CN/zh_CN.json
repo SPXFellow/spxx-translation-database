@@ -67,7 +67,7 @@
     "MC-253055": "资源包会使 `WeighedSoundEvents` 复制音效",
     "MC-252508": "Realms 世界生成类型缺少翻译字符串",
     "MC-252327": "重启游戏并删除世界后，世界列表加载失败",
-    "MC-249973": "1.19中加载资源包明显变慢",
+    "MC-249973": "1.19 中加载资源包明显变慢",
     "MC-253183": "`gui.chatSelection.fold` 字符串中的“Unrelated”一词被错误地大写了",
     "MC-253178": "`gui.abuseReport.reason.non_consensual_intimate_imagery` 字符串中的“Non-consensual”一词被错拼成“Non-consentual”",
     "MC-253127": "无法创建聊天举报时未提供理由",
