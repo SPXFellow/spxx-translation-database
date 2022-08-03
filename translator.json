@@ -1,5 +1,5 @@
 {
-    "latest": "1.19.1 Release Candidate 3",
+    "latest": "1.19.1",
     "MC-249816": "Ricolove",
     "MC-249800": "Ricolove",
     "MC-249785": "Ricolove",
@@ -435,5 +435,6 @@
     "MC-254349": "NoMathExpectation",
     "MC-254405": "Lakeus",
     "MC-254355": "Olvcpr423",
-    "MC-254529": "Hatsuki_kiri"
+    "MC-254529": "Hatsuki_kiri",
+    "MC-252415": "NoMathExpectation"
 }
