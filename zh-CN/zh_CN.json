@@ -1,4 +1,5 @@
 {
+    "MC-254774": "Crash when a villager with a gossip of value 0 shares gossips",
     "MC-255164": "幽匿尖啸体的警告等级在玩家死亡后会重置为 0",
     "MC-252415": "基岩版 1.19.10 的新闪烁标语不会在 java 版 1.19 中出现",
     "MC-254529": "警告提示框和信息提示框会重叠",
