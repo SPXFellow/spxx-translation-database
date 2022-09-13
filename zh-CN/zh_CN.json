@@ -1,4 +1,7 @@
 {
+    "MC-249294": "Rabbits ignore the \"MoreCarrotTicks\" value, causing them to always try to eat carrots",
+    "MC-175313": "Composter filling sounds originate from the bottom northwest corner of the block",
+    "MC-152752": "Jukebox music sound originates from north-west edge of the block",
     "MC-199162": "One farmland block in plains_large_farm_1 has moisture level 0",
     "MC-243458": "Worldgen data packs don't work on servers",
     "MC-254695": "“复述功能已关闭”弹窗渲染不完全",
