@@ -1,4 +1,9 @@
 {
+    "MC-254395": "Command suggestions can overlap the chat preview field when the chat preview option is set to \"When Sending\"",
+    "MC-253367": "The screen is sometimes flashed with the \"Loading terrain...\" screen after proceeding with the chat preview warning when all nearby chunks are loaded",
+    "MC-252089": "The chat preview warning menu is forcibly closed when the player dies or changes dimensions",
+    "MC-251688": "Chat preview can overlap chat contents if the message is long enough",
+    "MC-206854": "Multiplayer warning and Chat Preview warning are off center",
     "MC-242663": "西瓜可以在水下生成",
     "MC-249294": "兔子会无视 `MoreCarrotTicks` 的值而一直寻找并吃下胡萝卜",
     "MC-175313": "堆肥桶填充音效的发声点位于其底端的西北角",
