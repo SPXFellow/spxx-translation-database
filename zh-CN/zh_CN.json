@@ -1,4 +1,5 @@
 {
+    "MC-242663": "Melons can generate underwater",
     "MC-249294": "Rabbits ignore the \"MoreCarrotTicks\" value, causing them to always try to eat carrots",
     "MC-175313": "Composter filling sounds originate from the bottom northwest corner of the block",
     "MC-152752": "Jukebox music sound originates from north-west edge of the block",
