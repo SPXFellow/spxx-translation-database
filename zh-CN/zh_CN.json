@@ -1,4 +1,5 @@
 {
+    "MC-248753": "Pressure plates don't activate even though visually they should",
     "MC-170457": "箱子的锁闩未被正确旋转",
     "MC-254535": "下界传送门不能替换雪层",
     "MC-183831": "村民可在未站起时繁殖",
