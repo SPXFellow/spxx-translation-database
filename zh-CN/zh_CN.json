@@ -1,5 +1,5 @@
 {
-    "MC-221568": "Inconsistency: Barriers and structure voids produce particles when broken, but light blocks do not",
+    "MC-221568": "特性不一致：光源方块不会像屏障和结构空位一样在被破坏时产生粒子",
     "MC-248753": "压力板在看起来应当激活的情况下未激活",
     "MC-170457": "箱子的锁闩未被正确旋转",
     "MC-254535": "下界传送门不能替换雪层",
