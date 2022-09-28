@@ -1,8 +1,9 @@
 {
-    "MC-254119": "Breeding a Screaming Goat and a Regular Goat never results in a screaming goat",
+    "MC-249935": "新进度“生日快乐歌”没有经验奖励",
+    "MC-254119": "使一只尖叫山羊和一只普通山羊繁殖时永远不会产生尖叫山羊",
     "MC-14167": "生物被拴绳吊在空中时会积累摔落伤害",
     "MC-160610": "生物可以在紫颂花上生成",
-    "MC-250311": "The minecraft:entity.tadpole.grow_up sound event doesn't have a translation key",
+    "MC-250311": "声音 `minecraft:entity.tadpole.grow_up` 没有本地化键名",
     "MC-221568": "特性不一致：光源方块不会像屏障和结构空位一样在被破坏时产生粒子",
     "MC-248753": "压力板在看起来应当激活的情况下未激活",
     "MC-170457": "箱子的锁闩未被正确旋转",
