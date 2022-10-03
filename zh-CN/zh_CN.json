@@ -1,5 +1,6 @@
 {
-    "MC-96449": "Rabbits sometimes don't drop any raw rabbit upon being killed",
+    "MC-183502": "The sounds for collecting honey in a bottle and collecting honeycomb with shears is categorised under friendly creatures",
+    "MC-96449": "兔子被杀死时有时不会掉落生兔肉",
     "MC-249935": "新进度“生日快乐歌”没有经验奖励",
     "MC-254119": "尖叫山羊和普通山羊繁殖不会产下尖叫山羊",
     "MC-14167": "生物被拴绳吊在空中时会积累摔落伤害",
