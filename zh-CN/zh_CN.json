@@ -1,6 +1,7 @@
 {
-    "MC-249257": "The sounds of splashing when creating mud aren't controlled by the \"Blocks\" sound slider",
-    "MC-249463": "Shulkers in boats with chests are lowered",
+    "MC-249806": "Allay renders too low in boat, boat with chest, minecart and entities",
+    "MC-249257": "浸湿泥巴时的溅水声不受“方块”音量滑块控制",
+    "MC-249463": "运输船中的潜影贝位置过低",
     "MC-256217": "服务器中大数值坐标处的爆炸会产生幽灵方块",
     "MC-135973": "在容器物品栏内长按 Q 键无法连续丢出物品",
     "MC-183502": "用瓶子收集蜂蜜和用剪刀采集蜜脾的声音被错误归类到“友好生物”分类下",
