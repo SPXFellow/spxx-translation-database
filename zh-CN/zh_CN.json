@@ -1,5 +1,6 @@
 {
-    "MC-202607": "Cat can get off lead by teleporting when it gives a gift after sleeping",
+    "MC-146930": "The \"Programmer Art\" resource pack is internally called \"programer_art\"",
+    "MC-202607": "猫会在玩家睡醒后送给玩家礼物时通过传送脱掉拴绳",
     "MC-150488": "脚手架上可以生成生物",
     "MC-249806": "悦灵在船、运输船、矿车及其他实体上时渲染得过低",
     "MC-249257": "浸湿泥巴时的溅水声不受“方块”音量滑块控制",
