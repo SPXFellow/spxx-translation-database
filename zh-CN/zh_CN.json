@@ -1,4 +1,6 @@
 {
+    "MC-197150": "Horse armor and carpets cannot be equipped onto horses or llamas by right-clicking them whilst having these items held in your hand",
+    "MC-183069": "Donkeys, mules and undead horses cannot be saddled by right-clicking",
     "MC-146930": "“Programmer Art”资源包在内部被称为 `programer_art`",
     "MC-202607": "猫会在玩家睡醒后送给玩家礼物时通过传送脱掉拴绳",
     "MC-150488": "脚手架上可以生成生物",
