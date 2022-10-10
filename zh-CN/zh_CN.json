@@ -1,11 +1,11 @@
 {
     "MC-145748": "Clicking a settings button when there's a slider under the mouse in the next screen plays the click sound twice",
-    "MC-249232": "Frogs can sometimes fall into deep holes when pathfinding to entities",
+    "MC-249232": "青蛙在对实体寻路时有时会掉入洞中",
     "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
     "MC-224921": "Mob pathfinding fails under certain circumstances / mobs fall on closed turns",
     "MC-255715": "Menu panorama stops spinning after several days",
     "MC-255151": "net.minecraft.client.Camera#getMaxZoom(double) issue",
-    "MC-250943": "minecraft.used:minecraft.goat_horn doesn't increase when using goat horns",
+    "MC-250943": "minecraft.used:minecraft.goat_horn在使用山羊角时不会增加",
     "MC-183899": "You can set your spawn point inside an end portal, causing the player to become stuck in the End",
     "MC-177738": "Spawnpoint set on respawn anchor using /spawnpoint depletes glowstone charge, and doesn't stay on respawn anchor if its charge is depleted",
     "MC-197150": "无法通过右键马或羊驼来为其装备手中的马铠或地毯",
