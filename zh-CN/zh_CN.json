@@ -1,4 +1,7 @@
 {
+    "MC-249232": "Frogs can sometimes fall into deep holes when pathfinding to entities",
+    "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
+    "MC-224921": "Mob pathfinding fails under certain circumstances / mobs fall on closed turns",
     "MC-255715": "Menu panorama stops spinning after several days",
     "MC-255151": "net.minecraft.client.Camera#getMaxZoom(double) issue",
     "MC-250943": "minecraft.used:minecraft.goat_horn doesn't increase when using goat horns",
@@ -374,7 +377,6 @@
     "MC-249245": "海龟在寻路时不会穿过打开的门",
     "MC-249193": "青蛙在寻路时不会穿过打开的门",
     "MC-228049": "美西螈在寻路时不会穿过打开的门",
-    "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
     "MC-249855": "一致性问题：Java 版中的悦灵没有飞行动画",
     "MC-249838": "悦灵在开始移动后会停止空闲时的动画",
     "MC-249912": "`minecraft:ancient_city/city_center_3` 比其他的远古城市中心短一格",
