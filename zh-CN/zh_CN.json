@@ -1,4 +1,9 @@
 {
+    "MC-255715": "Menu panorama stops spinning after several days",
+    "MC-255151": "net.minecraft.client.Camera#getMaxZoom(double) issue",
+    "MC-250943": "minecraft.used:minecraft.goat_horn doesn't increase when using goat horns",
+    "MC-183899": "You can set your spawn point inside an end portal, causing the player to become stuck in the End",
+    "MC-177738": "Spawnpoint set on respawn anchor using /spawnpoint depletes glowstone charge, and doesn't stay on respawn anchor if its charge is depleted",
     "MC-197150": "无法通过右键马或羊驼来为其装备手中的马铠或地毯",
     "MC-183069": "无法通过右键驴、骡和亡灵马来为其装备鞍",
     "MC-146930": "“Programmer Art”资源包在内部被称为 `programer_art`",
