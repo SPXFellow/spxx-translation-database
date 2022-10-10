@@ -4,7 +4,7 @@
     "MC-226184": "美西螈寻路到水的途中有时会掉到宽阔的洞里",
     "MC-224921": "在某些条件下生物无法正确寻路/生物会在U型弯道上掉落",
     "MC-255715": "主菜单全景图在页面打开几天后停止旋转",
-    "MC-255151": "net.minecraft.client.Camera#getMaxZoom(double) issue",
+    "MC-255151": "net.minecraft.client.Camera#getMaxZoom(double)问题",
     "MC-250943": "minecraft.used:minecraft.goat_horn在使用山羊角时不会增加",
     "MC-183899": "You can set your spawn point inside an end portal, causing the player to become stuck in the End",
     "MC-177738": "Spawnpoint set on respawn anchor using /spawnpoint depletes glowstone charge, and doesn't stay on respawn anchor if its charge is depleted",
