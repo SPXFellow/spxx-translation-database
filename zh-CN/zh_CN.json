@@ -1,4 +1,9 @@
 {
+    "MC-218534": "Blackstone stairs & slabs are not grouped with the other stone type stairs & slabs",
+    "MC-217644": "Wart blocks and shroomlights are in different Creative tabs",
+    "MC-216733": "Basalt and blackstone are not grouped together with other \"polishable\" stone types in the Creative inventory",
+    "MC-201759": "Obsidians aren't grouped together in Creative",
+    "MC-182708": "Nether and warped wart blocks do not come after leaves in the Creative inventory",
     "MC-249513": "Frogspawn is not grouped with turtle eggs in the Creative inventory",
     "MC-239465": "Emerald block in creative inventory looks out of place",
     "MC-234446": "Moss Block appears in the wrong creative inventory tab",
