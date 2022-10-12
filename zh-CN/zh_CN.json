@@ -1,4 +1,5 @@
 {
+    "MC-249419": "Map color for mud brick slab is no longer consistent with map color for other mud brick blocks",
     "MC-218534": "黑石楼梯和台阶没有和其他石类楼梯及台阶排列在一起",
     "MC-217644": "创造模式物品栏里的下界疣块和菌光体被分类在不同的标签中",
     "MC-216733": "创造模式物品栏中玄武岩和黑石没有和其他具有磨制变种的石类方块排列在一起",
