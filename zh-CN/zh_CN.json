@@ -1,6 +1,6 @@
 {
-    "MC-256575": "Some of the translation keys were merged, resulting in some language translation errors",
-    "MC-256502": "Crash when pressing certain buttons while on spectator mode",
+    "MC-256575": "部分本地化键名合并，导致语言翻译中出现错误",
+    "MC-256502": "旁观模式下，按下某些按键会导致游戏崩溃",
     "MC-249419": "地图中泥砖台阶和泥砖块的颜色不一致",
     "MC-218534": "黑石楼梯和台阶没有和其他石类楼梯及台阶排列在一起",
     "MC-217644": "创造模式物品栏里的下界疣块和菌光体被分类在不同的标签中",
