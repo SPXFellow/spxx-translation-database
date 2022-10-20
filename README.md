@@ -1,13 +1,15 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|2|
 ## Rank for Latest Version 1.19.2
 This catagory is empty for now.
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
 |---|---|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|153|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|155|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|65|
 |![#69328f](https://img.shields.io/static/v1?label=&message=Ricolove&color=69328f&style=flat-square)|64|
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|55|
