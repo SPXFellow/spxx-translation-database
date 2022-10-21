@@ -1,4 +1,8 @@
 {
+    "MC-200006": "Explosions from beds and respawn anchors can't be blocked by shields",
+    "MC-191948": "Ghast fireballs explosions still inflict damage when blocked by a shield",
+    "MC-188247": "Explosions from end crystals can't be blocked by shields",
+    "MC-92017": "Shield damage direction is incorrect",
     "MC-256575": "部分本地化键名合并，导致语言翻译中出现错误",
     "MC-256502": "旁观模式下，按下某些按键会导致游戏崩溃",
     "MC-249419": "地图中泥砖台阶和泥砖块的颜色不一致",
