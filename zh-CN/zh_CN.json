@@ -1,4 +1,6 @@
 {
+    "MC-84873": "DeathTime values 20+ cause corrupted mobs",
+    "MC-256476": "全景图滚动速度不能保存",
     "MC-256639": "Allays, Piglins, and Villagers lose inventory if unloaded and reloaded",
     "MC-198493": "Villagers lose their discounts when relogging while it is a zombie villager",
     "MC-256495": "Z-fighting occurs when the legs of camels intersect one another",
