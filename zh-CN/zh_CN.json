@@ -1,4 +1,6 @@
 {
+    "MC-256639": "Allays, Piglins, and Villagers lose inventory if unloaded and reloaded",
+    "MC-198493": "Villagers lose their discounts when relogging while it is a zombie villager",
     "MC-256495": "Z-fighting occurs when the legs of camels intersect one another",
     "MC-256494": "Can't craft birch hanging signs",
     "MC-256483": "You cannot craft acacia hanging signs",
