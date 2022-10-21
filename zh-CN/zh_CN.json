@@ -1,4 +1,7 @@
 {
+    "MC-256495": "Z-fighting occurs when the legs of camels intersect one another",
+    "MC-256494": "Can't craft birch hanging signs",
+    "MC-256483": "You cannot craft acacia hanging signs",
     "MC-200006": "Explosions from beds and respawn anchors can't be blocked by shields",
     "MC-191948": "Ghast fireballs explosions still inflict damage when blocked by a shield",
     "MC-188247": "Explosions from end crystals can't be blocked by shields",
