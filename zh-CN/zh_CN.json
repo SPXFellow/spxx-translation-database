@@ -1,4 +1,6 @@
 {
+    "MC-256705": "Discrepancy exists between identifier-allowed characters and path segment-allowed characters",
+    "MC-254634": "POIs are not created properly when upgrading worlds",
     "MC-84873": "`DeathTime` 的值大于20的生物行为表现异常",
     "MC-256476": "全景图滚动速度不能保存",
     "MC-256639": "悦灵、猪灵和村民会在重新加载后丢失物品栏内容",
