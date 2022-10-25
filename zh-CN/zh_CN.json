@@ -1,4 +1,6 @@
 {
+    "MC-256462": "If camel is sitting while exiting and reloading the world, it will play the sitting animation again",
+    "MC-222407": "Endermen holding big dripleaf stems don't drop big dripleaves upon being killed",
     "MC-188506": "AngryAt cannot be manually applied to endermen",
     "MC-128003": "When destroying one block of tall seagrass, the other block becomes air when destroyed, rather than water",
     "MC-253542": "Spawner blocks with SpawnPotential and no SpawnData will crash during worldgen",
