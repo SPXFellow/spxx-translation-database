@@ -1,4 +1,5 @@
 {
+    "MC-128003": "When destroying one block of tall seagrass, the other block becomes air when destroyed, rather than water",
     "MC-253542": "Spawner blocks with SpawnPotential and no SpawnData will crash during worldgen",
     "MC-256612": "斑驳的涂蜡铜块在创造模式物品栏的建筑方块标签下排序不正确",
     "MC-256582": "讲台没有列入创造模式物品栏的功能方块标签下",
