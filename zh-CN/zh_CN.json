@@ -6,7 +6,7 @@
     "MC-256522": "珊瑚块的排序与珊瑚和珊瑚扇不一致",
     "MC-249691": "创造模式物品栏中菌岩没有和下界岩排列在一起",
     "MC-202513": "创造模式物品栏中垂泪藤和缠怨藤没有和藤蔓排列在一起",
-    "MC-256705": "Discrepancy exists between identifier-allowed characters and path segment-allowed characters",
+    "MC-256705": "标识符中可用的字符与段路径中可用的字符有差别",
     "MC-254634": "升级世界时，兴趣点未能正确生成",
     "MC-84873": "`DeathTime` 的值大于20的生物行为表现异常",
     "MC-256476": "全景图滚动速度不能保存",
