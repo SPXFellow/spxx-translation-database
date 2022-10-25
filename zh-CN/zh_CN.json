@@ -1,6 +1,6 @@
 {
     "MC-254597": "Mobs hurt by water don't take water damage when they are on a boat",
-    "MC-252214": "Going into water does not extinguish the fire on you if you're in a boat",
+    "MC-252214": "在船内的玩家入水不会熄灭身上的火",
     "MC-256462": "如果骆驼处于坐下的状态时退出并重载世界，会再次播放坐下的动画",
     "MC-222407": "拿着大型垂滴叶茎的末影人在被击杀时不会掉落大型垂滴叶",
     "MC-188506": "`AngryAt`标签不能手动应用于末影人",
