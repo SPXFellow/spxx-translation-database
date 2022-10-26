@@ -1,23 +1,13 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
+This catagory is empty for now.
+## Rank for Latest Version 22w43a
 |Translator|Score|
 |---|---|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|23|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|9|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|6|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|1|
-## Rank for Latest Version 22w42a
-|Translator|Score|
-|---|---|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|15|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|8|
-|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|6|
-|![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|5|
-|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|5|
-|![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|4|
-|![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|2|
-|![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|1|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Seayay&color=388d40&style=flat-square)|1|
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
