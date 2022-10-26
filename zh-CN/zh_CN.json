@@ -1,4 +1,8 @@
 {
+    "MC-256848": "String isn't in the Redstone Blocks Tab in the creative inventory",
+    "MC-256845": "Nether Wart isn't in the Nature Blocks tab in the creative inventory",
+    "MC-256843": "Milk Bucket isn't in the Consumable Tab in the creative inventory",
+    "MC-256534": "Saved hotbars can import disabled items",
     "MC-254597": "在水中会受到伤害的生物在船上不会受到伤害",
     "MC-252214": "在船内的玩家入水不会熄灭身上的火",
     "MC-256462": "如果骆驼处于坐下的状态时退出并重载世界，会再次播放坐下的动画",
