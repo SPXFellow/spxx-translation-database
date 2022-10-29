@@ -3,6 +3,7 @@
 |Translator|Score|
 |---|---|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|1|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 22w43a
 |Translator|Score|
 |---|---|
@@ -30,3 +31,4 @@ Data since 22w14a.
 |![#bb45ee](https://img.shields.io/static/v1?label=&message=XiTieShiZ&color=bb45ee&style=flat-square)|3|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Seayay&color=388d40&style=flat-square)|1|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|1|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|1|
