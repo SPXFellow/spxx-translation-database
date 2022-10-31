@@ -1,5 +1,5 @@
 {
-    "MC-191790": "Re-creating a world doesn't allow a blank seed and uses recreated world's seed instead of random",
+    "MC-191790": "重建世界时清空种子输入框不会使用随机种子，而是会继续使用原种子",
     "MC-244721": "“Erase cached data”未大写",
     "MC-195780": "结构方块界面中\"Data mode\"和\"Load mode\"未大写，尽管\"Save Mode\"和\"Corner Mode\"大写了。",
     "MC-189911": "喷溅型水瓶不会扑灭生物和玩家",
