@@ -1,7 +1,8 @@
 {
-    "MC-256637": "Some bamboo blocks can't be used as furnace fuel",
-    "MC-256623": "Bamboo mosaic slabs aren't flammable",
-    "MC-256480": "Non Flammable Wood Item tag contains 1.20 content even when disabled",
+    "MC-137306": "海龟没有繁殖冷却期",
+    "MC-256637": "竹制方块不能用作熔炉燃料",
+    "MC-256623": "竹马赛克台阶不可燃",
+    "MC-256480": "不启用1.20内置资源包时，`minecraft:non_flammable_wood`标签仍然包含资源包中的内容",
     "MC-191790": "重建世界时清空种子输入框不会使用随机种子，而是会继续使用原种子",
     "MC-244721": "“Erase cached data”未大写",
     "MC-195780": "结构方块界面中\"Data mode\"和\"Load mode\"未大写，尽管\"Save Mode\"和\"Corner Mode\"大写了。",
