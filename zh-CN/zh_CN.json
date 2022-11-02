@@ -1,4 +1,9 @@
 {
+    "MC-256768": "Entities no longer have random rotations upon being summoned from spawn eggs",
+    "MC-256647": "Mobs face south even with a given rotation value",
+    "MC-256606": "Camel walking animation is slowed down when applied with slow falling",
+    "MC-253387": "Frog walking animation is slowed down when applied with slow falling",
+    "MC-30403": "Sprinting isn't canceled when dismounting rideable entities while sprinting",
     "MC-256526": "Bamboo Fence Gate has missing textures / culling issues",
     "MC-256463": "骆驼在寻路时不会越过1.5格高的方块",
     "MC-255115": "行走在睡莲上时不会产生音效",
