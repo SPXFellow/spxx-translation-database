@@ -1,4 +1,5 @@
 {
+    "MC-256526": "Bamboo Fence Gate has missing textures / culling issues",
     "MC-256463": "骆驼在寻路时不会越过1.5格高的方块",
     "MC-255115": "行走在睡莲上时不会产生音效",
     "MC-137136": "睡莲使用了不正确的音效",
