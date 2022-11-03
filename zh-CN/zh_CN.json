@@ -1,5 +1,6 @@
 {
-    "MC-257104": "\"Lava\" in gamerule.lavaSourceConversion is misspelled as \"Lave\"",
+    "MC-256532": "悬挂式竹、绯红和诡异告示牌使用的是普通木质方块的音效",
+    "MC-257104": "gamerule.lavaSourceConversion中的“Lava”被错误拼写为“Lave”",
     "MC-257060": "蜂巢未归类到功能方块",
     "MC-257059": "创造模式物品栏中，蘑菇柄排在菌柄后面，而蘑菇方块排在下界疣块前面",
     "MC-257058": "创造模式物品栏中，仙人掌未与甘蔗排列在一起",
