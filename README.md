@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 22w44a
 |Translator|Score|
 |---|---|
@@ -23,7 +25,7 @@ Data since 22w14a.
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|11|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|10|
-|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|8|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|9|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KaplanSteve&color=388d40&style=flat-square)|3|
