@@ -1,4 +1,6 @@
 {
+    "MC-256951": "TNT Minecarts don't record what caused its explosion",
+    "MC-256917": "Death message from explosions by TNT and TNT minecarts that are not the cause of a player or another mob has changed",
     "MC-80032": "马在穿过下界传送门时会窒息",
     "MC-256961": "多重射击会将部分弹射物往反方向发射",
     "MC-127110": "不能将水桶中的水倒入含水方块里",
