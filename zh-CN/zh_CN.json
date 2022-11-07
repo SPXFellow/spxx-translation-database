@@ -1,4 +1,5 @@
 {
+    "MC-235414": "Player desynchronization with Nether Portals",
     "MC-256990": "被禁用的方块可用作超平坦世界地层的一部分",
     "MC-256854": "任意模型文件中的错误现在均会导致资源重载失败",
     "MC-256674": "若资源包目录是符号链接，将引发 FileAlreadyExistsException 异常",
