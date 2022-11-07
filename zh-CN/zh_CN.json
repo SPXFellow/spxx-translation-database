@@ -1,6 +1,9 @@
 {
-    "MC-256511": "Non-controlling passengers can make camels dash",
-    "MC-256516": "Inconsistent textures with jungle hanging signs",
+    "MC-80032": "Horses can suffocate when going through nether portals",
+    "MC-256961": "多重射击会将部分弹射物往反方向发射",
+    "MC-127110": "不能将水桶中的水倒入含水方块里",
+    "MC-256511": "骑乘骆驼但不控制其移动的玩家也能控制骆驼冲刺",
+    "MC-256516": "悬挂式丛林木告示牌的部分纹理与其他悬挂式告示牌不一致",
     "MC-256461": "Camel's back of neck is visible during the sit down animation",
     "MC-256532": "悬挂式竹、绯红和诡异告示牌使用的是普通木质方块的音效",
     "MC-257104": "gamerule.lavaSourceConversion中的“Lava”被错误拼写为“Lave”",
