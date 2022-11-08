@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|8|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|9|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|6|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|3|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|2|
@@ -28,7 +28,7 @@ Data since 22w14a.
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|38|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|28|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
-|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|16|
+|![#388d40](https://img.shields.io/static/v1?label=&message=LeYangZi&color=388d40&style=flat-square)|17|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|11|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|10|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
