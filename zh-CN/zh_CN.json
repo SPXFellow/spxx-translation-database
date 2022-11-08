@@ -1,7 +1,7 @@
 {
-    "MC-256888": "New network protocols prevent logging into offline servers",
-    "MC-256885": "The word \"messages\" within the \"gui.chatSelection.fold\" string is always pluralized",
-    "MC-256765": "References to chat reporting in singleplayer",
+    "MC-256888": "使用新的网络协议后，玩家无法进入离线服务器",
+    "MC-256885": "字符串 `gui.chatSelection.fold` 里的“messages”总是复数形式",
+    "MC-256765": "单人游戏中仍然引用玩家举报",
     "MC-256884": "生物在使用弩射击时会射向错误的方向",
     "MC-235414": "玩家坐标与下界传送门不同步",
     "MC-256990": "被禁用的方块可用作超平坦世界地层的一部分",
