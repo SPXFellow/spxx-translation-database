@@ -1,4 +1,11 @@
 {
+    "MC-257234": "Applying bone meal to warped or crimson fungus crashes client on multiplayer",
+    "MC-256903": "Lodestone compass's enchantment glint is scaled incorrectly",
+    "MC-255743": "Bees' path finding system may cause performance issues",
+    "MC-255370": "Chat hover & click events are offset if \"Line Spacing\" chat setting is used",
+    "MC-244550": "Empty Tags match Empty Slots in Shaped Recipes",
+    "MC-200000": "Merchant trade select packet (C2S) does not check for negative indices",
+    "MC-118140": "Result map tooltip when zooming out a map shows previous zoom value instead of new one",
     "MC-256888": "使用新的网络协议后，玩家无法进入离线服务器",
     "MC-256885": "字符串 `gui.chatSelection.fold` 里的“messages”总是复数形式",
     "MC-256765": "单人游戏中仍然引用玩家举报",
