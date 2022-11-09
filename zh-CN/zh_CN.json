@@ -1,5 +1,6 @@
 {
-    "MC-256616": "Weighted pressure plates make incorrect sounds",
+    "MC-177523": "Enderman angry/screaming sound event subtitled identically to idle sound",
+    "MC-256616": "测重压力板音效不正确",
     "MC-257102": "创造模式物品栏缺少结构方块",
     "MC-257234": "在多人游戏中对诡异菌或绯红菌使用骨粉会导致游戏客户端崩溃",
     "MC-256903": "磁石指针的附魔闪烁缩放不正确",
