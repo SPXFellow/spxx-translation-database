@@ -1,4 +1,6 @@
 {
+    "MC-257386": "Inventory menu has broken textures with Programmer Art enabled",
+    "MC-221722": "Squids use the new texture when using Programmer Art",
     "MC-121865": "长效药水效果剩余时间显示为“**:**”易引起误导",
     "MC-222099": "杀死手持插上蜡烛的蛋糕的末影人时蜡烛和蛋糕都不会掉落",
     "MC-209621": "杀死手持盆栽植物的末影人时花盆和植物都不会掉落",
