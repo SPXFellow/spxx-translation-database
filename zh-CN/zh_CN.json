@@ -1,5 +1,6 @@
 {
-    "MC-257114": "Incoherency: A random seed is already generated on the \"Create New World\" seed text field screen despite the \"Leave blank for a random seed\" label",
+    "MC-256669": "悬挂式竹告示牌的合成配方会在获得任意去皮原木时解锁",
+    "MC-257114": "不一致问题：尽管标签写着“留空以生成随机种子”，但“创建新的世界”的种子文本框已经生成了一个随机种子。",
     "MC-234904": "在数据包菜单中按住 Tab 键无法快速切换选中按钮",
     "MC-234846": "在Realms切换世界的菜单中按住 Tab 键无法快速切换选中按钮",
     "MC-234782": "在Realms的关闭确认界面中按住 Tab 键无法快速切换选中按钮",
@@ -16,7 +17,7 @@
     "MC-257266": "游戏规则 `snowAccumulationHeight` 的值大于1时，站在雪上的实体会在积雪时下陷",
     "MC-257113": "1.13前的版本中的末影龙、凋灵、雪傀儡和铁傀儡刷怪蛋不能正确转换",
     "MC-256993": "末地水晶在高于玩家足部的位置也会对其造成向上的击退",
-    "MC-256308": "\"limit\" selector parameter with \"arbitrary\" sorting does not stop searching early",
+    "MC-256308": "带有“arbitrary”排序的“limit”选择器参数没有提前停止搜索",
     "MC-187539": "`tick` 函数标签总是先于 `load` 运行",
     "MC-257334": "堆叠的物品不会在悬浮提示中显示其所属的创造模式物品栏标签页",
     "MC-256509": "生物头颅被放置后会背向玩家",
