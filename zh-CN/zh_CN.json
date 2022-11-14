@@ -1,4 +1,6 @@
 {
+    "MC-257073": "You cannot hold the TAB key to navigate between buttons quickly in the \"Experimental Features Warning\" menu",
+    "MC-256878": "You cannot hold the TAB key to navigate between buttons quickly in the \"Edit draft chat report\" menu",
     "MC-256669": "悬挂式竹告示牌的合成配方会在获得任意去皮原木时解锁",
     "MC-257114": "不一致问题：尽管标签写着“留空以生成随机种子”，但“创建新的世界”的种子文本框已经生成了一个随机种子。",
     "MC-234904": "在数据包菜单中按住 Tab 键无法快速切换选中按钮",
