@@ -1,7 +1,7 @@
 {
-    "MC-233042": "Server Address field isn't focused when Direct Connection menu is opened",
-    "MC-151412": "\"Edit Server Info\" window does not focus \"Server Name\" text field automatically",
-    "MC-147605": "Text cursors can exist in multiple fields",
+    "MC-233042": "打开直接连接菜单时不会自动聚焦服务器地址文本框",
+    "MC-151412": "打开“编辑服务器信息”窗口时不会自动聚焦“服务器名称”文本框",
+    "MC-147605": "文本光标可以同时出现在多个输入框里",
     "MC-257410": "点击暂停菜单上的“游戏菜单”标题会发出点击按钮的音效",
     "MC-257401": "青蛙被食物引诱或追逐史莱姆时，行走动画会大大加快",
     "MC-257105": "青蛙和骆驼缓慢移动时不会播放行走动画",
