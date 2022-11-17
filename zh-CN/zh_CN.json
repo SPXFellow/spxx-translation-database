@@ -1,4 +1,5 @@
 {
+    "MC-257618": "The word \"pair\" uses the incorrect verb form within the \"telemetry.event.world_loaded.description\" string",
     "MC-257386": "启用“Programmer Art”纹理包会导致创造模式物品栏菜单的纹理损坏",
     "MC-233042": "打开“直接连接”菜单时不会自动聚焦“服务器地址”文本框",
     "MC-151412": "打开“编辑服务器信息”窗口时不会自动聚焦“服务器名称”文本框",
