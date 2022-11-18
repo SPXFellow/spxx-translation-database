@@ -1,4 +1,5 @@
 {
+    "MC-257625": "Piglin Head placed on noteblock play the piglin angry sound instead of the piglin ambient sound",
     "MC-257349": "恼鬼在船、矿车等实体上乘坐时显示不正常",
     "MC-257506": "雕纹书架的顶部与底部纹理会根据放置时的角度旋转",
     "MC-257618": "`telemetry.event.world_loaded.description`字符串的英文原文中“pair”一词的动词形式有误",
