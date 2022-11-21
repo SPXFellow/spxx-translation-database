@@ -1,6 +1,10 @@
 {
-    "MC-257658": "Sculk sensors are not activated upon taking books from chiseled bookshelves",
-    "MC-256481": "minecraft.used:minecraft.BOOK_TYPE doesn't increase when placing books onto chiseled bookshelves",
+    "MC-257374": "英语中“Port number”里的“number”一词没有大写",
+    "MC-257373": "端口号文本框里的光标不会闪烁",
+    "MC-257368": "“对局域网开放”屏幕中，端口号小于 1024 时不显示“端口无效”错误。",
+    "MC-257619": "幼年猪灵与僵尸猪灵头部碰到方块会受到伤害",
+    "MC-257658": "从雕纹书架取书不会激活幽匿感测体",
+    "MC-256481": "把书放入雕纹书架时，`minecraft.used:minecraft.<书的种类>` 的数值不会增加",
     "MC-257617": "在遥测数据收集界面中，点击“打开我的数据”或“数据收集”按钮会导致无法使用鼠标滚轮滚动",
     "MC-257625": "在音符盒上放置猪灵的头后，播放的是猪灵的愤怒音效，而不是空闲音效",
     "MC-257349": "恼鬼在船、矿车等实体上乘坐时显示不正常",
