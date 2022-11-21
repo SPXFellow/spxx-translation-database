@@ -1,5 +1,5 @@
 {
-    "MC-257617": "You cannot scroll with the mouse wheel on the telemetry screen after clicking the \"Open my data\" or \"Data collection\" button",
+    "MC-257617": "在遥测数据收集界面中，点击“打开我的数据”或“数据收集”按钮会导致无法使用鼠标滚轮滚动",
     "MC-257625": "在音符盒上放置猪灵的头后，播放的是猪灵的愤怒音效，而不是空闲音效",
     "MC-257349": "恼鬼在船、矿车等实体上乘坐时显示不正常",
     "MC-257506": "雕纹书架的顶部与底部纹理会根据放置时的角度旋转",
