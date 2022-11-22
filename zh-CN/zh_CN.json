@@ -1,5 +1,7 @@
 {
-    "MC-257341": "Vex texture does not utilize translucency",
+    "MC-177676": "Armorer working subtitle is \"Blast Furnace crackles\" instead of \"Armorer works\"",
+    "MC-177596": "Weaponsmith working subtitle is \"Grindstone used\" instead of \"Weaponsmith works\"",
+    "MC-257341": "恼鬼纹理未使用半透明",
     "MC-257648": "`/fillbiome` 命令会造成生物群系颜色闪烁",
     "MC-255133": "深暗之域会生成过多的铜矿石",
     "MC-257663": "社交屏幕中的“隐藏消息”按钮无法切换状态，因为其按下后执行了两次操作",
