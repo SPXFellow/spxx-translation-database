@@ -1,4 +1,5 @@
 {
+    "MC-256883": "Elements within the game menu are now positioned slightly lower than they were in previous versions",
     "MC-257374": "英语中“Port number”里的“number”一词没有大写",
     "MC-257373": "端口号文本框里的光标不会闪烁",
     "MC-257368": "“对局域网开放”屏幕中，端口号小于 1024 时不显示“端口无效”错误。",
