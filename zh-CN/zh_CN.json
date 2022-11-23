@@ -1,6 +1,8 @@
 {
-    "MC-257668": "The draft report icon isn't present on any of the \"Title Screen\" buttons within the death screen when attempting to disconnect from worlds while having saved draft reports",
-    "MC-256655": "Some shorter mobs can attack Players on a Camel",
+    "MC-257636": "Villagers rarely close doors after going through them",
+    "MC-185618": "无法用火焰弹引爆苦力怕",
+    "MC-257668": "保存了聊天草稿后，尝试断开连接时，死亡屏幕里的“标题屏幕”按钮上没有举报草稿图标",
+    "MC-256655": "部分身高较矮的生物可以攻击骑着骆驼的玩家",
     "MC-189111": "蜜蜂会在非完整方块里卡住",
     "MC-257525": "悦灵的移动AI损坏，导致其偶尔在半空中打转",
     "MC-256679": "美西螈避险时经常在原地呆住，有时还会主动向危险处寻路",
