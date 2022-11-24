@@ -6,6 +6,7 @@ This catagory is empty for now.
 |---|---|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|6|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|1|
+|![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|1|
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
@@ -16,7 +17,7 @@ Data since 22w14a.
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|56|
 |![#1f1e33](https://img.shields.io/static/v1?label=&message=DrLee_lihr&color=1f1e33&style=flat-square)|47|
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|44|
-|![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|35|
+|![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|36|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|32|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|29|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
