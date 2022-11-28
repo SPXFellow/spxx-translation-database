@@ -1,4 +1,7 @@
 {
+    "MC-257495": "Dying whilst in the Shulker Box GUI will spam \"Shulker Closes\" sound",
+    "MC-208051": "Chests/trapped chests/barrels do not 'open' after respawning",
+    "MC-108597": "Shulker box still plays the close sound, even if it is destroyed or replaced",
     "MC-201769": "复制多层嵌套的NBT标签会导致栈内存溢出",
     "MC-257664": "无论光标在什么位置，社交菜单列表中的按钮始终显示其悬浮提示",
     "MC-257616": "无论光标在什么位置，遥测数据收集屏幕中的“数据收集”按钮始终显示其悬浮提示",
