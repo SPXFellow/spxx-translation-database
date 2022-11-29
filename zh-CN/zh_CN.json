@@ -1,4 +1,5 @@
 {
+    "MC-257861": "Villagers and Piglin no longer seek out Items",
     "MC-257350": "竹块的顶部和底部纹理被错误旋转",
     "MC-194501": "IllegalArgumentException (Cannot set property) when using a block without the \"axis\" property in fancy_tree_placer",
     "MC-257839": "尝试渲染游戏规则菜单中的悬浮提示时，游戏崩溃：`NullPointerException`",
