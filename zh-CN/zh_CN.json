@@ -1,9 +1,10 @@
 {
-    "MC-257861": "Villagers and Piglin no longer seek out Items",
+    "MC-165686": "Knowledge book texture in the crafting UI hasn't been updated",
+    "MC-257861": "村民和猪灵不会主动寻找物品",
     "MC-257350": "竹块的顶部和底部纹理被错误旋转",
-    "MC-194501": "IllegalArgumentException (Cannot set property) when using a block without the \"axis\" property in fancy_tree_placer",
+    "MC-194501": "在 fancy_tree_placer 值中使用没有“axis”属性的方块时，会发生非法参数异常的错误（无法设置属性）",
     "MC-257839": "尝试渲染游戏规则菜单中的悬浮提示时，游戏崩溃：`NullPointerException`",
-    "MC-257530": "When Chat is set to Hidden, the Chat Hidden Warning appears in chat instead of the actionbar when attempting to send a message whilst sleeping or switching gamemode",
+    "MC-257530": "聊天设置为隐藏后，在睡眠或切换游戏模式期间发送消息时，聊天隐藏警告会出现在聊天栏而不是操作栏（此时玩家无法看到该提示）",
     "MC-250428": "复述功能不会复述死亡屏幕上的信息",
     "MC-257495": "在打开潜影盒GUI时死亡会导致潜影盒关闭的音效不停播放",
     "MC-208051": "玩家重生后打开箱子、陷阱箱和木桶不会显示动画和播放音效",
