@@ -1,7 +1,9 @@
 {
-    "MC-257839": "NullPointerException when attempting to render a tooltip in the Game Rules menu",
+    "MC-257350": "竹块的顶部和底部纹理被错误旋转",
+    "MC-194501": "IllegalArgumentException (Cannot set property) when using a block without the \"axis\" property in fancy_tree_placer",
+    "MC-257839": "尝试渲染游戏规则菜单中的悬浮提示时，游戏崩溃：`NullPointerException`",
     "MC-257530": "When Chat is set to Hidden, the Chat Hidden Warning appears in chat instead of the actionbar when attempting to send a message whilst sleeping or switching gamemode",
-    "MC-250428": "Narrator does not narrate the death screen",
+    "MC-250428": "复述功能不会复述死亡屏幕上的信息",
     "MC-257495": "在打开潜影盒GUI时死亡会导致潜影盒关闭的音效不停播放",
     "MC-208051": "玩家重生后打开箱子、陷阱箱和木桶不会显示动画和播放音效",
     "MC-108597": "潜影盒被破坏或替换后仍能播放关闭音效",
