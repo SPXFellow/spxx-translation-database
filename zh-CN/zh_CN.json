@@ -1,5 +1,12 @@
 {
-    "MC-165686": "Knowledge book texture in the crafting UI hasn't been updated",
+    "MC-257121": "Players' capes and outer skin layers don't render client-side in server environments when joining worlds while dead",
+    "MC-256706": "Carpet texture is cut off in the recipe book",
+    "MC-233051": "Server crashes as player logs in",
+    "MC-228976": "Entity collision is run on render thread",
+    "MC-257843": "note_block_sound data is lost when breaking a player head",
+    "MC-257817": "Player heads with a custom skin lose their noteblock sound data when using Ctrl+Pick block",
+    "MC-177141": "牧师工作的字幕是“酿造台：冒泡”，而不是“牧师：工作”",
+    "MC-165686": "合成界面内知识之书的纹理未被更新",
     "MC-257861": "村民和猪灵不会主动寻找物品",
     "MC-257350": "竹块的顶部和底部纹理被错误旋转",
     "MC-194501": "在 fancy_tree_placer 值中使用没有“axis”属性的方块时，会发生非法参数异常的错误（无法设置属性）",
