@@ -1,4 +1,6 @@
 {
+    "MC-257530": "When Chat is set to Hidden, the Chat Hidden Warning appears in chat instead of the actionbar when attempting to send a message whilst sleeping or switching gamemode",
+    "MC-250428": "Narrator does not narrate the death screen",
     "MC-257495": "在打开潜影盒GUI时死亡会导致潜影盒关闭的音效不停播放",
     "MC-208051": "玩家重生后打开箱子、陷阱箱和木桶不会显示动画和播放音效",
     "MC-108597": "潜影盒被破坏或替换后仍能播放关闭音效",
