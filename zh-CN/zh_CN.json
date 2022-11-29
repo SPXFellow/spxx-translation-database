@@ -1,4 +1,5 @@
 {
+    "MC-257839": "NullPointerException when attempting to render a tooltip in the Game Rules menu",
     "MC-257530": "When Chat is set to Hidden, the Chat Hidden Warning appears in chat instead of the actionbar when attempting to send a message whilst sleeping or switching gamemode",
     "MC-250428": "Narrator does not narrate the death screen",
     "MC-257495": "在打开潜影盒GUI时死亡会导致潜影盒关闭的音效不停播放",
