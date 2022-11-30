@@ -1,4 +1,6 @@
 {
+    "MC-258209": "Storage data is broken",
+    "MC-258203": "/data modify thinks NBT is too large, but /data merge doesn't",
     "MC-258195": "对 NBT 的修改使性能骤降",
     "MC-240724": "字幕中的文字没有阴影",
     "MC-187816": "Using Tab multiple times to select a datapack / resource pack from the list does not deselect it",
