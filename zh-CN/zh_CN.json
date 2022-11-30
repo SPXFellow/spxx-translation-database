@@ -1,4 +1,7 @@
 {
+    "MC-240724": "There are no shadows on text displayed within the subtitles overlay",
+    "MC-187816": "Using Tab multiple times to select a datapack / resource pack from the list does not deselect it",
+    "MC-185279": "\"Done\" and \"Cancel\" buttons in the game rules screen are not selected in the right order when navigating using Tab",
     "MC-258196": "Stray pixel in gui/toasts.png",
     "MC-258190": "Bubble columns let skylight through",
     "MC-258159": "Pick block doesn't work on Ender Dragon",
