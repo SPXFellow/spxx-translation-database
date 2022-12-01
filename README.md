@@ -3,6 +3,7 @@
 |Translator|Score|
 |---|---|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|9|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|2|
 ## Rank for Latest Version 1.19.3 Pre-release 3
 |Translator|Score|
 |---|---|
@@ -25,7 +26,7 @@ Data since 22w14a.
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|29|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|13|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|10|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|12|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
