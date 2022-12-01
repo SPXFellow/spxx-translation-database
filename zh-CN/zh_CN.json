@@ -1,4 +1,5 @@
 {
+    "MC-187812": "The buttons are not selected in the right order using Tab in the new datapacks and resource packs menus",
     "MC-258209": "存储数据损坏",
     "MC-258203": "/data modify 会认为 NBT 过大，而/data merge 不会",
     "MC-258195": "对 NBT 的修改使性能骤降",
