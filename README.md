@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|1|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|2|
 ## Rank for Latest Version 1.19.3 Release Candidate 1
 |Translator|Score|
 |---|---|
@@ -23,8 +23,8 @@ Data since 22w14a.
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|32|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|29|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|14|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|13|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=388d40&style=flat-square)|13|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
