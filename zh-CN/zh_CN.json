@@ -1,4 +1,5 @@
 {
+    "MC-258279": "Particle groups aren't cleared on resource reload",
     "MC-258256": "离线时无法加入局域网世界",
     "MC-258251": "翻译字符串的变量(如 %s) 不再忽视 \"with\" 内缺失的元素",
     "MC-187812": "在新数据包和资源包菜单中使用 Tab 键时，不会按正确顺序选择按钮",
