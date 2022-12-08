@@ -1,4 +1,6 @@
 {
+    "MC-235260": "Hopper minecart at (0, 0, 0) transfers items slower than normal",
+    "MC-155433": "Minecart with hopper not picking matching items from a mixed pile",
     "MC-258258": "放置后，盔甲架的 \"EntityTag\" NBT数据不再生效。",
     "MC-108707": "在服务器环境中死亡后，药水效果、粒子和火焰动画仍然在客户端中持续",
     "MC-258279": "资源包重新加载时粒子组没有清除",
