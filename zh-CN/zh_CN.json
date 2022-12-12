@@ -1,5 +1,5 @@
 {
-    "MC-257346": "Vexes with empty hand make obscene gesture",
+    "MC-257346": "空手的恼鬼会做出冒犯性手势",
     "MC-258246": "\"遥测数据\"按钮缺少省略号",
     "MC-258173": "在睡觉状态下进入末地传送门会导致床被永久占用",
     "MC-258163": "ClientboundSectionBlocksUpdatePacket 在 2 ^19 个方块状态后中断",
