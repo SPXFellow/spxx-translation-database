@@ -1,4 +1,5 @@
 {
+    "MC-257875": "Fire charges aren't consumed when igniting creepers using them in survival or adventure mode",
     "MC-26678": "Damage wobble no longer shows direction of incoming damage",
     "MC-256576": "玩家骑乘未放置鞍且正在被其他玩家骑乘的骆驼时，将成为有控制权的乘客",
     "MC-257346": "空手的恼鬼会做出冒犯性手势",
