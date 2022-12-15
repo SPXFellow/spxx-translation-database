@@ -1,4 +1,9 @@
 {
+    "MC-136534": "All command blocks think they're facing south with caret notation",
+    "MC-255811": "Level#isRainingAt(BlockPos) always returns false for snowy and frozen biomes, even when it is raining",
+    "MC-247836": "Riptide doesn't work in rain within a frozen ocean biome",
+    "MC-233893": "Burning mobs won't get extinguished by rain in warm patches of Frozen Ocean biome",
+    "MC-230678": "Cauldron fills with powder snow in frozen ocean biome while it's visually raining",
     "MC-121048": "When an entity dies, the combat tracker only records the killing blow",
     "MC-257875": "生存模式及冒险模式下，火焰弹点燃苦力怕后不会被消耗",
     "MC-26678": "受伤造成的视角晃动不会反映受击的方向",
