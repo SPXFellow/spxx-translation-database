@@ -1,7 +1,7 @@
 {
-    "MC-257418": "Camels sometimes sit down for a split second when receiving damage",
-    "MC-256838": "The facing direction of the camel doesn't match",
-    "MC-256555": "Camel sits down for a split second when spawned",
+    "MC-257418": "骆驼受伤时偶尔会有一瞬间坐下",
+    "MC-256838": "骆驼的模型朝向与实际朝向不一致",
+    "MC-256555": "骆驼在生成时会有一瞬间坐下",
     "MC-136534": "使用脱字符表示局部坐标时命令方块总会认为它朝向南方",
     "MC-255811": "Level#isRainingAt(BlockPos) always returns false for snowy and frozen biomes, even when it is raining",
     "MC-247836": "激流魔咒在冻洋生物群系的雨水中不起作用",
