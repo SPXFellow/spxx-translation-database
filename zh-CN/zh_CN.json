@@ -1,8 +1,8 @@
 {
-    "MC-224960": "The spectate command does not work between dimensions",
-    "MC-191942": "The buttons in the multiplayer menu are not evenly spaced",
-    "MC-181832": "The \"/spreadplayers\" command doesn't spread entities in the specified dimension",
-    "MC-122595": "/weather command with duration 0 has the same weather for longer time",
+    "MC-224960": "`/spectate` 命令无法跨维度使用",
+    "MC-191942": "多人游戏菜单中的按钮间隔不均匀",
+    "MC-181832": "`/spreadplayers` 命令无法将实体扩散到指定维度",
+    "MC-122595": "`/weather` 命令的持续时间为 0 时，天气会持续更长时间",
     "MC-222518": "骷髅马、僵尸马、驴及骡的鞍与箱子纹理过时或有误",
     "MC-165595": "守卫者的激光在 `level.dat` 的特定“时刻”不会渲染",
     "MC-257082": "骑乘实体或使用鞘翅滑翔时疾跑会改变视场角",
