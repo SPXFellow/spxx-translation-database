@@ -1,5 +1,5 @@
 {
-    "MC-258953": "Out of memory screen has raw message in the title",
+    "MC-258953": "“内存溢出”屏幕标题含有未翻译的消息",
     "MC-224960": "`/spectate` 命令无法跨维度使用",
     "MC-191942": "多人游戏菜单中的按钮间隔不均匀",
     "MC-181832": "`/spreadplayers` 命令无法将实体扩散到指定维度",
