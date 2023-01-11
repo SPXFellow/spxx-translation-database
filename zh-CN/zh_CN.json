@@ -1,5 +1,5 @@
 {
-    "MC-149144": "Multiple buttons can be selected by pressing another button and Tab",
+    "MC-149144": "使用 Tab 键选中一个按钮后，按下另一个按钮并按 Tab 键可以选中多个按钮",
     "MC-258953": "“内存溢出”屏幕标题含有未翻译的消息",
     "MC-224960": "`/spectate` 命令无法跨维度使用",
     "MC-191942": "多人游戏菜单中的按钮间隔不均匀",
