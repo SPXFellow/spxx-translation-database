@@ -1,4 +1,5 @@
 {
+    "MC-258295": "Villager AI broken when workstation is nearby",
     "MC-258430": "`LastPoseTime` 值较大的骆驼会使玩家模型视角异常偏移",
     "MC-149144": "使用 Tab 键选中一个按钮后，按下另一个按钮并按 Tab 键可以选中多个按钮",
     "MC-258953": "“内存溢出”屏幕标题含有未翻译的消息",
