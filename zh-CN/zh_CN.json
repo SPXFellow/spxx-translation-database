@@ -1,6 +1,6 @@
 {
-    "MC-259211": "You cannot select incompatible resource packs within the resource packs menu via keyboard navigation",
-    "MC-259189": "\"Narrator: Not Available\" isn't grayed out on accessibility splash",
+    "MC-259211": "资源包选择菜单中，无法通过键盘导航选中不兼容的资源包",
+    "MC-259189": "“复述功能：不可用”在辅助功能初始化时没有变灰",
     "MC-257755": "尚未添加 Realms 服务器时，在 Realms 菜单中按下 TAB 键不能按顺序选择其中的按钮",
     "MC-258295": "把工作站点方块放在村民身边会导致其AI故障",
     "MC-258430": "`LastPoseTime` 值较大的骆驼会使玩家模型视角异常偏移",
