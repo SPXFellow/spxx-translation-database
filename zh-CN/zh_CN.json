@@ -1,4 +1,5 @@
 {
+    "MC-259362": "The \"item.minecraft.smithing_template.netherite_upgrade.additions_slot_description\" string is missing an article before the word \"Netherite\"",
     "MC-198809": "爆炸保护魔咒不能减少爆炸击退，除非魔咒等级极高",
     "MC-259204": "所有山羊角的工具提示及吹奏音效都变成了“沉思”",
     "MC-259211": "资源包选择菜单中，无法通过键盘导航选中不兼容的资源包",
