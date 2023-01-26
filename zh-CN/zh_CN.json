@@ -1,7 +1,7 @@
 {
-    "MC-259389": "Incompatible crafting arrow overlay in the new smithing GUI uses the position of the legacy smithing GUI",
-    "MC-259399": "The armor stand model within the smithing table GUI doesn't render the output item after resizing the game window",
-    "MC-259357": "Text inside the smithing table GUI renders behind the armor stand model in some languages",
+    "MC-259389": "新锻造台 GUI 中的不兼容指示箭头出现在了旧 GUI 使用的位置上",
+    "MC-259399": "调整游戏窗口大小后，锻造台 GUI 中的盔甲架模型上不会渲染出输出物品",
+    "MC-259357": "部分语言的锻造台 GUI 文本被渲染到了盔甲架模型的后面",
     "MC-259362": "字符串 `item.minecraft.smithing_template.netherite_upgrade.additions_slot_description` 中 “Netherite” 一词前缺少冠词",
     "MC-198809": "爆炸保护魔咒不能减少爆炸击退，除非魔咒等级极高",
     "MC-259204": "所有山羊角的工具提示及吹奏音效都变成了“沉思”",
