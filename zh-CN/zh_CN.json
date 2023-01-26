@@ -1,4 +1,5 @@
 {
+    "MC-259357": "Text inside the smithing table GUI renders behind the armor stand model in some languages",
     "MC-259362": "字符串 `item.minecraft.smithing_template.netherite_upgrade.additions_slot_description` 中 “Netherite” 一词前缺少冠词",
     "MC-198809": "爆炸保护魔咒不能减少爆炸击退，除非魔咒等级极高",
     "MC-259204": "所有山羊角的工具提示及吹奏音效都变成了“沉思”",
