@@ -1,6 +1,6 @@
 {
-    "MC-259420": "Pixels not present in the palettes get erased, not kept",
-    "MC-259356": "Netherite trim material applied on netherite armor by upgrading diamond armor",
+    "MC-259420": "调色板中不存在的像素在生成后的纹理中会被擦除，而不是被保留",
+    "MC-259356": "使用下界合金升级锻造模板升级带有下界合金盔甲纹饰的钻石盔甲后下界合金纹饰会保留",
     "MC-259389": "新锻造台 GUI 中的不兼容指示箭头出现在了旧 GUI 使用的位置上",
     "MC-259399": "调整游戏窗口大小后，锻造台 GUI 中的盔甲架模型上不会渲染出输出物品",
     "MC-259357": "部分语言的锻造台 GUI 文本被渲染到了盔甲架模型的后面",
