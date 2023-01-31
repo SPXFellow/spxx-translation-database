@@ -1,5 +1,5 @@
 {
-    "MC-259206": "The accessibility onboarding screen can not display any language other than English (US)",
+    "MC-259206": "辅助功能引导屏幕无法显示英语（美国）以外的语言",
     "MC-259420": "调色板中不存在的像素在生成后的纹理中会被擦除，而不是被保留",
     "MC-259356": "使用下界合金升级锻造模板升级带有下界合金盔甲纹饰的钻石盔甲后下界合金纹饰会保留",
     "MC-259389": "新锻造台 GUI 中的不兼容指示箭头出现在了旧 GUI 使用的位置上",
