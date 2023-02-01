@@ -1,4 +1,5 @@
 {
+    "MC-259370": "Stronghold library loot table has been replaced by stronghold altar loot table",
     "MC-216270": "在持有盔甲时无法通过单击右键替换盔甲槽中的盔甲",
     "MC-259206": "辅助功能引导屏幕无法显示英语（美国）以外的语言",
     "MC-259420": "调色板中不存在的像素在生成后的纹理中会被擦除，而不是被保留",
