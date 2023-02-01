@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|4|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|2|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 23w04a
@@ -16,7 +16,7 @@ Data since 22w14a.
 |Translator|Score|
 |---|---|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|204|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|129|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|130|
 |![#69328f](https://img.shields.io/static/v1?label=&message=Ricolove&color=69328f&style=flat-square)|63|
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|56|
 |![#1f1e33](https://img.shields.io/static/v1?label=&message=DrLee_lihr&color=1f1e33&style=flat-square)|50|
