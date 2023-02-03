@@ -1,4 +1,5 @@
 {
+    "MC-259599": "Curse of Binding armor can be removed by swapping armor with right click in hotbar",
     "MC-257464": "美西螈慢速移动时行走动画不连贯",
     "MC-256664": "应用了 `NoAI` 标签的骆驼会播放行走动画",
     "MC-256650": "青蛙从停止移动到进入空闲状态的衔接不连贯",
