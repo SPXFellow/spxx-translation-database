@@ -1,4 +1,8 @@
 {
+    "MC-259454": "Loot table for hoglin stable chests uses the loot table for bridge chests instead",
+    "MC-258622": "Fire charge isn't in the Ingredients tab in creative inventory",
+    "MC-259442": "无法按 Shift 点击将物品放入铁砧的第二槽位",
+    "MC-259432": "`chestplate_trim` 物品纹理中缺失 1 个像素",
     "MC-259599": "在快捷栏中右键交换盔甲可卸下带绑定诅咒的盔甲",
     "MC-257464": "美西螈慢速移动时行走动画不连贯",
     "MC-256664": "应用了 `NoAI` 标签的骆驼会播放行走动画",
