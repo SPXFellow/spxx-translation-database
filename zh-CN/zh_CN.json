@@ -1,5 +1,12 @@
 {
-    "MC-209896": "Sculk sensors are not activated upon placing glowstone into respawn anchors",
+    "MC-259360": "`selectWorld.mapFeatures.info` 字符串原文单词“Shipwrecks”后缺少逗号",
+    "MC-259247": "`execute on owner` 子命令不会选择马、驴、羊驼、骡的主人",
+    "MC-259245": "使用 `/ride` 命令骑乘的末影人，玩家注视其眼睛时会不断传送",
+    "MC-259233": "英语中参数值过低的错误消息不正确",
+    "MC-259227": "单独的 `/execute if loaded <pos>` 会执行失败",
+    "MC-259221": "在无效实体上使用 `/ride` 命令会将玩家传送至指定实体的位置",
+    "MC-259195": "跨维度使用 `/ride` 命令会造成客户端与服务端不同步",
+    "MC-209896": "用荧石充能重生锚不会激活幽匿感测体",
     "MC-210334": "给羊染色不会激活幽匿感测体",
     "MC-210276": "踩坏耕地不会激活幽匿感测体",
     "MC-12729": "实体穿戴的护腿和靴子存在深度冲突",
