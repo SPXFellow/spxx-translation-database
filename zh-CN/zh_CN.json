@@ -1,5 +1,6 @@
 {
-    "MC-210715": "Sculk sensors are not activated upon attaching or removing leads from entities",
+    "MC-259197": "The damage tilt effect isn't accessible-friendly",
+    "MC-210715": "在向实体连接或移除拴绳时，幽匿感测体不会被激活",
     "MC-259224": "Blocking attacks with shields causes the damage tilt to play and red damage tint to show",
     "MC-259193": "The \"Notification Display Time\" text can appear outside of its slider",
     "MC-249878": "Text can appear outside of the \"Device\" button within the music and sound options menu",
