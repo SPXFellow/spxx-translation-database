@@ -1,5 +1,9 @@
 {
-    "MC-251934": "Sculk sensors are not activated upon frogs laying frogspawn",
+    "MC-213803": "Sculk sensors are not activated upon harvesting glow berries from cave vines",
+    "MC-210707": "关闭运输船、运输竹筏、运输矿车上的箱子不会激活幽匿感测体",
+    "MC-198874": "打开漏斗不会激怒猪灵，打开漏斗矿车却会",
+    "MC-236988": "对洞穴藤蔓、缠怨藤、垂泪藤、海带使用剪刀不会激活幽匿感测体",
+    "MC-251934": "青蛙产卵不会激活幽匿感测体",
     "MC-215767": "幽匿感测体不检测海龟产卵",
     "MC-259454": "“疣猪兽棚\"堡垒遗迹的战利品箱使用了“桥”堡垒遗迹的战利品表",
     "MC-258622": "火焰弹没有列入创造模式物品栏的原材料选项卡",
