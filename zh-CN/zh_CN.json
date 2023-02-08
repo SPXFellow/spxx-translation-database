@@ -1,7 +1,7 @@
 {
-    "MC-259197": "The damage tilt effect isn't accessible-friendly",
+    "MC-259197": "受到伤害时的倾斜效果不易访问（在某些情况下导致的屏幕抖动不受设置控制）",
     "MC-210715": "在向实体连接或移除拴绳时，幽匿感测体不会被激活",
-    "MC-259224": "Blocking attacks with shields causes the damage tilt to play and red damage tint to show",
+    "MC-259224": "使用盾牌格挡攻击时仍然播放受伤倾斜动画，并显示红色受伤色调",
     "MC-259193": "“通知显示时长”文本超出滑块区域",
     "MC-249878": "“音乐和声音”选项菜单中“设备”按钮的文本超出按钮区域",
     "MC-237450": "“模拟距离”文本超出滑块区域",
