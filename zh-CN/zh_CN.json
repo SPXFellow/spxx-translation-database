@@ -1,5 +1,8 @@
 {
-    "MC-259468": "empty_slot_amethyst_shard does not show in Smithing Table slot",
+    "MC-210294": "Sculk sensors are not activated upon mounting or dismounting any non-biological entities",
+    "MC-257873": "将身上的一件盔甲替换成另一同种材料的盔甲时不会播放装备音效",
+    "MC-251917": "将盾牌放入副手槽位不会播放装备音效，也不会显示相关字幕",
+    "MC-259468": "empty_slot_amethyst_shard（紫水晶碎片纹理）未显示在锻造台槽位中",
     "MC-259197": "受到伤害时的倾斜效果未无障碍化（在某些情况下导致的屏幕抖动不受设置控制）",
     "MC-210715": "在向实体连接或移除拴绳时，幽匿感测体不会被激活",
     "MC-259224": "使用盾牌格挡攻击时仍然播放受伤倾斜动画，并显示红色受伤色调",
