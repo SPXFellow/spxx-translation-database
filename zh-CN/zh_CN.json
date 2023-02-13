@@ -1,8 +1,8 @@
 {
-    "MC-259573": "Blast Protection does not reduce explosion knockback in creative game mode",
-    "MC-257282": "Allays sometimes have a several-second delay before deciding to follow the player",
-    "MC-256465": "Baby camels can enter boats despite adult camels not being able to",
-    "MC-84633": "Resource packs: ambientocclusion flag only respects topmost parent",
+    "MC-259573": "创造模式下，爆炸保护魔咒不能减少爆炸击退",
+    "MC-257282": "悦灵有时需等待数秒才会跟随玩家",
+    "MC-256465": "成年骆驼无法乘船，而幼年骆驼却可以",
+    "MC-84633": "资源包：环境光遮蔽标签只受顶级父类模型控制",
     "MC-259640": "`iron` 与 `iron_darker` 调色板中的最浅的三种颜色相同",
     "MC-259635": "`iron` 与 `iron_darker` 纹饰的调色板被颠倒了",
     "MC-252434": "手持拴绳与栅栏交互会激活幽匿感测体",
