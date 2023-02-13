@@ -1,4 +1,7 @@
 {
+    "MC-259573": "Blast Protection does not reduce explosion knockback in creative game mode",
+    "MC-257282": "Allays sometimes have a several-second delay before deciding to follow the player",
+    "MC-256465": "Baby camels can enter boats despite adult camels not being able to",
     "MC-84633": "Resource packs: ambientocclusion flag only respects topmost parent",
     "MC-259640": "`iron` 与 `iron_darker` 调色板中的最浅的三种颜色相同",
     "MC-259635": "`iron` 与 `iron_darker` 纹饰的调色板被颠倒了",
