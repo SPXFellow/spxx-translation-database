@@ -1,4 +1,5 @@
 {
+    "MC-84633": "Resource packs: ambientocclusion flag only respects topmost parent",
     "MC-259640": "`iron` 与 `iron_darker` 调色板中的最浅的三种颜色相同",
     "MC-259635": "`iron` 与 `iron_darker` 纹饰的调色板被颠倒了",
     "MC-252434": "手持拴绳与栅栏交互会激活幽匿感测体",
