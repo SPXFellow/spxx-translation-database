@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|2|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|3|
 ## Rank for Latest Version 23w07a
 |Translator|Score|
 |---|---|
@@ -24,7 +24,7 @@ Data since 22w14a.
 |![#1f1e33](https://img.shields.io/static/v1?label=&message=DrLee_lihr&color=1f1e33&style=flat-square)|50|
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|44|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|37|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|29|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|30|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|18|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
