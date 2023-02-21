@@ -1,5 +1,8 @@
 {
-    "MC-259893": "Long texts on buttons scroll too fast",
+    "MC-259630": "Camels, horses and mules bounce high into the air when being ridden across water",
+    "MC-259246": "Passengers on an ender dragon ride too high",
+    "MC-259192": "Server/client position desync when running /ride too fast and manually dismounting",
+    "MC-259893": "按钮上的长文本滚动过快",
     "MC-260194": "创建新的世界屏幕即使在创建世界后也会出现，且此时点击按钮将导致冻结或崩溃",
     "MC-259882": "美西螈不再为附近杀死生物的玩家提供生命恢复效果，同时不会达成“友谊的治愈力！”进度",
     "MC-181412": "使用命令移除一个正在播放音乐唱片的唱片机时，唱片不会停止播放",
