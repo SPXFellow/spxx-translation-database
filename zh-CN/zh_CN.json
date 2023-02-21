@@ -1,4 +1,6 @@
 {
+    "MC-260194": "Create new world screen appears even when world is created; clicking on button causes freeze or crash",
+    "MC-259882": "Axolotls no longer give the Regeneration effect to nearby players after they kill a mob, and do not grant \"The Healing Power of Friendship!\" advancement",
     "MC-181412": "使用命令移除一个正在播放音乐唱片的唱片机时，唱片不会停止播放",
     "MC-16533": "玩家繁殖的马属性不会超过刷怪蛋/自然生成的马",
     "MC-259808": "悦灵的翅膀动画缺帧",
