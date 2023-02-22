@@ -1,4 +1,5 @@
 {
+    "MC-259917": "Entities immune to fall damage are damaged when using minecraft:fall damage type in /damage",
     "MC-259576": "骑乘幻翼的实体位置过高",
     "MC-256731": "骆驼恢复体力的声音不受“友好生物”声音滑块控制",
     "MC-256489": "已坐下且处于求爱模式中的骆驼不会尝试站起并靠近对方以进行繁殖",
