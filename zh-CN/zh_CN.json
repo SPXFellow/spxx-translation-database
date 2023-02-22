@@ -1,5 +1,11 @@
 {
-    "MC-259917": "Entities immune to fall damage are damaged when using minecraft:fall damage type in /damage",
+    "MC-260030": "Starting data.Main for data generation crashes",
+    "MC-259613": "Enchantment glint is hardly noticeable on some items, even when the Glint Strength is set to 100%",
+    "MC-106484": "Some potions are indistinguishable by color",
+    "MC-259920": "“ITEM_INTERACT_FINISH”游戏事件覆盖了其他游戏事件，导致一些活动不会产生应有的振动频率",
+    "MC-260121": "漏斗被放置在正在播放音乐的唱片机上时，对其他玩家来说是幽灵方块",
+    "MC-132200": "Ghost block hoppers appear if summoned by command to powered location",
+    "MC-259917": "当在/damage指令中使用minecraft:fall伤害类型时，实体免疫摔落伤害",
     "MC-259576": "骑乘幻翼的实体位置过高",
     "MC-256731": "骆驼恢复体力的声音不受“友好生物”声音滑块控制",
     "MC-256489": "已坐下且处于求爱模式中的骆驼不会尝试站起并靠近对方以进行繁殖",
