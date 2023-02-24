@@ -1,6 +1,6 @@
 {
-    "MC-260364": "Cherry Door inconsistent item texture",
-    "MC-260324": "Cherry Boat with Chest item texture has a misplaced pixel",
+    "MC-260364": "樱花木门与对应物品的纹理不一致",
+    "MC-260324": "樱花木运输船物品的纹理有一个像素错位",
     "MC-260436": "Item Tags in 1.19.4-pre1 have extra entries",
     "MC-260208": "Display entities in spawn chunks with interpolation_duration greater than 0 visually reset to default transformation on rejoin",
     "MC-260461": "无法在水下骑乘水生生物",
