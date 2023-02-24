@@ -3,6 +3,7 @@
 |Translator|Score|
 |---|---|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|9|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|2|
 |![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|1|
 ## Rank for Latest Version 1.19.4 Pre-release 1
 |Translator|Score|
@@ -21,7 +22,7 @@ Data since 22w14a.
 |![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|76|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|64|
 |![#69328f](https://img.shields.io/static/v1?label=&message=Ricolove&color=69328f&style=flat-square)|63|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|57|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|59|
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|56|
 |![#1f1e33](https://img.shields.io/static/v1?label=&message=DrLee_lihr&color=1f1e33&style=flat-square)|50|
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|44|
