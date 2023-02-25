@@ -12,7 +12,7 @@
     "MC-259961": "部分 NBT 标签对物品展示实体无效",
     "MC-259885": "按 F1 隐藏 HUD 后进入制作人员名单会导致其中的游戏徽标显示不正确",
     "MC-259839": "Duplicated \"minecraft:freeze\" in damage_type tag \"bypasses_armor\"",
-    "MC-259208": "Zombie riding chicken or skeleton riding spider not considered controllers by /execute on controller command",
+    "MC-259208": "鸡骑士的僵尸和蜘蛛骑士的骷髅无法被/execute on controller命令选中",
     "MC-137552": "已装填的弩在物品展示框中和变成掉落物时仍显示为未装填的状态",
     "MC-259609": "选中按钮和滑块时的悬浮提示在切换选中对象后仍不消失",
     "MC-260185": "粉红色花簇不能被立即破坏",
