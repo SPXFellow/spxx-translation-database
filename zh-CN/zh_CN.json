@@ -1,8 +1,8 @@
 {
     "MC-260364": "樱花木门与对应物品的纹理不一致",
     "MC-260324": "樱花木运输船物品的纹理有一个像素错位",
-    "MC-260436": "Item Tags in 1.19.4-pre1 have extra entries",
-    "MC-260208": "Display entities in spawn chunks with interpolation_duration greater than 0 visually reset to default transformation on rejoin",
+    "MC-260436": "1.19.4-pre1中的物品标签有重复条目",
+    "MC-260208": "在世界出生点区块插值持续时间大于0的展示实体会在玩家进入世界时从视觉上重置为默认变换",
     "MC-260461": "无法在水下骑乘水生生物",
     "MC-260445": "乘船或竹筏可以爬上高出一格的地方",
     "MC-260438": "收纳袋 UI 中的物品没有渲染",
