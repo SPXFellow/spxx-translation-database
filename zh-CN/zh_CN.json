@@ -1,4 +1,7 @@
 {
+    "MC-260443": "Loading a snapshot 23w07a experimental world says it can be opened in \"safe mode\" and clicking \"safe mode\" does nothing",
+    "MC-260268": "Can't scroll using arrows in \"Telemetry Data Collection\" screen",
+    "MC-229293": "Casting issue: Broken blocks drop items in the wrong position at high distances",
     "MC-260434": "There is no \"Will be saved in...\" text in the new world creation menu",
     "MC-260364": "樱花木门与对应物品的纹理不一致",
     "MC-260324": "樱花木运输船物品的纹理有一个像素错位",
