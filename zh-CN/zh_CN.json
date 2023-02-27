@@ -1,8 +1,8 @@
 {
-    "MC-260443": "Loading a snapshot 23w07a experimental world says it can be opened in \"safe mode\" and clicking \"safe mode\" does nothing",
-    "MC-260268": "Can't scroll using arrows in \"Telemetry Data Collection\" screen",
-    "MC-229293": "Casting issue: Broken blocks drop items in the wrong position at high distances",
-    "MC-260434": "There is no \"Will be saved in...\" text in the new world creation menu",
+    "MC-260443": "加载一个快照版23w07a的实验性世界时会提示它可以在“安全模式”中打开，但点击“安全模式”后无事发生",
+    "MC-260268": "无法在\"遥测数据收集\"屏幕中使用方向键滚动",
+    "MC-229293": "投射问题：在距离很远（坐标值很大）时，破坏方块会在错误的位置掉落物品",
+    "MC-260434": "新世界创建菜单中缺少“将保存到……”文本",
     "MC-260364": "樱花木门与对应物品的纹理不一致",
     "MC-260324": "樱花木运输船物品的纹理有一个像素错位",
     "MC-260436": "1.19.4-pre1中的物品标签有重复条目",
