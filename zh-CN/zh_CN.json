@@ -1,4 +1,7 @@
 {
+    "MC-260579": "Crash when a guardian deals damage to itself after removing thorns from avoids_guardian_thorns",
+    "MC-260474": "Players and mobs are no longer affected by knockback upon death",
+    "MC-148458": "Ridable mobs aren't knocked back upon death",
     "MC-260277": "potted_cherry_sapling（樱花树苗盆栽）和potted_torchflower（火把花盆栽）缺少 `#flower_pots` 方块标签",
     "MC-259831": "在23w06a中，特定资源包的 UI 按钮显示异常",
     "MC-260443": "加载一个快照版23w07a的实验性世界时会提示它可以在“安全模式”中打开，但点击“安全模式”后无事发生",
