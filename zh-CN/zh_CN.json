@@ -1,7 +1,7 @@
 {
-    "MC-259666": "Reloading a resource pack that has a custom texture atlas for a second time causes severe FPS lag on the client",
+    "MC-259666": "二次重新加载含有自定义纹理图集的资源包后，客户端严重掉帧",
     "MC-260605": "使用循环型命令方块召唤猪灵或村民会导致内存占用持续增加",
-    "MC-260579": "Crash when a guardian deals damage to itself after removing thorns from avoids_guardian_thorns",
+    "MC-260579": "当守卫者在从minecraft:avoids_guardian_thorns中移除minecraft:thorns后对自身造成伤害时，游戏会因为栈内存溢出而崩溃",
     "MC-260474": "玩家和生物死亡时不会受击退影响",
     "MC-148458": "可骑乘生物死亡时不会受击退影响",
     "MC-260277": "potted_cherry_sapling（樱花树苗盆栽）和potted_torchflower（火把花盆栽）缺少 `#flower_pots` 方块标签",
