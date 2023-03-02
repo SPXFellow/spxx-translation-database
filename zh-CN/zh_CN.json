@@ -1,4 +1,7 @@
 {
+    "MC-259603": "The \"selectWorld.gameMode.hardcore.info\" string displayed within the create new world GUI is improperly capitalized",
+    "MC-259792": "The \"selectWorld.experimental.message\" string is missing a serial comma",
+    "MC-259610": "Gamemode information strings consist of inconsistent concluding punctuation",
     "MC-260470": "末影人不能闪避发射器发射的箭",
     "MC-258561": "末影人会传送走而不是受到末地水晶、TNT和凋灵之首爆炸的伤害",
     "MC-260627": "载有乘客的海豚要么异常加速，要么无法移动",
