@@ -1,4 +1,13 @@
 {
+    "MC-259715": "The \"death.attack.message_too_long\" string is missing an article before the word \"message\"",
+    "MC-259714": "Death messages relating to dragons' breath aren't possessive",
+    "MC-259702": "The \"death.attack.hotFloor.player\" string is missing an article before the word \"danger\"",
+    "MC-257784": "Some words within some realms strings are always pluralized",
+    "MC-256270": "Some words within some multiplayer command feedback messages are always pluralized",
+    "MC-255087": "Some words within \"/worldborder\" command feedback messages are always pluralized",
+    "MC-255060": "Some words within \"/function\" and \"/schedule\" command feedback messages are always pluralized",
+    "MC-211071": "Some words within \"/spreadplayers\" command feedback messages are always pluralized",
+    "MC-172305": "Some words within \"/clear\" command feedback messages are always pluralized",
     "MC-259603": "创建新世界 GUI 中展示的 \"selectWorld.gameMode.hardcore.info\" 字符串未正确大小写",
     "MC-259792": "\"selectWorld.experimental.message\" 字符串缺少一个序列逗号",
     "MC-259610": "游戏模式信息字符串包含了前后不一致的标点符号",
