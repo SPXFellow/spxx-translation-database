@@ -1,6 +1,6 @@
 {
-    "MC-260429": "The texture of the Cherry Sign post has an inconsistency with the other Signs",
-    "MC-260068": "The sounds of using brushes don't show any subtitles",
+    "MC-260429": "樱花木告示牌的纹理存在与其他告示牌不一致的地方",
+    "MC-260068": "使用刷子时发出的声音没有字幕",
     "MC-260497": "村民交易按钮与滑块冲突",
     "MC-259715": "字符串 `death.attack.message_too_long` 中 “message” 一词前缺少冠词",
     "MC-259714": "与龙息相关的死亡消息的英文原文没有为龙息一词使用所有格",
