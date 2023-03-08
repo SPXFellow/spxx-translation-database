@@ -1,5 +1,11 @@
 {
-    "MC-259259": "Hostile mobs can't replace armor they're wearing with better armor",
+    "MC-260774": "Players are kicked from server environments due to chat message validation failures when attempting to type in chat after having previously altered chat settings",
+    "MC-260681": "UI click sounds in Create New World menu tabs are louder than they should be",
+    "MC-260642": "tall_grass and large_fern display gray as block_display entities",
+    "MC-259896": "item_display has a wrong default value",
+    "MC-259853": "block_display transform breaks when shearing",
+    "MC-193497": "Tall Grass & Large Fern are rendered incorrectly when an Enderman is holding them",
+    "MC-259259": "敌对生物不会用更好的盔甲换掉自己身上的盔甲",
     "MC-260765": "在包编辑界面中右键点击将移动包",
     "MC-260764": "右键点击将聚焦文本字段",
     "MC-260265": "光照不会随着展示实体的变化而变化",
