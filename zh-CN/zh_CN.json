@@ -1,8 +1,9 @@
 {
-    "MC-260765": "Right-clicking will move packs in the pack edit screen",
-    "MC-260764": "Right-clicking will focus text fields",
-    "MC-260265": "Lighting does not transform with display entities",
-    "MC-259637": "Natural spider potion effects still last max int instead of infinity",
+    "MC-259259": "Hostile mobs can't replace armor they're wearing with better armor",
+    "MC-260765": "在包编辑界面中右键点击将移动包",
+    "MC-260764": "右键点击将聚焦文本字段",
+    "MC-260265": "光照不会随着展示实体的变化而变化",
+    "MC-259637": "自然生成的蜘蛛药水效果持续时间仍为最大值，而不是无限",
     "MC-260214": "寻路至饰纹陶罐上的实体会原地打转",
     "MC-260196": "实体寻路时不会将饰纹陶罐视为障碍物",
     "MC-260735": "盾牌可以防御下砸的铁砧和滴水石锥",
