@@ -1,4 +1,6 @@
 {
+    "MC-260214": "Entities will often spin while pathfinding on top of decorated pots",
+    "MC-260196": "Entities don't recognize decorated pots as obstacles when pathfinding",
     "MC-260735": "You can block falling anvils and dripstone with a shield",
     "MC-260321": "Sniffers in the distance have lots of Z-fighting on their body",
     "MC-210816": "摧毁潜影弹时不会触发幽匿感测体",
