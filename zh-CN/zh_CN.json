@@ -1,4 +1,5 @@
 {
+    "MC-260285": "Applying an identical transformation will result in the previous interpolation repeating instead of having no effect",
     "MC-260774": "Players are kicked from server environments due to chat message validation failures when attempting to type in chat after having previously altered chat settings",
     "MC-260681": "UI click sounds in Create New World menu tabs are louder than they should be",
     "MC-260642": "tall_grass and large_fern display gray as block_display entities",
