@@ -2,7 +2,9 @@
 ## Rank for Future Version
 This catagory is empty for now.
 ## Rank for Latest Version 1.19.4 Release Candidate 1
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|1|
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
@@ -18,7 +20,7 @@ Data since 22w14a.
 |![#a2d2e2](https://img.shields.io/static/v1?label=&message=NoMathExpectation&color=a2d2e2&style=flat-square)|44|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|40|
 |![#388d40](https://img.shields.io/static/v1?label=&message=dianliang&color=388d40&style=flat-square)|19|
-|![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|18|
+|![#388d40](https://img.shields.io/static/v1?label=&message=KK899&color=388d40&style=flat-square)|19|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|7|
 |![#2b93c0](https://img.shields.io/static/v1?label=&message=Light_Beacon&color=2b93c0&style=flat-square)|5|
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
