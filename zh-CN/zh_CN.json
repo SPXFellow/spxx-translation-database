@@ -1,4 +1,5 @@
 {
+    "MC-260857": "Display entities summoned with initial transformation interpolate incorrectly from default transformation during next transformation",
     "MC-260285": "对展示实体应用两个相同的变换会导致前者重复两次，而不是第二次没有变化",
     "MC-260774": "当更改聊天设置后试图输入聊天时，由于聊天消息验证失败，玩家会被踢出服务器",
     "MC-260681": "在创建新的世界菜单选项卡中点击UI的声音相较于它们应有的声音来说过响",
