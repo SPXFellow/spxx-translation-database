@@ -1,8 +1,8 @@
 {
-    "MC-260901": "Guardians deal thorns damage even while their spikes are retracted",
-    "MC-260881": "Transparent 3D models dont render properly in the GUI/Hotbar",
-    "MC-260677": "Advancement icons handle translucent textures wrong",
-    "MC-260878": "Guardians apply Thorns damage when hit by projectiles",
+    "MC-260901": "守卫者在尖刺收起时仍会造成荆棘伤害",
+    "MC-260881": "透明的3D模型在GUI/快捷栏中的渲染不正确",
+    "MC-260677": "进度图标对半透明纹理的处理有问题",
+    "MC-260878": "守卫者在受到弹射物伤害时会造成荆棘伤害",
     "MC-260857": "使用初始变换数据召唤的展示实体会在下一次变换的对默认变换数据的插值过程中出现错误",
     "MC-260285": "对展示实体应用两个相同的变换会导致前者重复两次，而不是第二次没有变化",
     "MC-260774": "当更改聊天设置后试图输入聊天时，由于聊天消息验证失败，玩家会被踢出服务器",
