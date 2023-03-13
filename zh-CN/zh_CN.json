@@ -1,4 +1,5 @@
 {
+    "MC-260901": "Guardians deal thorns damage even while their spikes are retracted",
     "MC-260881": "Transparent 3D models dont render properly in the GUI/Hotbar",
     "MC-260677": "Advancement icons handle translucent textures wrong",
     "MC-260878": "Guardians apply Thorns damage when hit by projectiles",
