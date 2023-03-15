@@ -1,4 +1,5 @@
 {
+    "MC-260757": "Updating a large amount of Iron Bars causes the game to hang in-game or during the Saving world screen",
     "MC-260901": "守卫者在尖刺收起时仍会造成荆棘伤害",
     "MC-260881": "透明的3D模型在GUI/快捷栏中的渲染不正确",
     "MC-260677": "进度图标对半透明纹理的处理有问题",
