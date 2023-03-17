@@ -1,4 +1,6 @@
 {
+    "MC-260053": "When rotating a Decorated Pot with the debug stick, it will spawn a decorated pot item",
+    "MC-260043": "Decorated Pots don't play breaking sound in creative mode",
     "MC-260020": "重新加载世界会重置棕色哞菇吃下的花",
     "MC-165221": "3D Modeled Potions are not rendered correctly in the \"GUI Display\"",
     "MC-157727": "蜂蜜块和黏液块内部的小立方体不会显示在物品栏中",
