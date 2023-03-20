@@ -1,4 +1,5 @@
 {
+    "MC-260885": "Display entities summoned with initial transformation interpolate incorrectly from default transformation during next transformation",
     "MC-260053": "当使用调试棒旋转饰纹陶罐时，它会生成一个饰纹陶罐物品",
     "MC-260043": "创造模式下饰纹陶罐不会播放破坏的声音",
     "MC-260020": "重新加载世界会重置棕色哞菇吃下的花",
