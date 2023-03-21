@@ -1,6 +1,7 @@
 {
-    "MC-260320": "Parity Issue: Snifflets (Baby Sniffers) have an inconsistent model with Bedrock",
-    "MC-259201": "The tops and bottoms of donkeys' ears are miscolored",
+    "MC-260777": "Sniffers ignore some dangerous blocks while sniffing and pathfinding resulting in them being damaged",
+    "MC-260320": "趋同事项：小嗅探兽与基岩版中的有不同的纹理",
+    "MC-259201": "驴耳朵的顶部和底部颜色错误",
     "MC-260317": "嗅探兽尝试闻嗅它们无法到达的被阻挡的方块",
     "MC-260282": "嗅探兽会闻嗅和跟随旁观模式下的玩家",
     "MC-260503": "嗅探兽不会挖掘顶部放有非固体方块的土类方块",
