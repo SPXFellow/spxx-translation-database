@@ -1,5 +1,7 @@
 {
-    "MC-260317": "Sniffers try to sniff out obstructed blocks they can't reach",
+    "MC-260320": "Parity Issue: Snifflets (Baby Sniffers) have an inconsistent model with Bedrock",
+    "MC-259201": "The tops and bottoms of donkeys' ears are miscolored",
+    "MC-260317": "嗅探兽尝试闻嗅它们无法到达的被阻挡的方块",
     "MC-260282": "嗅探兽会闻嗅和跟随旁观模式下的玩家",
     "MC-260503": "嗅探兽不会挖掘顶部放有非固体方块的土类方块",
     "MC-260326": "嗅探兽濒死时仍能挖掘",
