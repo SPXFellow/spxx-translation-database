@@ -1,8 +1,9 @@
 {
-    "MC-260282": "Sniffers can sniff out and follow players in spectator mode",
-    "MC-260503": "Sniffers refuse to dig into soil with a non-solid block on top",
-    "MC-260326": "Dying sniffers continue to dig",
-    "MC-260251": "The walking animations of sniffers don't change in relation to their movement speed",
+    "MC-260317": "Sniffers try to sniff out obstructed blocks they can't reach",
+    "MC-260282": "嗅探兽会闻嗅和跟随旁观模式下的玩家",
+    "MC-260503": "嗅探兽不会挖掘顶部放有非固体方块的土类方块",
+    "MC-260326": "嗅探兽濒死时仍能挖掘",
+    "MC-260251": "嗅探兽的行走动画不会随移动速度改变",
     "MC-260897": "展示实体的插值前状态异常",
     "MC-260885": "使用初始变换数据召唤的展示实体会在下一次变换的对默认变换数据的插值过程中出现错误",
     "MC-260053": "当使用调试棒旋转饰纹陶罐时，它会生成一个饰纹陶罐物品",
