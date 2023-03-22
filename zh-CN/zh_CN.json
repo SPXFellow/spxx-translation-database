@@ -1,5 +1,5 @@
 {
-    "MC-260750": "Magma blocks use unnecessary random ticking for an outdated feature, causing performance issues",
+    "MC-260750": "岩浆块为已过时的特性使用不必要的随机刻，造成性能问题",
     "MC-197241": "狼的项圈颜色可由主人以外的玩家改变",
     "MC-260678": "隐身药水和缓降药水的外观过于相近",
     "MC-260777": "嗅探兽在闻嗅和寻路时会忽略部分危险的方块，导致其受到伤害",
