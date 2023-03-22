@@ -1,5 +1,6 @@
 {
-    "MC-260061": "Sniffer's ears and head z-fight",
+    "MC-260778": "Sniffer tries to sniff out blocks outside the world border",
+    "MC-260061": "嗅探兽的耳朵和头部存在深度冲突",
     "MC-260750": "岩浆块为已过时的特性使用不必要的随机刻，造成性能问题",
     "MC-197241": "狼的项圈颜色可由主人以外的玩家改变",
     "MC-260678": "隐身药水和缓降药水的外观过于相近",
