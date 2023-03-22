@@ -1,5 +1,7 @@
 {
-    "MC-260778": "Sniffer tries to sniff out blocks outside the world border",
+    "MC-260779": "Sniffers can dig into blocks outside the world border",
+    "MC-260240": "Sniffers that are in love sometimes don't attempt to approach one another to breed",
+    "MC-260778": "嗅探兽尝试闻嗅世界边界外的方块",
     "MC-260061": "嗅探兽的耳朵和头部存在深度冲突",
     "MC-260750": "岩浆块为已过时的特性使用不必要的随机刻，造成性能问题",
     "MC-197241": "狼的项圈颜色可由主人以外的玩家改变",
