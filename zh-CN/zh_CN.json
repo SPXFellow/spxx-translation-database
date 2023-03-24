@@ -1,4 +1,10 @@
 {
+    "MC-261275": "Sniffers drop moss blocks when killed",
+    "MC-261232": "Texture minecraft:block/sniffer_egg_slightly_cracked with size 40x32 limits mip level from 4 to 3",
+    "MC-261170": "Sniffer egg faces aren't culled when covered by blocks",
+    "MC-260898": "Brushes can be used through entities ",
+    "MC-260093": "Particles spawned by brushes in the left hand move in the wrong direction",
+    "MC-260075": "Player holds brush by ferrule in third person",
     "MC-260779": "嗅探兽尝试挖掘世界边界外的方块",
     "MC-260240": "处于求爱模式中的嗅探兽不会尝试靠近对方以进行繁殖",
     "MC-260778": "嗅探兽尝试闻嗅世界边界外的方块",
