@@ -1,4 +1,6 @@
 {
+    "MC-261262": "Raiser and Wayfinder smithing templates are offset by one pixel",
+    "MC-230916": "\"Potted Flowering Azalea Bush Plant\" uses the wrong texture",
     "MC-261275": "嗅探兽被击杀时掉落苔藓块",
     "MC-261232": "`minecraft:block/sniffer_egg_slightly_cracked`纹理大小是40x32，导致mipmap等级最大只能为3，而不是4",
     "MC-261170": "嗅探兽蛋被方块覆盖的面未被剔除",
