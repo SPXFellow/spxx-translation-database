@@ -1,4 +1,10 @@
 {
+    "MC-260454": "Decorated pots are translated off-center when displayed on head",
+    "MC-261229": "Crashes and Chunk Resetting involving Suspicious Sand with Loot Tables updating from 1.19.4",
+    "MC-261193": "Calibrated sculk sensor placed by commands is waterlogged by default",
+    "MC-260146": "Pink petals are not next to other flowers in the creative inventory",
+    "MC-259364": "The \"item.minecraft.smithing_template.netherite_upgrade.base_slot_description\" string is missing a serial comma",
+    "MC-257246": "Horses do not make step_wood sounds when walking on Nether wood, cherry wood, bamboo wood, or stems",
     "MC-261201": "瓶子草可以被其他方块放置取代，与其他两格高的花性质不一致",
     "MC-261243": "瓶子草植株缺少 `#crops` 标签",
     "MC-261237": "对瓶子草植株的上半部分使用骨粉不能促进下半部分的生长",
