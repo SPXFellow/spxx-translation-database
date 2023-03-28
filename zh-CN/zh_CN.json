@@ -1,8 +1,8 @@
 {
-    "MC-261224": "Editing sign from an angle (or the side) will edit the back instead of the front. ",
-    "MC-261223": "Editing hanging sign doesn't work while right clicking while holding placeable",
-    "MC-261190": "Signs no longer resolve JSON text components",
-    "MC-261181": "The \"Glow and Behold!\" advancement is granted when interacting with waxed signs while holding glow ink sacs",
+    "MC-261224": "从特定角度（或侧面）会编辑告示牌的背面，而不是正面",
+    "MC-261223": "手持可放置方块右击时无法编辑悬挂式告示牌",
+    "MC-261190": "告示牌不再能解析JSON文本组件",
+    "MC-261181": "对涂蜡的告示牌使用荧光墨囊也能够达成“眼前一亮！”进度",
     "MC-261241": "当玩家为骆驼装备鞍时，装备鞍的音效播放两次",
     "MC-257268": "骆驼冲刺动画有时不会显示给其他玩家",
     "MC-256506": "骑着实体的骆驼永久卡在冲刺状态",
