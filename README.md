@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|29|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|28|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|8|
 ## Rank for Latest Version 23w12a
 |Translator|Score|
