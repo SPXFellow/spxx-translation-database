@@ -1,4 +1,7 @@
 {
+    "MC-261208": "Pitcher Plant has unused bottom texture",
+    "MC-260252": "Sniffer walking animation is broken when walking on ice",
+    "MC-260090": "Sniffers ignore the \"minecraft:generic.movement_speed\" attribute",
     "MC-261224": "从特定角度（或侧面）会编辑告示牌的背面，而不是正面",
     "MC-261223": "手持可放置方块右击时无法编辑悬挂式告示牌",
     "MC-261190": "告示牌不再能解析JSON文本组件",
