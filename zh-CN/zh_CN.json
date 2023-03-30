@@ -1,7 +1,10 @@
 {
-    "MC-261346": "Sniffers have no egg laying sound, despite laying them like Chickens",
-    "MC-261183": "Sniffer egg sound events are listed under \"entity\" instead of \"block\"",
-    "MC-260459": "Baby sniffers don't sound high pitched when sniffing",
+    "MC-259873": "Skeleton/Zombie Horse's chests are outdated",
+    "MC-256540": "The top texture of the camel's front left leg contains some redundant gray pixels",
+    "MC-237556": "Legs of black cat model are white at the top",
+    "MC-261346": "嗅探兽没有下蛋的声音，尽管它们像鸡一样下蛋",
+    "MC-261183": "嗅探兽蛋的声音事件在“entity”列表内，而不是在“block”列表",
+    "MC-260459": "小嗅探兽在嗅探时不会发出高音",
     "MC-261208": "瓶子草存在未使用的底面纹理",
     "MC-260401": "副手上的刷子损坏时，粒子会以主手物品为准",
     "MC-260347": "重新打开世界后，可疑的沙子从半空落地不会被破坏",
