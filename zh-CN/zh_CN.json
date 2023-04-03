@@ -1,4 +1,8 @@
 {
+    "MC-256419": "Incomplete commands run through aliases don't produce errors",
+    "MC-165773": "/execute run does not cause syntax error when arguments are missing",
+    "MC-261298": "Pitcher plant is not next to other two tall plants in the creative inventory",
+    "MC-260527": "The coordinates of the sniffer  \"minecraft:sniffer_explored_positions\" tag do not check the dimension",
     "MC-2474": "放在书架和附魔台之间的透明方块会阻碍书架提高附魔等级",
     "MC-260779": "嗅探兽尝试挖掘世界边界外的方块",
     "MC-260237": "嗅探兽在恐慌时仍然可以闻嗅",
