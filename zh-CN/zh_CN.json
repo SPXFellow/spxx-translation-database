@@ -1,4 +1,5 @@
 {
+    "MC-261487": "Z-fighting occurs on the backs of sniffers' heads",
     "MC-256419": "Incomplete commands run through aliases don't produce errors",
     "MC-165773": "/execute run does not cause syntax error when arguments are missing",
     "MC-261298": "Pitcher plant is not next to other two tall plants in the creative inventory",
