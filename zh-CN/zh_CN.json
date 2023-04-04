@@ -1,4 +1,5 @@
 {
+    "MC-261304": "Cyan dye crafting recipes are not grouped",
     "MC-254588": "Miscolored pixel on slowness effect icon",
     "MC-252099": "Incorrect texture mapping in potted mangrove propagule (mirror effect)",
     "MC-203406": "Kelp and seagrass models appear to reference biome tints despite not using any",
