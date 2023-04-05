@@ -9,7 +9,7 @@
 |Translator|Score|
 |---|---|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|33|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|8|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|7|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KatMelon&color=388d40&style=flat-square)|1|
 ## Rank for All Time
 Data since 22w14a.
