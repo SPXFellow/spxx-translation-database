@@ -1,4 +1,8 @@
 {
+    "MC-261201": "瓶子草可以被其他方块放置取代，与其他两格高的花性质不一致",
+    "MC-261176": "Pitchers don't maintain the farmland used to grow it",
+    "MC-261365": "Players being hurt is not detected by a calibrated sculk sensor set to 7",
+    "MC-261253": "Sculk sensor no longer triggers the advancement \"Sneak 100\" by just sneaking ",
     "MC-261423": "Pitcher pod crop with a block on top consumes bone meal despite being unable to grow",
     "MC-261503": "Ravager cannot destroy pitcher crop",
     "MC-260348": "泥巴拥有 `sniffer_diggable` 标签，但嗅探兽不会挖掘泥巴",
@@ -86,7 +90,6 @@
     "MC-260146": "创造模式物品栏内粉红色花簇没有与其它种类的花在一起",
     "MC-259364": "`item.minecraft.smithing_template.netherite_upgrade.base_slot_description` 字符串缺少一个连续逗号",
     "MC-257246": "马在下界菌柄、樱花木、竹块和蘑菇柄上行走时不会发出 `step_wood` 声音",
-    "MC-261201": "瓶子草可以被其他方块放置取代，与其他两格高的花性质不一致",
     "MC-261243": "瓶子草植株缺少 `#crops` 标签",
     "MC-261237": "对瓶子草植株的上半部分使用骨粉不能促进下半部分的生长",
     "MC-261206": "种植瓶子草荚果不能达成进度“开荒垦地”",
