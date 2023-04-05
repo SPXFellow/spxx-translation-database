@@ -1,7 +1,7 @@
 {
     "MC-261201": "瓶子草可以被其他方块放置取代，与其他两格高的花性质不一致",
-    "MC-261176": "Pitchers don't maintain the farmland used to grow it",
-    "MC-261365": "Players being hurt is not detected by a calibrated sculk sensor set to 7",
+    "MC-261176": "瓶子草成熟后，其下方的耕地会退化成泥土",
+    "MC-261365": "接收频率设置为7的校频幽匿感测体不会探测到玩家受伤",
     "MC-261253": "Sculk sensor no longer triggers the advancement \"Sneak 100\" by just sneaking ",
     "MC-261423": "Pitcher pod crop with a block on top consumes bone meal despite being unable to grow",
     "MC-261503": "Ravager cannot destroy pitcher crop",
