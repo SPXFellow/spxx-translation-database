@@ -18,7 +18,7 @@
     "MC-261198": "校频幽匿感测体不会和普通幽匿感测体一样发光",
     "MC-261304": "青色染料的合成配方没有分到同一组中",
     "MC-254588": "缓慢效果的图标有一个像素颜色不正确",
-    "MC-252099": "Incorrect texture mapping in potted mangrove propagule (mirror effect)",
+    "MC-252099": "红树胎生苗盆栽的纹理映射不正确（镜像效果）",
     "MC-203406": "Kelp and seagrass models appear to reference biome tints despite not using any",
     "MC-176309": "幻术师的纹理中留下了一些被错误放置的像素",
     "MC-155084": "马身上的马铠、辔头和缰绳之间存在深度冲突",
