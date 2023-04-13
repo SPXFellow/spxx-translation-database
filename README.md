@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|5|
 ## Rank for Latest Version 23w14a
 |Translator|Score|
 |---|---|
@@ -11,8 +13,8 @@ This catagory is empty for now.
 Data since 22w14a.
 |Translator|Score|
 |---|---|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|232|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|231|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|227|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|159|
 |![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|84|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|64|
