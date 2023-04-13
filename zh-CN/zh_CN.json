@@ -1,6 +1,6 @@
 {
     "MC-252786": "SculkSensorBlockEntity and SculkShriekerBlockEntity leak VibrationListeners on update",
-    "MC-249450": "Sculk shriekers placed with NBT don't receive signals from nearby sculk sensors",
+    "MC-249450": "带有 NBT 的幽匿尖啸体放置后无法接收周围幽匿感测体的信号",
     "MC-207251": "通过 `/clone` 命令复制、超平坦预设以及自定义结构产生的幽匿感测体和幽匿尖啸体无法正常运作",
     "MC-261625": "“Programmer Art”和“高对比度”内置资源包不兼容",
     "MC-170012": "Lightmaps are missing for initial skylight",
