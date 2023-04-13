@@ -1,4 +1,7 @@
 {
+    "MC-252786": "SculkSensorBlockEntity and SculkShriekerBlockEntity leak VibrationListeners on update",
+    "MC-249450": "Sculk shriekers placed with NBT don't receive signals from nearby sculk sensors",
+    "MC-207251": "Sculk sensors and shriekers do not work correctly when cloned, generated on superflat worlds or placed with custom structures",
     "MC-261625": "\"Programmer Art\" and \"High contrast\" built-in Resource Packs are incompatible",
     "MC-170012": "Lightmaps are missing for initial skylight",
     "MC-170010": "Sky-lightmaps not properly initialized",
