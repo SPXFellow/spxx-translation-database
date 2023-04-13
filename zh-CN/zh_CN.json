@@ -1,4 +1,5 @@
 {
+    "MC-261625": "\"Programmer Art\" and \"High contrast\" built-in Resource Packs are incompatible",
     "MC-170012": "Lightmaps are missing for initial skylight",
     "MC-170010": "Sky-lightmaps not properly initialized",
     "MC-169498": "Empty top subchunks don't update skylight in some cases",
