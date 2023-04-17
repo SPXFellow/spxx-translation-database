@@ -1,4 +1,8 @@
 {
+    "MC-261740": "Feeding a Sniffer while it is digging causes it to lay motionless for a while then dig again with no animation",
+    "MC-261605": "Splash text sometimes covers several letters of \"Java Edition\"",
+    "MC-261286": "Walking near liquids causes stone footstep sounds to play",
+    "MC-199752": "Polished Blackstone Button takes longer to break than other buttons",
     "MC-261214": "Amethyst in calibrated sculk sensor is shaded and not stretched",
     "MC-260466": "Torchflower doesn't mantain farmland used to grow it",
     "MC-261804": "Expired Key preventing players from logging in on servers",
