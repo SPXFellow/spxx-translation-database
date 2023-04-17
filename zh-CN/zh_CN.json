@@ -1,5 +1,10 @@
 {
-    "MC-261643": "Villagers can't plant torchflower seeds or pitcher plant pods, despite picking them up",
+    "MC-261214": "Amethyst in calibrated sculk sensor is shaded and not stretched",
+    "MC-260466": "Torchflower doesn't mantain farmland used to grow it",
+    "MC-261804": "Expired Key preventing players from logging in on servers",
+    "MC-261620": "更改瓶子草植株的 `age` 属性会引起崩溃",
+    "MC-260849": "嗅探兽无法乘坐矿车",
+    "MC-261643": "村民会捡起火把花种子和瓶子草荚果，但不会将其用于耕种",
     "MC-260221": "具有飘浮状态且正在飘浮的嗅探兽依然能够挖掘",
     "MC-252786": "`SculkSensorBlockEntity`和`SculkShriekerBlockEntity`在更新时泄露`VibrationListeners`",
     "MC-249450": "带有 NBT 的幽匿尖啸体放置后无法接收周围幽匿感测体的信号",
