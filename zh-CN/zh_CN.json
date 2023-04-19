@@ -1,4 +1,5 @@
 {
+    "MC-261857": "Using the \"/setblock\", \"/fill\", or \"/clone\" commands to create little amounts of blocks in completely isolated areas causes large client-side stutters",
     "MC-254410": "使用命令 `/setidletimeout` 将计时设置为大于35791的数会导致空闲玩家立即掉线",
     "MC-261746": "`block.sniffer.egg_crack` 和 `block.sniffer.egg_hatch` 的声音事件 ID 拼写不正确",
     "MC-261646": "嗅探兽下蛋的字幕误用了鸡下蛋的字幕",
