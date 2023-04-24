@@ -1,4 +1,7 @@
 {
+    "MC-262022": "Tooltips get cut off at the bottom of the screen",
+    "MC-262012": "Telemetry Tooltip out of screen",
+    "MC-261997": "Game crashes when generating new chunk / java.lang.IllegalStateException: Asking for biomes before we have biomes",
     "MC-261413": "惯用左手玩家使用刷子刷扫时，粒子向错误的方向运动",
     "MC-261608": "幽匿感测体与校频幽匿感测体缺少冷却状态",
     "MC-261857": "在极偏远的区域，使用 `/setblock`、`/fill` 或 `/clone` 命令生成少量方块会导致客户端严重卡顿",
