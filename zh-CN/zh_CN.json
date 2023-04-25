@@ -1,4 +1,5 @@
 {
+    "MC-262024": "Sniffer eggs are sometimes spawned in the ground when sniffers breed",
     "MC-262030": "Sniffers stand a bit too close to players that are tempting them",
     "MC-261938": "Sniffer animation is not smooth on slime blocks",
     "MC-261900": "Sniffers cannot properly pathfind into water while burning",
