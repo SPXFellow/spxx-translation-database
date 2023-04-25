@@ -1,8 +1,8 @@
 {
-    "MC-262024": "Sniffer eggs are sometimes spawned in the ground when sniffers breed",
-    "MC-262030": "Sniffers stand a bit too close to players that are tempting them",
-    "MC-261938": "Sniffer animation is not smooth on slime blocks",
-    "MC-261900": "Sniffers cannot properly pathfind into water while burning",
+    "MC-262024": "繁殖嗅探兽产下的嗅探兽蛋有时会生成在地面下方",
+    "MC-262030": "受食物吸引的嗅探兽过于靠近玩家",
+    "MC-261938": "站在黏液块上的嗅探兽动画不流畅",
+    "MC-261900": "嗅探兽着火时无法正确寻路至水中",
     "MC-262022": "工具提示会在屏幕底部被截断",
     "MC-262012": "遥控的工具提示在屏幕外被截断",
     "MC-261997": "游戏在生成新区块时崩溃：`java.lang.IllegalStateException: Asking for biomes before we have biomes`",
