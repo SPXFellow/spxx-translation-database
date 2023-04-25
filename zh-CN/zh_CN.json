@@ -1,4 +1,10 @@
 {
+    "MC-261626": "Reversed Comma doesn't render properly when using the Unicode font",
+    "MC-258926": "Space is no longer treated as padding in fonts",
+    "MC-254506": "Font file of some Korean completed font area is wrong",
+    "MC-197772": "Missing textures in minecraft:uniform font",
+    "MC-127394": "Minecraft does not render characters in Unicode mb4 range",
+    "MC-108045": "Minecraft not using latest unifont unicode chart; characters are missing",
     "MC-262024": "繁殖嗅探兽产下的嗅探兽蛋有时会生成在地面下方",
     "MC-262030": "受食物吸引的嗅探兽过于靠近玩家",
     "MC-261938": "站在黏液块上的嗅探兽动画不流畅",
