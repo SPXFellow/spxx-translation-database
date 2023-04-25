@@ -1,4 +1,7 @@
 {
+    "MC-262030": "Sniffers stand a bit too close to players that are tempting them",
+    "MC-261938": "Sniffer animation is not smooth on slime blocks",
+    "MC-261900": "Sniffers cannot properly pathfind into water while burning",
     "MC-262022": "工具提示会在屏幕底部被截断",
     "MC-262012": "遥控的工具提示在屏幕外被截断",
     "MC-261997": "Game crashes when generating new chunk / java.lang.IllegalStateException: Asking for biomes before we have biomes",
