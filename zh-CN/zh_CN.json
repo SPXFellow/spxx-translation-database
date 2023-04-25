@@ -1,6 +1,6 @@
 {
-    "MC-262022": "Tooltips get cut off at the bottom of the screen",
-    "MC-262012": "Telemetry Tooltip out of screen",
+    "MC-262022": "工具提示会在屏幕底部被截断",
+    "MC-262012": "遥控的工具提示在屏幕外被截断",
     "MC-261997": "Game crashes when generating new chunk / java.lang.IllegalStateException: Asking for biomes before we have biomes",
     "MC-261413": "惯用左手玩家使用刷子刷扫时，粒子向错误的方向运动",
     "MC-261608": "幽匿感测体与校频幽匿感测体缺少冷却状态",
