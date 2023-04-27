@@ -1,4 +1,5 @@
 {
+    "MC-261417": "The hitboxes of sniffers are not adjusted when they lay down",
     "MC-249341": "部分Mojang雇员未出现在鸣谢名单中",
     "MC-241803": "`credits.json`的第2632行有错字（应当是C而不是O）",
     "MC-241741": "鸣谢名单中，一些名字出现了两次",
