@@ -1,4 +1,10 @@
 {
+    "MC-262069": "Sniffers continue digging after their target block is destroyed",
+    "MC-262067": "The type of sniffer digging particles that are produced is determined by the block that sniffers are located on instead of the block that sniffers are digging",
+    "MC-257269": "Sculk sensor detects player walking between carpet and wool",
+    "MC-262003": "Bundle tooltip does not show its interface",
+    "MC-261952": "Clocks flicker rapidly when enchanted and in an unnatural dimension",
+    "MC-262133": "Strong lag spikes when moving above a cleared area with exposed void",
     "MC-261417": "嗅探兽趴下时碰撞箱不会随之调整",
     "MC-249341": "部分Mojang雇员未出现在鸣谢名单中",
     "MC-241803": "`credits.json`的第2632行有错字（应当是C而不是O）",
