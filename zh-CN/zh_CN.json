@@ -1,4 +1,6 @@
 {
+    "MC-1133": "Whether or not a player experiences some effect is calculated based on the block under the center of the player",
+    "MC-262123": "Advancement titles of new advancements introduced in 23w17a are improperly capitalized",
     "MC-262218": "23w17a 中，方块光照更新无法正确跨越区块边界",
     "MC-262104": "帧生成时间柱状图的渲染和以前相比性能较差",
     "MC-262069": "嗅探兽在其挖掘的方块被毁后仍会持续挖掘动作",
