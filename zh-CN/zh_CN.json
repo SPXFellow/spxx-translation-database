@@ -1,4 +1,13 @@
 {
+    "MC-257336": "Some chiseled bookshelf interaction subtitles are improperly capitalized",
+    "MC-256424": "Game mode is sometimes referred to as \"gamemode\"",
+    "MC-250571": "Gamerule description strings within the world creation menu consist of inconsistent concluding punctuation",
+    "MC-236606": "Lightning bolt related string lacks capitalization",
+    "MC-226454": "The \"Light as a Rabbit\" advancement description has no space after the ellipsis",
+    "MC-206548": "Leash knot subtitles are not properly capitalized",
+    "MC-203039": "Incorrect use of colon in options.hideMatchedNames.tooltip",
+    "MC-195825": "\"datapacks\" string is inconsistent with \"data pack\" string in \"datapackFailure.title\" text",
+    "MC-195781": "The \"Include entities:\" string displayed within the structure block GUI is improperly capitalized",
     "MC-262253": "作曲家未在鸣谢名单中列出",
     "MC-262208": "鸣谢名单中有一处“Lionbridge”漏写了字母“g”",
     "MC-241736": "鸣谢名单中的公司名仍有不一致问题，且部分存在错别字现象",
