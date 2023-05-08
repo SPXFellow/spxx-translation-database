@@ -1,6 +1,6 @@
 {
-    "MC-257336": "Some chiseled bookshelf interaction subtitles are improperly capitalized",
-    "MC-256424": "Game mode is sometimes referred to as \"gamemode\"",
+    "MC-257336": "雕纹书架的部分互动字幕大小写不正确",
+    "MC-256424": "游戏模式一词在部分文本中被连写为“gamemode”",
     "MC-250571": "Gamerule description strings within the world creation menu consist of inconsistent concluding punctuation",
     "MC-236606": "Lightning bolt related string lacks capitalization",
     "MC-226454": "The \"Light as a Rabbit\" advancement description has no space after the ellipsis",
