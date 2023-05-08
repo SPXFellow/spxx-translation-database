@@ -1,9 +1,9 @@
 {
-    "MC-262253": "Music composers not listed in credits",
-    "MC-262208": "In the credits, \"Lionbridge\" is misspelt in one place (no \"g\")",
-    "MC-241736": "Company names are still inconsistent and partly misspelled in the credits",
+    "MC-262253": "作曲家未在鸣谢名单中列出",
+    "MC-262208": "鸣谢名单中有一处“Lionbridge”漏写了字母“g”",
+    "MC-241736": "鸣谢名单中的公司名仍有不一致问题，且部分存在错别字现象",
     "MC-18060": "多人游戏和 Realms 服务器中多个字符串不可翻译",
-    "MC-48923": "Slime/magma cubes not affected by jump boost potion effect",
+    "MC-48923": "跳跃提升效果对史莱姆和岩浆怪不起作用",
     "MC-1133": "玩家是否受方块的特殊性质影响取决于该玩家中心下方的方块",
     "MC-262123": "新进度的名称大小写不正确",
     "MC-262218": "23w17a 中，方块光照更新无法正确跨越区块边界",
