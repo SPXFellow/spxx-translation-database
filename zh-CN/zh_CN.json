@@ -1,4 +1,5 @@
 {
+    "MC-198202": "Options background texture does not match dirt texture",
     "MC-262265": "Changing resource pack that overrides a font crashes JVM",
     "MC-2215": "Encoding errors in server.properties",
     "MC-257336": "雕纹书架的部分互动字幕大小写不正确",
