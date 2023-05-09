@@ -1,4 +1,10 @@
 {
+    "MC-262424": "Sprinting particles on the edges of blocks are still incorrect",
+    "MC-262363": "Player can still gain a normal jump off of a honey block with precise timing, despite the fix for MC-1133",
+    "MC-262351": "Worldgen deadlock caused by supporting block checks",
+    "MC-262317": "Items don't respect properties of the block they are supported on",
+    "MC-262308": "Entities do not stick to honey blocks pushed by pistons if their center isn't over the honey block",
+    "MC-262304": "The stepping_on predicate condition does not correctly succeed on trapdoors",
     "MC-198202": "选项背景纹理与泥土纹理不一致",
     "MC-262265": "更换覆盖了字体的资源包会导致 JVM 崩溃",
     "MC-2215": "`server.properties` 编码错误",
