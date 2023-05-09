@@ -1,9 +1,10 @@
 {
-    "MC-262424": "Sprinting particles on the edges of blocks are still incorrect",
+    "MC-146582": "When entering spectator mode while standing on the ground, the player moves down by 0.19051 blocks, which makes you fall down",
+    "MC-262424": "方块边缘的疾跑粒子仍然不正确",
     "MC-262363": "Player can still gain a normal jump off of a honey block with precise timing, despite the fix for MC-1133",
     "MC-262351": "Worldgen deadlock caused by supporting block checks",
     "MC-262317": "Items don't respect properties of the block they are supported on",
-    "MC-262308": "Entities do not stick to honey blocks pushed by pistons if their center isn't over the honey block",
+    "MC-262308": "活塞推动蜂蜜块时，若蜂蜜块上方实体的中心不位于蜂蜜块的正上方，则不再会被粘住",
     "MC-262304": "The stepping_on predicate condition does not correctly succeed on trapdoors",
     "MC-198202": "选项背景纹理与泥土纹理不一致",
     "MC-262265": "更换覆盖了字体的资源包会导致 JVM 崩溃",
