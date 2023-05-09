@@ -1,4 +1,6 @@
 {
+    "MC-262265": "Changing resource pack that overrides a font crashes JVM",
+    "MC-2215": "Encoding errors in server.properties",
     "MC-257336": "雕纹书架的部分互动字幕大小写不正确",
     "MC-256424": "游戏模式一词在部分文本中被连写为“gamemode”",
     "MC-250571": "Gamerule description strings within the world creation menu consist of inconsistent concluding punctuation",
