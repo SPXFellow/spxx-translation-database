@@ -1,4 +1,5 @@
 {
+    "MC-237960": "New potion effect GUI doesn't work when using Programmer Art",
     "MC-262296": "兔子不再受到跳跃提升效果的影响",
     "MC-35078": "破坏方块的动画有一帧延迟",
     "MC-180": "当到达下界传送门另一侧时，动画会一直播放，直到脱离传送门时才结束。",
