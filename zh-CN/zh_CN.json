@@ -1,6 +1,7 @@
 {
-    "MC-262300": "Menu text is now rendered in front of the Mojang Studios loading screen fade animation",
-    "MC-262006": "Melon and Pumpkin are in the default '#maintains_farmland' tag despite not maintain farmland",
+    "MC-123081": "Placing an end crystal when entering The End prevents Ender Dragon from spawning",
+    "MC-262300": "菜单文本现在会显示在加载屏幕淡入淡出动画的上层",
+    "MC-262006": "西瓜和南瓜会使耕地退化，却包含在 `#maintains_farmland` 标签中",
     "MC-146582": "When entering spectator mode while standing on the ground, the player moves down by 0.19051 blocks, which makes you fall down",
     "MC-262424": "方块边缘的疾跑粒子仍然不正确",
     "MC-262363": "Player can still gain a normal jump off of a honey block with precise timing, despite the fix for MC-1133",
