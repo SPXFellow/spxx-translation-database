@@ -1,7 +1,7 @@
 {
-    "MC-262296": "Rabbits are no longer affected by jump boost",
-    "MC-35078": "Breaking animation is one frame off",
-    "MC-180": "When reaching the other side of a nether portal the animation plays forever until stepped out of",
+    "MC-262296": "兔子不再受到跳跃提升效果的影响",
+    "MC-35078": "破坏方块的动画有一帧延迟",
+    "MC-180": "当到达下界传送门另一侧时，动画会一直播放，直到脱离传送门时才结束。",
     "MC-262313": "下界不会在已升级的世界中加载",
     "MC-123081": "进入末地时放置末地水晶会阻止末影龙生成",
     "MC-262300": "菜单文本现在会显示在加载屏幕淡入淡出动画的上层",
