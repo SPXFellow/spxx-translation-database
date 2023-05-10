@@ -1,4 +1,5 @@
 {
+    "MC-262313": "Nether won't load in upgraded worlds",
     "MC-123081": "Placing an end crystal when entering The End prevents Ender Dragon from spawning",
     "MC-262300": "菜单文本现在会显示在加载屏幕淡入淡出动画的上层",
     "MC-262006": "西瓜和南瓜会使耕地退化，却包含在 `#maintains_farmland` 标签中",
