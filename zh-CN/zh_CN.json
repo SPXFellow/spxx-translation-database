@@ -1,4 +1,5 @@
 {
+    "MC-261233": "Minecart movement is not reliably detected by sculk sensors",
     "MC-237960": "使用 Programmer Art 资源包时，新药水效果 GUI 异常",
     "MC-262296": "兔子不再受到跳跃提升效果的影响",
     "MC-35078": "破坏方块的动画有一帧延迟",
