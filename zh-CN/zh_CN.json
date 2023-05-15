@@ -1,5 +1,10 @@
 {
-    "MC-262542": "Loot tables have the same loot sequence in each dimension",
+    "MC-261024": "`/execute if loaded` 执行成功时不能保证实体被加载",
+    "MC-226344": "更改弹射物的 Owner 标签不会影响弹射物的结果，除非世界被重新加载",
+    "MC-175504": "NBT 路径不支持单引号",
+    "MC-159633": "Command feedback messages are unnecessarily created during function execution",
+    "MC-262033": "命令方块的 GUI 在方块被破坏后仍保持打开状态",
+    "MC-262542": "在不同维度中生成的战利品表随机序列完全相同",
     "MC-262446": "按钮文本在菜单边缘处显示在半透明黑线上方",
     "MC-262445": "文本光标没有渲染于文本之上",
     "MC-262135": "修复了配方书 GUI 问题",
