@@ -1,4 +1,5 @@
 {
+    "MC-256833": "Ridable entities that can be steered build up fall damage when on climbable blocks",
     "MC-260602": "`data modify from string` 索引失败时，使用 `execute store success` 子命令不会返回 0",
     "MC-262508": "火把花作物被蜜蜂授粉时导致游戏崩溃且世界被锁定",
     "MC-261233": "幽匿感测体不能稳定的检测到矿车的运动",
