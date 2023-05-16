@@ -1,5 +1,12 @@
 {
-    "MC-261349": "Chiseled Bookshelf won't rotate when placed as part of a structure",
+    "MC-261080": "Player can fall through scaffolding when loading a world",
+    "MC-262355": "Death messages for falling from climbable blocks do not work",
+    "MC-262557": "Ender Dragon respawns and exit portal does not open if the world was Saved and Quit in End before killing the dragon",
+    "MC-261988": "Inconsistency with Mangrove Roots and Leaves in the Creative Tab",
+    "MC-260468": "Wither rose is not grouped with other small flowers in the creative inventory",
+    "MC-257512": "Dead tube coral in creative inventory is in wrong order",
+    "MC-257370": "Buckets of fish are not sorted in the same order as the fish items",
+    "MC-261349": "作为结构的一部分生成时，雕纹书架不会旋转",
     "MC-262106": "Smithing recipe must have template to work",
     "MC-1310": "Dispensed boats and rafts get stuck inside of dispensers used to place them",
     "MC-262471": "Random skylight underwater where it shouldn't be, that cuts off at the chunk border",
