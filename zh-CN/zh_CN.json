@@ -1,4 +1,6 @@
 {
+    "MC-262506": "Parts of beds render through the alternative recipe GUI in the recipe book",
+    "MC-262181": "NBSP is a valid invisible character that can be used to rename items to have blank names",
     "MC-261080": "Player can fall through scaffolding when loading a world",
     "MC-262355": "Death messages for falling from climbable blocks do not work",
     "MC-262557": "Ender Dragon respawns and exit portal does not open if the world was Saved and Quit in End before killing the dragon",
