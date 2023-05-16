@@ -1,4 +1,5 @@
 {
+    "MC-260653": "Markers, interaction, and display entities can prevent pressure plates from deactivating",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
     "MC-258360": "Horse armor loses its NBT data when equipped on horses via right-clicking",
     "MC-124327": "Changing the name of an item and then emptying the text field in an anvil doesn't make the rename unavailable, keeps last non-empty name on output item",
