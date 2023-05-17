@@ -1,4 +1,5 @@
 {
+    "MC-262505": "Iron golems can produce particles for blocks they're not colliding with",
     "MC-261202": "Teleporting a display entity jitters the player riding on the stack",
     "MC-260653": "Markers, interaction, and display entities can prevent pressure plates from deactivating",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
