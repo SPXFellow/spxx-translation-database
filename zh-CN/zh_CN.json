@@ -1,4 +1,7 @@
 {
+    "MC-152258": "Riding an entity with slow falling will not stop fall damage",
+    "MC-260903": "倒数第二次的攻击者被记录在死亡信息中",
+    "MC-262324": "无法传送一个正在被玩家骑乘的生物",
     "MC-262684": "游戏图标的分辨率较低",
     "MC-259912": "上鞍的马可以永久保留飘浮效果",
     "MC-262714": "按键绑定菜单中 `key.keyboard.unknown` 字符串大小写不正确",
