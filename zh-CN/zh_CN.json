@@ -1,4 +1,6 @@
 {
+    "MC-262712": "Alternative recipes in recipe book do not appear on right-click",
+    "MC-262593": "The word \"occurred\" is misspelled as \"occured\" within two realms strings",
     "MC-152258": "Riding an entity with slow falling will not stop fall damage",
     "MC-260903": "倒数第二次的攻击者被记录在死亡信息中",
     "MC-262324": "无法传送一个正在被玩家骑乘的生物",
