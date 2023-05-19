@@ -1,4 +1,5 @@
 {
+    "MC-262714": "The \"key.keyboard.unknown\" string displayed within the key binds menu is improperly capitalized",
     "MC-262709": "Dispensers do not dispense boats at the correct height",
     "MC-262505": "Iron golems can produce particles for blocks they're not colliding with",
     "MC-261202": "Teleporting a display entity jitters the player riding on the stack",
