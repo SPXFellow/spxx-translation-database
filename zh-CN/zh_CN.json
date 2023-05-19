@@ -1,7 +1,9 @@
 {
-    "MC-262714": "The \"key.keyboard.unknown\" string displayed within the key binds menu is improperly capitalized",
+    "MC-262684": "游戏图标的分辨率较低",
+    "MC-259912": "上鞍的马可以永久保留飘浮效果",
+    "MC-262714": "按键绑定菜单中 `key.keyboard.unknown` 字符串大小写不正确",
     "MC-262709": "Dispensers do not dispense boats at the correct height",
-    "MC-262505": "Iron golems can produce particles for blocks they're not colliding with",
+    "MC-262505": "铁傀儡可以产生没有被它们碰撞到的方块的粒子",
     "MC-261202": "Teleporting a display entity jitters the player riding on the stack",
     "MC-260653": "Markers, interaction, and display entities can prevent pressure plates from deactivating",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
