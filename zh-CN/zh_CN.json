@@ -10,7 +10,7 @@
     "MC-262714": "按键绑定菜单中 `key.keyboard.unknown` 字符串大小写不正确",
     "MC-262709": "发射器发射的船在错误的高度上",
     "MC-262505": "铁傀儡可以产生没有被它们碰撞到的方块的粒子",
-    "MC-261202": "Teleporting a display entity jitters the player riding on the stack",
+    "MC-261202": "传送展示实体时，骑在展示实体上的玩家视角会抖动",
     "MC-260653": "标记实体、交互实体和展示实体可以防止压力板取消激活",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
     "MC-258360": "Horse armor loses its NBT data when equipped on horses via right-clicking",
