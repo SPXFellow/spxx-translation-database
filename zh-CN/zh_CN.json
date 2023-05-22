@@ -1,4 +1,6 @@
 {
+    "MC-262514": "Unbreakable blocks display the first breaking animation frame when attempting to mine them",
+    "MC-262513": "Blocks placed in the spot of a previously broken block will display the first frame of the breaking animation until updated",
     "MC-181280": "有时显示的是不正确的纹理",
     "MC-262712": "配方书内右键配方时没有出现可选配方",
     "MC-262593": "在realms的两个字符串中“occurred”被错误拼写成“occured”",
