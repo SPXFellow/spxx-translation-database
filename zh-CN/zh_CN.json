@@ -1,4 +1,5 @@
 {
+    "MC-262690": "The player can still jump from the edge of the honey block",
     "MC-262514": "Unbreakable blocks display the first breaking animation frame when attempting to mine them",
     "MC-262513": "Blocks placed in the spot of a previously broken block will display the first frame of the breaking animation until updated",
     "MC-181280": "有时显示的是不正确的纹理",
