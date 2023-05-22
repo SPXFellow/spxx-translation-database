@@ -13,7 +13,7 @@
     "MC-261202": "传送展示实体时，骑在展示实体上的玩家视角会抖动",
     "MC-260653": "标记实体、交互实体和展示实体可以防止压力板取消激活",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
-    "MC-258360": "Horse armor loses its NBT data when equipped on horses via right-clicking",
+    "MC-258360": "马铠通过右键装备到马上时丢失其NBT数据",
     "MC-124327": "Changing the name of an item and then emptying the text field in an anvil doesn't make the rename unavailable, keeps last non-empty name on output item",
     "MC-262506": "Parts of beds render through the alternative recipe GUI in the recipe book",
     "MC-262181": "NBSP is a valid invisible character that can be used to rename items to have blank names",
