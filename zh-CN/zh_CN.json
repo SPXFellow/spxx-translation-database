@@ -16,7 +16,7 @@
     "MC-258360": "马铠通过右键装备到马上时丢失其NBT数据",
     "MC-124327": "Changing the name of an item and then emptying the text field in an anvil doesn't make the rename unavailable, keeps last non-empty name on output item",
     "MC-262506": "Parts of beds render through the alternative recipe GUI in the recipe book",
-    "MC-262181": "NBSP is a valid invisible character that can be used to rename items to have blank names",
+    "MC-262181": "NBSP作为不可见字符可将物品名称显示为空的",
     "MC-261080": "Player can fall through scaffolding when loading a world",
     "MC-262355": "Death messages for falling from climbable blocks do not work",
     "MC-262557": "Ender Dragon respawns and exit portal does not open if the world was Saved and Quit in End before killing the dragon",
