@@ -1,4 +1,8 @@
 {
+    "MC-262801": "物品栏中有纹饰的附魔盔甲发生深度冲突",
+    "MC-262797": "附魔台 GUI 中书的模型不渲染",
+    "MC-262334": "物品展示实体旋转后光照错误",
+    "MC-261294": "不用命令可以将南瓜灯戴在玩家或盔甲架的头上，且不遮挡视线",
     "MC-262773": "Markers, interaction, and display entities prevent weighted pressure plates from deactivating",
     "MC-120158": "Anvils and other falling_blocks with HurtEntities set to true kill items and xp orbs",
     "MC-262778": "Losing control of a ridden mob with levitation and then re-gaining control causes levitation to persist indefinitely",
