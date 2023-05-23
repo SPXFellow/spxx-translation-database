@@ -1,4 +1,5 @@
 {
+    "MC-262778": "Losing control of a ridden mob with levitation and then re-gaining control causes levitation to persist indefinitely",
     "MC-262504": "New crafts are not stacked by type in craftbook",
     "MC-262730": "Biomes being partially overwritten / regenerated in 1.20pre2 inside old world",
     "MC-262690": "The player can still jump from the edge of the honey block",
