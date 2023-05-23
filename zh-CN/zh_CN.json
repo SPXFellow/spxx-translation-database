@@ -1,4 +1,5 @@
 {
+    "MC-262773": "Markers, interaction, and display entities prevent weighted pressure plates from deactivating",
     "MC-120158": "Anvils and other falling_blocks with HurtEntities set to true kill items and xp orbs",
     "MC-262778": "Losing control of a ridden mob with levitation and then re-gaining control causes levitation to persist indefinitely",
     "MC-262504": "New crafts are not stacked by type in craftbook",
