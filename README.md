@@ -1,6 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
-This catagory is empty for now.
+|Translator|Score|
+|---|---|
+|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 1.20 Pre-release 5
 |Translator|Score|
 |---|---|
@@ -13,7 +15,7 @@ Data since 22w14a.
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|235|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|208|
 |![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|88|
-|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|84|
+|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|85|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|69|
 |![#69328f](https://img.shields.io/static/v1?label=&message=Ricolove&color=69328f&style=flat-square)|63|
 |![#de8500](https://img.shields.io/static/v1?label=&message=AkashaMCPK&color=de8500&style=flat-square)|56|
