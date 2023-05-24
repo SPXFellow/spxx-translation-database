@@ -1,4 +1,5 @@
 {
+    "MC-237042": "Killing players in the sneaking state that have their sneak option set to \"Toggle\" in their accessibility settings, results in other players not being able to see them in this state when they respawn",
     "MC-260411": "Re-summoned dragons don't spawn end gateways when exiting the world before killing the dragon",
     "MC-262801": "物品栏中有纹饰的附魔盔甲发生深度冲突",
     "MC-262797": "附魔台 GUI 中书的模型不渲染",
