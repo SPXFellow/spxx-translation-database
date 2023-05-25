@@ -31,7 +31,7 @@
     "MC-260653": "标记实体、交互实体和展示实体可以防止压力板取消激活",
     "MC-262213": "Baby sniffer's head is smaller on the first frame of existing",
     "MC-258360": "马铠通过右键装备到马上时丢失其NBT数据",
-    "MC-124327": "Changing the name of an item and then emptying the text field in an anvil doesn't make the rename unavailable, keeps last non-empty name on output item",
+    "MC-124327": "如果在铁砧的文本框中输入文本，然后删除，不会使本次重命名无效，而会把物品命名为最后一次删除的文本",
     "MC-262506": "Parts of beds render through the alternative recipe GUI in the recipe book",
     "MC-262181": "NBSP作为不可见字符可将物品名称显示为空的",
     "MC-261080": "Player can fall through scaffolding when loading a world",
