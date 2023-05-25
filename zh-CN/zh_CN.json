@@ -11,7 +11,7 @@
     "MC-262773": "标记、交互实体、展示实体会阻止测重压力板取消激活",
     "MC-120158": "Anvils and other falling_blocks with HurtEntities set to true kill items and xp orbs",
     "MC-262778": "Losing control of a ridden mob with levitation and then re-gaining control causes levitation to persist indefinitely",
-    "MC-262504": "New crafts are not stacked by type in craftbook",
+    "MC-262504": "新合成配方未在配方书中按类型合并",
     "MC-262730": "Biomes being partially overwritten / regenerated in 1.20pre2 inside old world",
     "MC-262690": "The player can still jump from the edge of the honey block",
     "MC-262514": "Unbreakable blocks display the first breaking animation frame when attempting to mine them",
