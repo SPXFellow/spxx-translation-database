@@ -1,4 +1,5 @@
 {
+    "MC-260604": "Terrible loudness following consecutive use of /fill",
     "MC-262853": "在没有足够的光照下，瓶子草生长时根部会破坏，导致顶部浮空",
     "MC-256477": "知识之书不能放在雕纹书架中",
     "MC-257778": "竹马赛克台阶没有 `#slabs` 方块和物品标签，竹马赛克楼梯没有 `#stairs` 方块和物品标签",
