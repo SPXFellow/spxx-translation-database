@@ -2,8 +2,10 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|7|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|3|
+|![#388d40](https://img.shields.io/static/v1?label=&message=teddyxlandlee&color=388d40&style=flat-square)|2|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|1|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|1|
 ## Rank for Latest Version 1.20
 This catagory is empty for now.
 ## Rank for All Time
@@ -11,8 +13,8 @@ Data since 22w14a.
 |Translator|Score|
 |---|---|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|269|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|236|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|212|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|239|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|218|
 |![#c3272b](https://img.shields.io/static/v1?label=&message=LeYangZi&color=c3272b&style=flat-square)|88|
 |![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|87|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|69|
@@ -27,5 +29,6 @@ Data since 22w14a.
 |![#388d40](https://img.shields.io/static/v1?label=&message=PercyDan&color=388d40&style=flat-square)|4|
 |![#388d40](https://img.shields.io/static/v1?label=&message=KaplanSteve&color=388d40&style=flat-square)|3|
 |![#bb45ee](https://img.shields.io/static/v1?label=&message=XiTieShiZ&color=bb45ee&style=flat-square)|3|
+|![#388d40](https://img.shields.io/static/v1?label=&message=teddyxlandlee&color=388d40&style=flat-square)|2|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Seayay&color=388d40&style=flat-square)|1|
 |![#388d40](https://img.shields.io/static/v1?label=&message=lihl&color=388d40&style=flat-square)|1|
