@@ -1,4 +1,6 @@
 {
+    "MC-260485": "The \"/item\" command cannot remove items within chiseled bookshelves",
+    "MC-69387": "The \"/item\" command cannot replace items within jukeboxes",
     "MC-262804": "Players' swimming animations are jittery for other players",
     "MC-262766": "NBSP is a valid invisible character that can be added into Book titles so that they have blank names",
     "MC-261440": "Resizing the window makes it so you can't change names in anvils",
