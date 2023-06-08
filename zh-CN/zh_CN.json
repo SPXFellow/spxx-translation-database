@@ -1,4 +1,6 @@
 {
+    "MC-262615": "Ridden camels need to be equipped with a saddle before they can be moved by mob control which is inconsistent with other rideable mobs",
+    "MC-261123": "item_display entity breaks certain mobs' AI when being used as a passenger",
     "MC-262636": "Mobs with passengers that are slimes or magma cubes can't move and don't function correctly",
     "MC-262620": "Llamas and trader llamas need to be tamed in order to be ridden by the mob which is inconsistent with other rideable mobs",
     "MC-262613": "Mobs can't control some rideable mobs",
