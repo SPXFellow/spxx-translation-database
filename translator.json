@@ -1,5 +1,5 @@
 {
-    "latest": "23w14a",
+    "latest": "1.20.1 Release Candidate 1",
     "MC-249816": "Ricolove",
     "MC-249800": "Ricolove",
     "MC-249785": "Ricolove",
@@ -1275,5 +1275,8 @@
     "MC-260085": "Don_Trueno",
     "MC-256641": "Don_Trueno",
     "MC-249109": "Don_Trueno",
-    "MC-122547": "Don_Trueno"
+    "MC-122547": "Don_Trueno",
+    "MC-230732": "Don_Trueno",
+    "MC-85582": "Don_Trueno",
+    "MC-263340": "Don_Trueno"
 }
