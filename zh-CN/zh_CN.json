@@ -1,4 +1,6 @@
 {
+    "MC-260085": "Particles are created when using a brush on a barrier",
+    "MC-122547": "Barriers can produce fall particles",
     "MC-262615": "骆驼只有在装备鞍时才能被骑在上面的生物控制，与其他可骑乘生物表现不一致",
     "MC-261123": "item_display entity breaks certain mobs' AI when being used as a passenger",
     "MC-262636": "被史莱姆或岩浆怪骑乘的生物无法移动且表现不正常",
