@@ -1,4 +1,5 @@
 {
+    "MC-263296": "Game softlocks after cancelling joining a server",
     "MC-263340": "Incorrect Protochunk#setStatus call on chunk generate",
     "MC-263245": "Buttons in the \"Add Realm\" interface within the realms menu no longer render",
     "MC-249109": "Sniffers, frogs, goats, and camels don't panic when attached to leads",
