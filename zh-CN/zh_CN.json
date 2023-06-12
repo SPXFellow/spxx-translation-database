@@ -1,4 +1,5 @@
 {
+    "MC-263430": "Memory leak in TickingTracker",
     "MC-263296": "在取消加入服务器后，游戏卡死",
     "MC-263340": "在区块生成时，Protochunk#setStatus的调用有误",
     "MC-263245": "Buttons in the \"Add Realm\" interface within the realms menu no longer render",
