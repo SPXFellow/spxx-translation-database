@@ -1,4 +1,12 @@
 {
+    "MC-252231": "Warm Frog texture has inconsistent pixels",
+    "MC-242592": "Texture map for the polar bear (polarbear.png) contain unused pixels",
+    "MC-242591": "Texture maps for the Llama and Trader Llama (white/gray/creamy/brown.png) contain unused pixels",
+    "MC-242398": "Texture maps for the sheep and sheep fur (sheep.png & sheep_fur.png) contain unused pixels",
+    "MC-242397": "Texture maps for cow, red & brown mooshroom (red/brown_mooshroom.png & cow.png) contain unused pixels",
+    "MC-242396": "Texture map for armor stand (wood.png) contains unused pixels",
+    "MC-242395": "Texture map for the blaze (blaze.png) contains unused pixels ",
+    "MC-242092": "Texture map for magma cube (magmacube.png) has unused pixels",
     "MC-263430": "TickingTracker导致内存泄漏",
     "MC-263296": "在取消加入服务器后，游戏卡死",
     "MC-263340": "在区块生成时，Protochunk#setStatus的调用有误",
