@@ -1,4 +1,11 @@
 {
+    "MC-263200": "Entities riding on snifflet float",
+    "MC-262638": "When a \"Size:0\" slime and magma cube rides on some mobs the rendering position is too low",
+    "MC-260490": "Passenger's riding position is too low for non-default-sized mobs",
+    "MC-232840": "Baby zombie legs clip through heads of mobs they are riding",
+    "MC-164080": "Entities riding on Ghast are partially or fully inside it",
+    "MC-80876": "Entity riding vehicle has always same offset",
+    "MC-261369": "Washed banner does not stack with blank banner",
     "MC-252231": "Warm Frog texture has inconsistent pixels",
     "MC-242592": "Texture map for the polar bear (polarbear.png) contain unused pixels",
     "MC-242591": "Texture maps for the Llama and Trader Llama (white/gray/creamy/brown.png) contain unused pixels",
