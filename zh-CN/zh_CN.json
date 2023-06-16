@@ -1,4 +1,5 @@
 {
+    "MC-262720": "One of the pink petals' stems has an incomplete model",
     "MC-263200": "Entities riding on snifflet float",
     "MC-262638": "When a \"Size:0\" slime and magma cube rides on some mobs the rendering position is too low",
     "MC-260490": "Passenger's riding position is too low for non-default-sized mobs",
