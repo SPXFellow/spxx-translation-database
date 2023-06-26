@@ -1,7 +1,7 @@
 {
-    "MC-261411": "All Smithing Templates share the same translation key",
-    "MC-261182": "Sign color looks different in world and in editing screen",
-    "MC-259794": "Armor enchanted with curse of binding cannot be swapped via right-clicking in creative mode",
+    "MC-261411": "所有锻造模板使用了相同的本地化键名",
+    "MC-261182": "放置于世界中的告示牌颜色与编辑屏幕的不同",
+    "MC-259794": "带有绑定诅咒的盔甲无法在创造模式中使用右键脱下",
     "MC-262720": "One of the pink petals' stems has an incomplete model",
     "MC-263200": "Entities riding on snifflet float",
     "MC-262638": "When a \"Size:0\" slime and magma cube rides on some mobs the rendering position is too low",
