@@ -1,8 +1,8 @@
 {
-    "MC-263049": "Camels indefinitely dash while in lava",
-    "MC-261739": "Bamboo raft next to visually half blocks z-fights",
-    "MC-261657": "Sculk sensor range is still spherical, creating different outputs from within a given block",
-    "MC-260054": "Pink Petals hitbox does not adjust to contents",
+    "MC-263049": "骆驼在熔岩中会一直保持冲刺状态",
+    "MC-261739": "竹筏与视觉上有半格高的方块深度冲突",
+    "MC-261657": "幽匿感测体检测范围是一个圆，导致特定方块处同一格内激发的振动，造成的输出存在不同",
+    "MC-260054": "粉红色花簇的判定箱不随内容物变化而变化",
     "MC-261411": "所有锻造模板使用了相同的本地化键名",
     "MC-261182": "放置于世界中的告示牌颜色与编辑屏幕的不同",
     "MC-259794": "带有绑定诅咒的盔甲无法在创造模式中使用右键脱下",
