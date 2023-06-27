@@ -2,11 +2,11 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|31|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|30|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|9|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Bingkler&color=388d40&style=flat-square)|4|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|3|
 |![#388d40](https://img.shields.io/static/v1?label=&message=teddyxlandlee&color=388d40&style=flat-square)|3|
+|![#388d40](https://img.shields.io/static/v1?label=&message=Bingkler&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 1.20.1
 This catagory is empty for now.
 ## Rank for All Time
