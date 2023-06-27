@@ -1,4 +1,8 @@
 {
+    "MC-263049": "Camels indefinitely dash while in lava",
+    "MC-261739": "Bamboo raft next to visually half blocks z-fights",
+    "MC-261657": "Sculk sensor range is still spherical, creating different outputs from within a given block",
+    "MC-260054": "Pink Petals hitbox does not adjust to contents",
     "MC-261411": "所有锻造模板使用了相同的本地化键名",
     "MC-261182": "放置于世界中的告示牌颜色与编辑屏幕的不同",
     "MC-259794": "带有绑定诅咒的盔甲无法在创造模式中使用右键脱下",
