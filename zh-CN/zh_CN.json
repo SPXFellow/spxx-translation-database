@@ -1,4 +1,5 @@
 {
+    "MC-262295": "Warped and Crimson hanging signs uses their respective plank sounds, despite their stripped stems having unique sounds",
     "MC-263049": "骆驼在熔岩中会一直保持冲刺状态",
     "MC-261739": "竹筏与视觉上有半格高的方块深度冲突",
     "MC-261657": "幽匿感测体检测范围仍然作为球体且未取整，导致特定位置同一方块内存在不同的输出结果",
