@@ -1,7 +1,7 @@
 {
-    "MC-263879": "Open shulker boxes transmit redstone power",
-    "MC-190815": "Shulker boxes don't conduct redstone when open, but don't trigger redstone updates when opened",
-    "MC-262295": "Warped and Crimson hanging signs uses their respective plank sounds, despite their stripped stems having unique sounds",
+    "MC-263879": "开启的潜影盒能传导红石信号",
+    "MC-190815": "开启的潜影盒不会传导红石信号，但它们开启时不会触发红石更新",
+    "MC-262295": "诡异木和绯红木悬挂告示牌使用它们对应的木板音效，尽管它们的去皮菌柄有独特的音效",
     "MC-263049": "骆驼在熔岩中会一直保持冲刺状态",
     "MC-261739": "竹筏与视觉上有半格高的方块深度冲突",
     "MC-261657": "幽匿感测体检测范围仍然作为球体且未取整，导致特定位置同一方块内存在不同的输出结果",
