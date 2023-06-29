@@ -1,4 +1,6 @@
 {
+    "MC-263879": "Open shulker boxes transmit redstone power",
+    "MC-190815": "Shulker boxes don't conduct redstone when open, but don't trigger redstone updates when opened",
     "MC-262295": "Warped and Crimson hanging signs uses their respective plank sounds, despite their stripped stems having unique sounds",
     "MC-263049": "骆驼在熔岩中会一直保持冲刺状态",
     "MC-261739": "竹筏与视觉上有半格高的方块深度冲突",
