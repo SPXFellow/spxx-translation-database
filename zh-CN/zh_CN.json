@@ -1,4 +1,5 @@
 {
+    "MC-263011": "Sniffers can sniff out and follow players from incredibly large distances",
     "MC-255967": "Old chunks that would have Deep Dark biomes below Y=0 if generated newly doesn't completely generate; only Ancient Cities are spawned",
     "MC-93320": "即使`randomTickSpeed`设置为0，水也会结冰",
     "MC-263879": "开启的潜影盒能传导红石信号",
