@@ -1,4 +1,5 @@
 {
+    "MC-255967": "Old chunks that would have Deep Dark biomes below Y=0 if generated newly doesn't completely generate; only Ancient Cities are spawned",
     "MC-93320": "即使`randomTickSpeed`设置为0，水也会结冰",
     "MC-263879": "开启的潜影盒能传导红石信号",
     "MC-190815": "开启的潜影盒不会传导红石信号，但它们开启时不会触发红石更新",
