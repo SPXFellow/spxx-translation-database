@@ -1,6 +1,6 @@
 {
-    "MC-263011": "Sniffers can sniff out and follow players from incredibly large distances",
-    "MC-255967": "Old chunks that would have Deep Dark biomes below Y=0 if generated newly doesn't completely generate; only Ancient Cities are spawned",
+    "MC-263011": "嗅探兽可以从非常远的距离嗅探并跟随玩家",
+    "MC-255967": "应当在Y=0处生成深暗之域生物群系的旧区块在加载时无法完全生成该群系，只能生成远古城市",
     "MC-93320": "即使`randomTickSpeed`设置为0，水也会结冰",
     "MC-263879": "开启的潜影盒能传导红石信号",
     "MC-190815": "开启的潜影盒不会传导红石信号，但它们开启时不会触发红石更新",
