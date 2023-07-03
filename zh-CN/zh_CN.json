@@ -1,7 +1,7 @@
 {
-    "MC-263833": "Minecraft is incorrectly assuming it is able to set the window icon on Wayland",
-    "MC-263387": "The chat scroll bar no longer renders",
-    "MC-29371": "Several buttons and icons use the old tooltip design upon being hovered over",
+    "MC-263833": "Minecraft 在 Wayland 下无法设置窗口图标",
+    "MC-263387": "聊天窗滚动条不显示",
+    "MC-29371": "一些按钮或图标在悬停时使用了旧的工具提示",
     "MC-263011": "嗅探兽可以从非常远的距离嗅探并跟随玩家",
     "MC-255967": "应当在Y=0处生成深暗之域生物群系的旧区块在加载时无法完全生成该群系，只能生成远古城市",
     "MC-93320": "即使`randomTickSpeed`设置为0，水也会结冰",
