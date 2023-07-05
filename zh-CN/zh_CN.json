@@ -1,4 +1,5 @@
 {
+    "MC-67532": "Bottom 2 rows of pixels in selected hotbar slot texture don't appear in game",
     "MC-263833": "Minecraft 在 Wayland 下无法设置窗口图标",
     "MC-263387": "聊天窗滚动条不显示",
     "MC-29371": "一些按钮或图标在悬停时使用了旧的工具提示",
