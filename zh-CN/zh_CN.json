@@ -1,4 +1,10 @@
 {
+    "MC-263322": "When a camel walks on suspicious sand, the sound produced is \"camel steps\" instead of \"camel sands\"",
+    "MC-262751": "Blank decorated pot's NBT depends on method used to obtain it",
+    "MC-262436": "Copying a pot in creative does not save NBT data",
+    "MC-261965": "The \"Glow and Behold!\" advancement is granted when interacting with empty signs while holding glow ink sacs, despite no glow ink sacs being consumed",
+    "MC-260096": "Decorated pots don't have creative mode tooltips",
+    "MC-260058": "Pick Block does not work properly for blank decorated pots",
     "MC-67532": "被选中的快捷栏槽位纹理贴图底部的两行像素在游戏内不显示",
     "MC-263833": "Minecraft 在 Wayland 下无法设置窗口图标",
     "MC-263387": "聊天窗滚动条不显示",
