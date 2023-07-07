@@ -1,4 +1,6 @@
 {
+    "MC-122296": "Horizontal scrolling does not work on Mac [Magic Mouse]",
+    "MC-121772": "Can't scroll while holding SHIFT on macOS",
     "MC-263322": "When a camel walks on suspicious sand, the sound produced is \"camel steps\" instead of \"camel sands\"",
     "MC-262751": "Blank decorated pot's NBT depends on method used to obtain it",
     "MC-262436": "Copying a pot in creative does not save NBT data",
