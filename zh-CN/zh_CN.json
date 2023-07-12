@@ -1,4 +1,6 @@
 {
+    "MC-262132": "Pigstep music disc is in wrong location in the creative menu",
+    "MC-259401": "Lapis lazuli icons in enchanting table and smithing table are inconsistent",
     "MC-122296": "Mac 上无法使用妙控鼠标水平滚动",
     "MC-121772": "在 macOS 上按住 Shift 时无法滚动",
     "MC-263322": "骆驼在可疑的沙子上行走时，音效使用了“骆驼：脚步声”而不是“骆驼：踏沙”",
