@@ -1,4 +1,5 @@
 {
+    "MC-181190": "The discount for curing a villager is multiplied if the villager is reinfected and cured again",
     "MC-263126": "Sponges no longer make a sound when absorbing water",
     "MC-260675": "Decorated pots render blank on the first frame after being placed",
     "MC-258379": "Parity issue: The locations of camels' ears differ across platforms",
