@@ -1,4 +1,9 @@
 {
+    "MC-263126": "Sponges no longer make a sound when absorbing water",
+    "MC-260675": "Decorated pots render blank on the first frame after being placed",
+    "MC-258379": "Parity issue: The locations of camels' ears differ across platforms",
+    "MC-257342": "You get slowed down when riding a camel in a 3 block tall area",
+    "MC-256675": "Z-fighting occurs between the legs of the camel and the texture of the saddle when it is sitting",
     "MC-257431": "Bamboo fence gates utilize the wrong textures",
     "MC-242076": "蜘蛛骑士的骷髅坐在蜘蛛模型“里面”，而不是在背上",
     "MC-263313": "不能使用 TAB 键来创建 Realms",
