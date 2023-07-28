@@ -1,4 +1,5 @@
 {
+    "MC-264356": "Sniffers attached to a lead will dig in the same spot forever, ignoring \"explored positions\"",
     "MC-147766": "Shift key stays pressed until press any other key",
     "MC-181190": "The discount for curing a villager is multiplied if the villager is reinfected and cured again",
     "MC-263126": "Sponges no longer make a sound when absorbing water",
