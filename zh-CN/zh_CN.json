@@ -1,5 +1,5 @@
 {
-    "MC-264356": "Sniffers attached to a lead will dig in the same spot forever, ignoring \"explored positions\"",
+    "MC-264356": "被拴绳拴住的嗅探兽不会判断当前位置是否已探索，导致其在同一位置一直挖掘",
     "MC-147766": "Shift key stays pressed until press any other key",
     "MC-181190": "The discount for curing a villager is multiplied if the villager is reinfected and cured again",
     "MC-263126": "Sponges no longer make a sound when absorbing water",
