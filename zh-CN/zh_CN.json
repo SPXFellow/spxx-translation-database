@@ -1,4 +1,5 @@
 {
+    "MC-228420": "World not loading / falling through the world when joining a server / travelling between dimensions / respawning",
     "MC-264356": "被拴绳拴住的嗅探兽不会判断当前位置是否已探索，导致其在同一位置一直挖掘",
     "MC-147766": "Shift key stays pressed until press any other key",
     "MC-181190": "村民被多次感染和治愈后交易折扣会加倍",
