@@ -4,7 +4,7 @@ This catagory is empty for now.
 ## Rank for Latest Version 23w31a
 |Translator|Score|
 |---|---|
-|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|33|
+|![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|32|
 |![#388d40](https://img.shields.io/static/v1?label=&message=Hatsuki_kiri&color=388d40&style=flat-square)|10|
 |![#77cc77](https://img.shields.io/static/v1?label=&message=teddyxlandlee&color=77cc77&style=flat-square)|3|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|2|
