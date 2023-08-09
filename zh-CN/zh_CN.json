@@ -1,4 +1,9 @@
 {
+    "MC-177110": "Mob stepping sounds are inconsistently subtitled",
+    "MC-264576": "Bossbar gets visually stretched instead of cut off",
+    "MC-264565": "\"bundle\" folder in the sprites directory with only an mcmeta file",
+    "MC-264557": "The file names for the food full and half sprites for both normal and hunger are backwards",
+    "MC-262591": "Camels emit mob interaction vibrations instead of item consumption vibrations when eating cactus",
     "MC-264468": "GUI纹理“legacy_smithing.png”已不再使用，但仍存在于游戏文件中",
     "MC-264467": "GUI纹理“villager2.png”中有部分图案不被使用",
     "MC-228420": "在加入服务器、切换维度及重生时，世界不加载或玩家会掉出世界",
