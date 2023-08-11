@@ -1,6 +1,6 @@
 {
     "MC-264743": "调试屏幕上，显示已启用的调试图种类的“Debug”行中没有提及延迟与网络流量图表",
-    "MC-264773": "There's a misplaced label in the network traffic graph, overlapping minimum B/s rate text",
+    "MC-264773": "网络流量图中有个标签放错位置，遮住了最低 B/s 速率的文本",
     "MC-264689": "满的 Boss 栏在高对比度资源包下有多余像素",
     "MC-264610": "若将 `button.png.mcmeta` 中的 `border` 改为 `width` 的一半及以上，打开游戏菜单会导致游戏挂起",
     "MC-264548": "Minecraft 23w31a 的日志文件中出现了奇怪的错误",
