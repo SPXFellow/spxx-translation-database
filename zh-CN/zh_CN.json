@@ -1,4 +1,6 @@
 {
+    "MC-257909": "Zoglins, hoglins, and pandas can still attack players riding camels",
+    "MC-2310": "Wrong attack radius calculation damages/kills entities through blocks and corners",
     "MC-264743": "调试屏幕上，显示已启用的调试图种类的“Debug”行中没有提及延迟与网络流量图表",
     "MC-264773": "网络流量图中有个标签放错位置，遮住了最低 B/s 速率的文本",
     "MC-264689": "满的 Boss 栏在高对比度资源包下有多余像素",
