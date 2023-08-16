@@ -1,4 +1,7 @@
 {
+    "MC-197473": "Renamed block entities don't stack properly",
+    "MC-181109": "Grindstone adds RepairCost: 0",
+    "MC-125046": "\"RepairCost\" NBT tag is created on any renamed item using anvils which can cause items to not stack properly",
     "MC-122645": "Narrator hotkey cannot be customized or disabled",
     "MC-264741": "卸下装备的振动只在创造模式有效",
     "MC-182820": "红石中继器与比较器基本由石头制成，却使用了木头的音效",
