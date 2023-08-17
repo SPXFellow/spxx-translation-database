@@ -1,4 +1,8 @@
 {
+    "MC-214126": "Bees don't pollinate themselves with spore blossoms or chorus flowers",
+    "MC-118616": "The sounds of magma cubes and slimes aren't controlled by the \"Hostile Creatures\" sound slider",
+    "MC-112133": "Eating chorus fruit does not reset fall distance",
+    "MC-1788": "Ocelots do not spawn naturally on peaceful difficulty in jungle and bamboo jungle biomes",
     "MC-197473": "重命名后的方块实体无法正常堆叠",
     "MC-181109": "砂轮会为物品添加 `RepairCost:0` NBT 标签",
     "MC-125046": "用铁砧重命名过的物品均会带上 `RepairCost` NBT 标签，导致物品无法正常堆叠",
