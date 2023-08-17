@@ -2,7 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
-|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|13|
+|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|12|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|6|
 ## Rank for Latest Version 23w32a
 |Translator|Score|
