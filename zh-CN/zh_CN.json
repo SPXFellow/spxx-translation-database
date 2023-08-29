@@ -1,4 +1,5 @@
 {
+    "MC-264566": "Force loaded chunks reset when changing versions",
     "MC-264947": "Torches generated on end fountain don't emit light",
     "MC-264915": "一些生物仍然可以透过方块攻击玩家",
     "MC-217629": "绊线钩使用了石头的音效，而非木头的",
