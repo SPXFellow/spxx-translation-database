@@ -1,4 +1,5 @@
 {
+    "MC-229121": "JVM crash in jdk.internal.loader.NativeLibraries.load",
     "MC-259860": "Sitting camels that have passengers continuously look up and down for other players",
     "MC-259475": "The rotation of controlling passengers on sitting camels is sometimes restricted while adjusting your rotation slowly",
     "MC-256737": "Sniffers, frogs, goats, and camels prioritize pathfinding to their lover when fed over panicking when being damaged",
