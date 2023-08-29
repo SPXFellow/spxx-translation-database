@@ -1,5 +1,5 @@
 {
-    "MC-229121": "JVM crash in jdk.internal.loader.NativeLibraries.load",
+    "MC-229121": "`jdk.internal.loader.NativeLibraries.load` 引起的 JVM 崩溃",
     "MC-259860": "坐下的骆驼在身上有骑乘者时，仍继续上下摆头试图看向其他玩家",
     "MC-259475": "坐下的骆驼身上的有控制权的骑乘者，在缓慢转动身体时，可旋转的角度受限",
     "MC-256737": "嗅探兽、青蛙、山羊、骆驼若在喂食后受到攻击，会优先选择跑向其求爱对象，而不是惊慌逃跑",
