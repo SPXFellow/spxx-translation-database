@@ -1,4 +1,11 @@
 {
+    "MC-264698": "The absorption effect is lost when reloading the world",
+    "MC-264920": "Some buttons within the \"Report Player\" menu are improperly capitalized",
+    "MC-264917": "Entry list gradients render below content",
+    "MC-264899": "Narrator is not capitalized in the Narrator Hotkey tooltip",
+    "MC-264619": "Strings for returning to menus and loading lists are inconsistently spelled and capitalized",
+    "MC-264561": "Some new strings introduced in 23w31a are missing articles",
+    "MC-264559": "Grammar error in \"Added pack(s) contain symbolic links\"",
     "MC-264897": "Shift-clicking to unequip armor bypasses vibrations in survival",
     "MC-264686": "Z-fighting occurs on the backs of bamboo chest rafts",
     "MC-261951": "Dragon/piglin head does not move when placed on a jukebox that is playing a record",
