@@ -1,4 +1,7 @@
 {
+    "MC-264897": "Shift-clicking to unequip armor bypasses vibrations in survival",
+    "MC-264686": "Z-fighting occurs on the backs of bamboo chest rafts",
+    "MC-261951": "Dragon/piglin head does not move when placed on a jukebox that is playing a record",
     "MC-264558": "The word \"reconfiguring\" is spelled as \"reconfiging\" within the \"connect.reconfiging\" translation key",
     "MC-242385": "Inconsistency on the buffer size calculation in the chunk packet data",
     "MC-264750": "Effects are lost when updating to 23w32a",
