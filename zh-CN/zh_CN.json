@@ -1,4 +1,6 @@
 {
+    "MC-264558": "The word \"reconfiguring\" is spelled as \"reconfiging\" within the \"connect.reconfiging\" translation key",
+    "MC-242385": "Inconsistency on the buffer size calculation in the chunk packet data",
     "MC-264750": "Effects are lost when updating to 23w32a",
     "MC-264092": "包含 `/say` 的函数执行时命令顺序错乱",
     "MC-229121": "`jdk.internal.loader.NativeLibraries.load` 引起的 JVM 崩溃",
