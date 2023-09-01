@@ -3,7 +3,7 @@
     "MC-256777": "Tab玩家列表中用于表示玩家生命值的 `hp` 无法被翻译",
     "MC-253638": "潜影盒的工具提示中表示其使用了随机战利品表的 `???????` 无法被翻译",
     "MC-253283": "优化世界菜单中用于表示进度的 `%` 和已完成区块数与总区块数之间的 `/` 无法被翻译",
-    "MC-253281": "已绘制的地图的工具提示中表示其编号的 `#` 无法被翻译",
+    "MC-253281": "Text within filled map tooltips when advanced tooltips are hidden is untranslatable",
     "MC-253278": "世界加载屏幕中用于表示加载进度的百分号无法被翻译",
     "MC-253270": "袭击使用的BOSS栏的标题中的连字符无法被翻译",
     "MC-253269": "The advancement progress indicator symbol within the advancements menu is untranslatable",
