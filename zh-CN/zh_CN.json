@@ -1,5 +1,5 @@
 {
-    "MC-265151": "The \"(Unknown)\" string that's displayed when being banned from a server for an unknown reason is untranslatable",
+    "MC-265151": "因未知原因被服务器封禁时显示的 `(Unknown)` 字符串无法被翻译",
     "MC-256777": "Tab玩家列表中用于表示玩家生命值的 `hp` 无法被翻译",
     "MC-253638": "潜影盒的工具提示中表示其使用了随机战利品表的 `???????` 无法被翻译",
     "MC-253283": "优化世界菜单中用于表示进度的 `%` 和已完成区块数与总区块数之间的 `/` 无法被翻译",
