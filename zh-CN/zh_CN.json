@@ -1,4 +1,5 @@
 {
+    "MC-265053": "Programmer Art lapis lazuli outline texture in enchanting table UI incorrectly uses the old formatting",
     "MC-264657": "在已有较高等级伤害吸收效果并再次赋予较低等级效果时，能否获得黄心取决于两次命令是否有相同的 `hideParicles` 参数",
     "MC-264656": "在食用附魔金苹果并受到伤害后，食用普通金苹果将不会再增加伤害吸收生命值",
     "MC-264615": "在获得伤害吸收效果后，它的图标要几秒后才能显示",
