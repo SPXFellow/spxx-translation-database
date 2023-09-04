@@ -1,4 +1,11 @@
 {
+    "MC-265213": "The chat message from the /random command says \"between 1 and 6\" instead of \"1 to 6\"",
+    "MC-263133": "Inconsistent word usage in Out of Memory screen",
+    "MC-260819": "The \"death.attack.message_too_long\" string is missing an article before the word \"stripped\"",
+    "MC-252316": "The word \"burnt\" within some death messages isn't spelled in American English",
+    "MC-252298": "Death messages relating to the Thorns enchantment don't contain conjunctions where appropriate",
+    "MC-252295": "The word \"whilst\" within several death messages isn't spelled in American English",
+    "MC-154827": "Typo in splash text \"Verlet intregration!\"",
     "MC-265053": "Programmer Art lapis lazuli outline texture in enchanting table UI incorrectly uses the old formatting",
     "MC-264657": "在已有较高等级伤害吸收效果并再次赋予较低等级效果时，能否获得黄心取决于两次命令是否有相同的 `hideParicles` 参数",
     "MC-264656": "在食用附魔金苹果并受到伤害后，食用普通金苹果将不会再增加伤害吸收生命值",
