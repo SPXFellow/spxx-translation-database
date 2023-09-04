@@ -1,4 +1,5 @@
 {
+    "MC-265126": "'requirements' field can no longer be skipped in advancements",
     "MC-264658": "数值数据类型中，只有整型可以在宏函数中被使用",
     "MC-265151": "因未知原因被服务器封禁时显示的 `(Unknown)` 字符串无法被翻译",
     "MC-256777": "Tab玩家列表中用于表示玩家生命值的 `hp` 无法被翻译",
