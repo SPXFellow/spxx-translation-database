@@ -1,4 +1,5 @@
 {
+    "MC-70127": "Some block state changes aren't communicated to clients",
     "MC-265213": "The chat message from the /random command says \"between 1 and 6\" instead of \"1 to 6\"",
     "MC-263133": "Inconsistent word usage in Out of Memory screen",
     "MC-260819": "The \"death.attack.message_too_long\" string is missing an article before the word \"stripped\"",
