@@ -2,7 +2,7 @@
     "MC-265213": "The chat message from the /random command says \"between 1 and 6\" instead of \"1 to 6\"",
     "MC-263133": "Inconsistent word usage in Out of Memory screen",
     "MC-260819": "The \"death.attack.message_too_long\" string is missing an article before the word \"stripped\"",
-    "MC-252316": "The word \"burnt\" within some death messages isn't spelled in American English",
+    "MC-252316": "一些死亡消息中的 `burnt` 一词应当被写作 `burned`，使其更贴近美式英语",
     "MC-252298": "Death messages relating to the Thorns enchantment don't contain conjunctions where appropriate",
     "MC-252295": "The word \"whilst\" within several death messages isn't spelled in American English",
     "MC-154827": "Typo in splash text \"Verlet intregration!\"",
