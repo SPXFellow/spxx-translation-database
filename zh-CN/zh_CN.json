@@ -1,5 +1,8 @@
 {
-    "MC-70127": "Some block state changes aren't communicated to clients",
+    "MC-103800": "Sometimes armor stands won't update their visual rotation",
+    "MC-264809": "Redstone comparators cause redstone dust connection issue",
+    "MC-255418": "Vertical redstone dust placed against dropper/dispenser/hopper doesn't visually disappear when the dust above is removed",
+    "MC-70127": "一部分方块状态的更改没有传递给客户端",
     "MC-265213": "The chat message from the /random command says \"between 1 and 6\" instead of \"1 to 6\"",
     "MC-263133": "Inconsistent word usage in Out of Memory screen",
     "MC-260819": "The \"death.attack.message_too_long\" string is missing an article before the word \"stripped\"",
