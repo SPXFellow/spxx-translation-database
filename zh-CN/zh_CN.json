@@ -1,9 +1,10 @@
 {
+    "MC-265060": "Missing sprite for error in Loom GUI (loom.png)",
     "MC-103800": "Sometimes armor stands won't update their visual rotation",
-    "MC-264809": "Redstone comparators cause redstone dust connection issue",
+    "MC-264809": "红石比较器使红石粉无法正确连接",
     "MC-255418": "Vertical redstone dust placed against dropper/dispenser/hopper doesn't visually disappear when the dust above is removed",
     "MC-70127": "一部分方块状态的更改没有传递给客户端",
-    "MC-265213": "The chat message from the /random command says \"between 1 and 6\" instead of \"1 to 6\"",
+    "MC-265213": "源文本中，`/random` 命令返回的聊天消息采用“between 1 and 6”（1 和 6 之间）的提法，而不是“1 to 6”（1 到 6）",
     "MC-263133": "Inconsistent word usage in Out of Memory screen",
     "MC-260819": "The \"death.attack.message_too_long\" string is missing an article before the word \"stripped\"",
     "MC-252316": "一些死亡消息中的 `burnt` 一词应当被写作 `burned`，使其更贴近美式英语",
