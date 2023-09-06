@@ -1,4 +1,5 @@
 {
+    "MC-265260": "Boats and rafts when placed turn south",
     "MC-109346": "Newly rendered players always look south until they move their head",
     "MC-265209": "协议切换至 `CONFIGURATION`（配置）状态时客户端和服务端的协议状态不同步",
     "MC-264574": "符号链接在世界根文件夹下无法正常使用",
