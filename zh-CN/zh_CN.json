@@ -1,4 +1,5 @@
 {
+    "MC-109346": "Newly rendered players always look south until they move their head",
     "MC-265209": "协议切换至 `CONFIGURATION`（配置）状态时客户端和服务端的协议状态不同步",
     "MC-264574": "符号链接在世界根文件夹下无法正常使用",
     "MC-265060": "织布机 GUI（loom.png）中缺少用来表示错误的精灵图",
