@@ -1,5 +1,5 @@
 {
-    "MC-265244": "Macro arguments entered as floats are converted to scientific notation",
+    "MC-265244": "浮点数类型的宏参数在替换时会保留原来科学计数法的形式，导致部分命令无法运行",
     "MC-265263": "Ender Pearl vanishes client side when enderPearlsVanishOnDeath is false",
     "MC-265260": "在水中放置的船和竹筏总是朝向南方",
     "MC-109346": "新渲染的玩家在转动他们的头之前总是面向南方",
