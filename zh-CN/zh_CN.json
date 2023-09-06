@@ -1,4 +1,6 @@
 {
+    "MC-265244": "Macro arguments entered as floats are converted to scientific notation",
+    "MC-265263": "Ender Pearl vanishes client side when enderPearlsVanishOnDeath is false",
     "MC-265260": "在水中放置的船和竹筏总是朝向南方",
     "MC-109346": "新渲染的玩家在转动他们的头之前总是面向南方",
     "MC-265209": "协议切换至 `CONFIGURATION`（配置）状态时客户端和服务端的协议状态不同步",
