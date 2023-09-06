@@ -1,6 +1,11 @@
 {
-    "MC-265244": "浮点数类型的宏参数在替换时会保留原来科学计数法的形式，导致部分命令无法运行",
-    "MC-265263": "Ender Pearl vanishes client side when enderPearlsVanishOnDeath is false",
+    "MC-265262": "被清除的配方仍显示在配方书中，直到重新进入世界才消失",
+    "MC-265245": "在配方书中搜索时，若搜索词带有空格，则无法搜索到任何内容",
+    "MC-265243": "Uncraftable variants of a craftable recipe are shown as craftable now",
+    "MC-265241": "Recipe book search no longer finds relevant items in languages where compound words are not separated",
+    "MC-265237": "Recipe book search no longer finds anything containing non-English characters",
+    "MC-265244": "浮点型的宏参数在替换时会保留原来科学计数法的形式，导致部分命令无法运行",
+    "MC-265263": "当游戏规则 `enderPearlsVanishOnDeath` 为否时，末影珍珠在客户端消失不见",
     "MC-265260": "在水中放置的船和竹筏总是朝向南方",
     "MC-109346": "新渲染的玩家在转动他们的头之前总是面向南方",
     "MC-265209": "协议切换至 `CONFIGURATION`（配置）状态时客户端和服务端的协议状态不同步",
