@@ -1,11 +1,8 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
 This catagory is empty for now.
-## Rank for Latest Version 1.20.2 Pre-release 2
-|Translator|Score|
-|---|---|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|5|
-|![#388d40](https://img.shields.io/static/v1?label=&message=Muggle2077&color=388d40&style=flat-square)|4|
+## Rank for Latest Version 1.20.2 Pre-Release 3
+This catagory is empty for now.
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
