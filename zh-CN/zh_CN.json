@@ -1,7 +1,7 @@
 {
     "MC-264748": "GLX._initGlfw Treats Pointer as a String",
     "MC-265388": "生物在矿车中的乘坐位置过高",
-    "MC-265238": "trade_rebalance loot tables have a wrong type",
+    "MC-265238": "`trade_rebalance` 战利品表使用了错误的类型",
     "MC-265289": "Error in log: java.lang.IllegalStateException: onTrackingStart called during navigation iteration",
     "MC-265239": "Error in logs: java.lang.IllegalStateException: recursive call to sendBlockUpdated",
     "MC-265335": "无法繁殖疣猪兽",
@@ -10,7 +10,7 @@
     "MC-265280": "有时进入单人游戏世界会有生物变得不可见",
     "MC-265253": "Fullscreen Resolution value is untranslatable",
     "MC-261119": "Accessibility button in the Welcome screen needs its own string",
-    "MC-265276": "Fire under naturally generated end crystals does not always emit light correctly",
+    "MC-265276": "自然生成于末地水晶下的火焰并不总能正确发光。",
     "MC-262754": "Change in AbstractScrollWidget breaks MultiLineEditBox click-to-move-cursor behaviour",
     "MC-249702": "Server crash: java.lang.NullPointerException: Cannot invoke \"com.google.gson.JsonArray.iterator()\" because \"$$1\" is null",
     "MC-235762": "Screenshots wider than 16384 pixels causes a crash / java.lang.OutOfMemoryError: Out of stack space",
