@@ -1,4 +1,5 @@
 {
+    "MC-255173": "Nether portal teleportation is inaccurate at large coordinate values",
     "MC-50647": "Slime mob spawners spawn slimes only in slime chunks",
     "MC-150278": "红沙无法用于制作混凝土粉末",
     "MC-236946": "Shield attack vector is normalized incorrectly",
