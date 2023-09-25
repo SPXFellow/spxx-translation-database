@@ -1,5 +1,5 @@
 {
-    "MC-150278": "Red sand can't be used to make concrete powder",
+    "MC-150278": "红沙无法用于制作混凝土粉末",
     "MC-236946": "Shield attack vector is normalized incorrectly",
     "MC-109101": "盾牌无法在玩家面朝正上方时为其抵挡伤害",
     "MC-264748": "GLX._initGlfw Treats Pointer as a String",
