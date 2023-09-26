@@ -1,4 +1,5 @@
 {
+    "MC-172398": "Fire texture renders according to the player's rotation in the player inventory",
     "MC-78314": "(Marker) Armor stands create bubbles in water",
     "MC-255173": "Nether portal teleportation is inaccurate at large coordinate values",
     "MC-50647": "Slime mob spawners spawn slimes only in slime chunks",
