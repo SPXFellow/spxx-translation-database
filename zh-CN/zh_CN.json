@@ -1,4 +1,5 @@
 {
+    "MC-263123": "Mending incorrectly calculates overflow after full repair",
     "MC-253819": "钟在通过结构方块/拼图方块加载时无法正确旋转",
     "MC-227255": "Beehives and bee nests do not rotate/mirror correctly in structure blocks",
     "MC-221558": "Light particles aren't shown if particles are set to minimal",
