@@ -1,4 +1,8 @@
 {
+    "MC-253819": "Bells don't rotate correctly when loaded by structure/jigsaw blocks",
+    "MC-227255": "Beehives and bee nests do not rotate/mirror correctly in structure blocks",
+    "MC-221558": "Light particles aren't shown if particles are set to minimal",
+    "MC-47607": "Barrier particles aren't shown if particles are set to minimal",
     "MC-261303": "Decorated pots have an unused \"cracked\" block state",
     "MC-172398": "Fire texture renders according to the player's rotation in the player inventory",
     "MC-78314": "(Marker) Armor stands create bubbles in water",
