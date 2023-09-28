@@ -1,5 +1,5 @@
 {
-    "latest": "1.20.2 Release Candidate 1",
+    "latest": "1.20.2",
     "MC-249816": "Ricolove",
     "MC-249800": "Ricolove",
     "MC-249785": "Ricolove",
@@ -1430,5 +1430,15 @@
     "MC-265245": "Olvcpr423",
     "MC-265243": "Olvcpr423",
     "MC-265241": "Olvcpr423",
-    "MC-265237": "Olvcpr423"
+    "MC-265237": "Olvcpr423",
+    "MC-263123": "Olvcpr423",
+    "MC-261303": "Olvcpr423",
+    "MC-253819": "Olvcpr423",
+    "MC-227255": "Olvcpr423",
+    "MC-221558": "Olvcpr423",
+    "MC-172398": "Olvcpr423",
+    "MC-114761": "Olvcpr423",
+    "MC-109101": "Muggle2077",
+    "MC-78314": "Olvcpr423",
+    "MC-47607": "Olvcpr423"
 }
