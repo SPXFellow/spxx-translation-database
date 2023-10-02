@@ -26,7 +26,7 @@
     "MC-261119": "欢迎屏幕中的辅助功能按钮需要独立的字符串",
     "MC-265276": "自然生成于末地水晶下的火焰并不总能正确发光",
     "MC-262754": "Change in AbstractScrollWidget breaks MultiLineEditBox click-to-move-cursor behaviour",
-    "MC-249702": "Server crash: java.lang.NullPointerException: Cannot invoke \"com.google.gson.JsonArray.iterator()\" because \"$$1\" is null",
+    "MC-249702": "`java.lang.NullPointerException: Cannot invoke \"com.google.gson.JsonArray.iterator()\" because \"$$1\" is null`引发的服务器崩溃",
     "MC-235762": "对宽度超过 16384 像素的屏幕截图会造成崩溃：`java.lang.OutOfMemoryError: Out of stack space`（堆栈空间不足）",
     "MC-264759": "复述功能在复述命令方块提示时，其语句中 Tab 键的行为有误",
     "MC-206182": "无法使用 Tab 键离开命令方块的文本框去选择按钮",
