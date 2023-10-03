@@ -1,7 +1,7 @@
 {
     "MC-254850": "An operator can kick a host of a LAN world",
     "MC-265462": "Sending resource pack during play phase shows loading terrain screen for a long time",
-    "MC-265353": "Clocks and Compasses in Item Display Entities don't show correct time/direction",
+    "MC-265353": "物品展示实体中的时钟/指南针不显示正确的时间/方向",
     "MC-114761": "区域效果云会给死亡的生物应用效果",
     "MC-263123": "经验修补在将工具完全修复后错误计算溢出的经验值",
     "MC-253819": "钟在通过结构方块/拼图方块加载时无法正确旋转",
