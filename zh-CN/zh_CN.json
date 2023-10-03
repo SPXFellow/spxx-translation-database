@@ -1,5 +1,6 @@
 {
-    "MC-254850": "An operator can kick a host of a LAN world",
+    "MC-265519": "Game minimizes when certain areas of the screen are clicked on Mac in fullscreen mode",
+    "MC-254850": "管理员可以踢出将该世界对局域网开放的玩家",
     "MC-265462": "Sending resource pack during play phase shows loading terrain screen for a long time",
     "MC-265353": "物品展示实体中的时钟/指南针不显示正确的时间/方向",
     "MC-114761": "区域效果云会给死亡的生物应用效果",
