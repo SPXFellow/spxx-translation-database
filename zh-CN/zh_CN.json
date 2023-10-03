@@ -1,4 +1,5 @@
 {
+    "MC-254850": "An operator can kick a host of a LAN world",
     "MC-265462": "Sending resource pack during play phase shows loading terrain screen for a long time",
     "MC-265353": "Clocks and Compasses in Item Display Entities don't show correct time/direction",
     "MC-114761": "区域效果云会给死亡的生物应用效果",
