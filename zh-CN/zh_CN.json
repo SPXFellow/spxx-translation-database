@@ -1,5 +1,5 @@
 {
-    "MC-118403": "Vexes summoned by evoker do not have evoker team applied",
+    "MC-118403": "唤魔者召唤的恼鬼不会自动加入唤魔者所在的队伍",
     "MC-265519": "Mac 设备上全屏模式游玩时，点击屏幕特定区域会导致游戏窗口最小化",
     "MC-254850": "管理员可以踢出将该世界对局域网开放的玩家",
     "MC-265462": "Sending resource pack during play phase shows loading terrain screen for a long time",
