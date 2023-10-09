@@ -1,4 +1,6 @@
 {
+    "MC-249408": "Boats with Chests lose their name when placed",
+    "MC-236501": "Renamed minecarts and boats don't show their name tag in the world",
     "MC-234323": "Performance issue with text parsing",
     "MC-118403": "唤魔者召唤的恼鬼不会自动加入唤魔者所在的队伍",
     "MC-265519": "Mac 设备上全屏模式游玩时，点击屏幕特定区域会导致游戏窗口最小化",
