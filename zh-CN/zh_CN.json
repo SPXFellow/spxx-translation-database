@@ -1,4 +1,6 @@
 {
+    "MC-50319": "Player owned projectiles lose their player ownership when exiting portals",
+    "MC-16937": "Shooting an arrow into the nether portal can hurt anybody when PvP is disabled",
     "MC-263660": "\"Sign wobbles\" subtitle is the same for signs and hanging signs, causing translation issues",
     "MC-263575": "When an item is extracted from suspicious sand/gravel, gravity does not work on this block",
     "MC-262105": "Entities can block brushing actions when players look very close to their hitboxes",
