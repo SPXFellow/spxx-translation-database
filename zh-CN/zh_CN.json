@@ -1,4 +1,5 @@
 {
+    "MC-264880": "Gui slider uses new texture with programmer art",
     "MC-265516": "部分 Realms 菜单中的“取消”按钮可以通过使用键盘导航来取消选择，即使其为菜单中唯一的控件。",
     "MC-265647": "乘船时持盾牌的手臂位置不正确",
     "MC-50319": "Player owned projectiles lose their player ownership when exiting portals",
