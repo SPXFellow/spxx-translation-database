@@ -1,4 +1,6 @@
 {
+    "MC-189227": "First time tutorial uses old textures ",
+    "MC-81656": "Field determining whether or not a wither skull is blue is not saved to and read from NBT",
     "MC-264710": "\"/execute if function\" always fails and \"/execute unless function\" always succeeds if run from a function",
     "MC-264699": "Functions return the output of commands only if the command doesn't start with return run",
     "MC-264595": "Return command cannot run function when inside another function",
