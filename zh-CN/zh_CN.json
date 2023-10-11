@@ -1,4 +1,12 @@
 {
+    "MC-264710": "\"/execute if function\" always fails and \"/execute unless function\" always succeeds if run from a function",
+    "MC-264699": "Functions return the output of commands only if the command doesn't start with return run",
+    "MC-264595": "Return command cannot run function when inside another function",
+    "MC-260576": "Incomplete 'execute summon' command still runs",
+    "MC-198113": "Incomplete commands do not prevent functions from loading ",
+    "MC-143269": "Nested intermediate functions are skipped when maxCommandChainLength commands are already queued",
+    "MC-143266": "Nested function calls reevaluate maxCommandChainLength before queueing commands",
+    "MC-257786": "The game takes a long time to process players leaving realms groups or accepting or declining realms invitations",
     "MC-265656": "Pumpkins can no longer be sheared",
     "MC-264880": "Gui slider uses new texture with programmer art",
     "MC-265516": "部分 Realms 菜单中的“取消”按钮可以通过使用键盘导航来取消选择，即使其为菜单中唯一的控件。",
