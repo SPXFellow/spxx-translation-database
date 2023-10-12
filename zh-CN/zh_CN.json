@@ -1,4 +1,5 @@
 {
+    "MC-264966": "\"Signature is missing from Property textures\" appears in the logs of some Minecraft worlds due to player heads",
     "MC-265789": "Realms popup strings consist of inconsistent concluding punctuation",
     "MC-265551": "\"No pending invites!\" tooltip in Realms is now untranslatable",
     "MC-265517": "The \"Buy a realm!\" button is automatically selected when opening the \"Add Realm\" interface",
