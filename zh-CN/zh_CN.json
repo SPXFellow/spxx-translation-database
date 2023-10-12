@@ -1,4 +1,5 @@
 {
+    "MC-265744": "Kick during login causes client error",
     "MC-189227": "First time tutorial uses old textures ",
     "MC-81656": "Field determining whether or not a wither skull is blue is not saved to and read from NBT",
     "MC-264710": "\"/execute if function\" always fails and \"/execute unless function\" always succeeds if run from a function",
