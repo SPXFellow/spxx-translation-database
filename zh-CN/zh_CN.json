@@ -1,4 +1,10 @@
 {
+    "MC-265789": "Realms popup strings consist of inconsistent concluding punctuation",
+    "MC-265551": "\"No pending invites!\" tooltip in Realms is now untranslatable",
+    "MC-265517": "The \"Buy a realm!\" button is automatically selected when opening the \"Add Realm\" interface",
+    "MC-265515": "The \"You don't seem to have a Realm\" element in the realms menu cannot be selected via the mouse cursor",
+    "MC-234483": "Some strange pixels can be seen on the left side of world slot frames within several realms menus",
+    "MC-189261": "Various Realms buttons and texts are incorrectly capitalized",
     "MC-265744": "Kick during login causes client error",
     "MC-189227": "First time tutorial uses old textures ",
     "MC-81656": "Field determining whether or not a wither skull is blue is not saved to and read from NBT",
