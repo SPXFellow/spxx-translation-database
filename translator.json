@@ -1458,5 +1458,10 @@
     "MC-260576": "NoMathExpectation",
     "MC-198113": "NoMathExpectation",
     "MC-265517": "NoMathExpectation",
-    "MC-189261": "NoMathExpectation"
+    "MC-189261": "NoMathExpectation",
+    "MC-265789": "NoMathExpectation",
+    "MC-265551": "NoMathExpectation",
+    "MC-265515": "NoMathExpectation",
+    "MC-264966": "NoMathExpectation",
+    "MC-234483": "NoMathExpectation"
 }
