@@ -1,4 +1,6 @@
 {
+    "MC-262888": "Clicking \"I know what I'm doing!\" on the world loading screen when loading a world in a new snapshot is way too loud",
+    "MC-232719": "The scroll bar within the singleplayer menu doesn't reset its position to the top of the list when searching for worlds",
     "MC-264966": "在一些世界中会因为玩家的头在日志中报错 `Signature is missing from Property textures`",
     "MC-265789": "Realms 弹出窗口的字符串包含前后不一致的标点符号",
     "MC-265551": "Realms 中 “No pending invites!” 的悬浮提示不可被翻译",
