@@ -1,4 +1,7 @@
 {
+    "MC-265778": "\"gamerule maxCommandChainLength 0\" prevents subsequent command execution in the world",
+    "MC-265773": "Functions executed as advancement rewards are executed at the top level",
+    "MC-265767": "Commands don't show error messages in chat",
     "MC-262888": "Clicking \"I know what I'm doing!\" on the world loading screen when loading a world in a new snapshot is way too loud",
     "MC-232719": "The scroll bar within the singleplayer menu doesn't reset its position to the top of the list when searching for worlds",
     "MC-264966": "在一些世界中会因为玩家的头在日志中报错 `Signature is missing from Property textures`",
