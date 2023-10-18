@@ -1,6 +1,6 @@
 {
-    "MC-265761": "Decorated pots are missing from the creative inventory's redstone blocks tab",
-    "MC-265758": "Decorated pots can be destroyed by projectiles in adventure mode",
+    "MC-265761": "创造模式物品栏的“红石方块”分类缺失饰纹陶罐",
+    "MC-265758": "冒险模式下可以用弹射物破坏饰纹陶罐",
     "MC-265751": "Decorated pot subtitles are inconsistent",
     "MC-265745": "You can’t break decorated pots with fireworks launched from crossbow",
     "MC-223774": "Firework Rockets can't be used to break Chorus Flowers",
