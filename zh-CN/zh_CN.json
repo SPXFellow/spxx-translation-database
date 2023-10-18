@@ -1,4 +1,9 @@
 {
+    "MC-265761": "Decorated pots are missing from the creative inventory's redstone blocks tab",
+    "MC-265758": "Decorated pots can be destroyed by projectiles in adventure mode",
+    "MC-265751": "Decorated pot subtitles are inconsistent",
+    "MC-265745": "You can’t break decorated pots with fireworks launched from crossbow",
+    "MC-223774": "Firework Rockets can't be used to break Chorus Flowers",
     "MC-265778": "\"gamerule maxCommandChainLength 0\" prevents subsequent command execution in the world",
     "MC-265773": "Functions executed as advancement rewards are executed at the top level",
     "MC-265767": "Commands don't show error messages in chat",
