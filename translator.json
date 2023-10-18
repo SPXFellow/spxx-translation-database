@@ -1463,5 +1463,7 @@
     "MC-265551": "NoMathExpectation",
     "MC-265515": "NoMathExpectation",
     "MC-264966": "NoMathExpectation",
-    "MC-234483": "NoMathExpectation"
+    "MC-234483": "NoMathExpectation",
+    "MC-265761": "yzy32767",
+    "MC-265758": "yzy32767"
 }
