@@ -1,4 +1,8 @@
 {
+    "MC-265899": "The translation for \"gamerule.commandModificationBlockLimit\" is in title case instead of sentence case",
+    "MC-265885": "Extra space in the word \"cannot\" in selectWorld.incompatible.description",
+    "MC-265884": "Word \"occurred\" is misspelled as \"occured\" in recover_world.message",
+    "MC-265872": "\"available\" in recover_world.no_fallback is misspelled as \"availible\"",
     "MC-265761": "创造模式物品栏的“红石方块”分类缺失饰纹陶罐",
     "MC-265758": "冒险模式下可以用弹射物破坏饰纹陶罐",
     "MC-265751": "饰纹陶罐的字幕不一致",
