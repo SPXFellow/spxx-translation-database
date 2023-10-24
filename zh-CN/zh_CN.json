@@ -1,4 +1,6 @@
 {
+    "MC-265961": "Inconsistent pixels near light on the crafter's side",
+    "MC-265896": "Additional lines appear on the crafter's face when it crafts",
     "MC-265891": "Placing items into the crafter output slot deletes them",
     "MC-265880": "The subtitle for Crafters crafting something uses inconsistent tense",
     "MC-265874": "Right-clicking and keyboard input can disable or enable slots in the crafter",
