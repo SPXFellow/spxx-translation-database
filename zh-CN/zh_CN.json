@@ -1,4 +1,6 @@
 {
+    "MC-265901": "Comparator sometimes doesn't update when crafting with the Crafter",
+    "MC-1981": "All arrow types lose their name/NBT data when shot and picked up",
     "MC-265939": "The \"No pending invites!\" text within the realms invitation menu cannot be narrated or selected",
     "MC-265938": "Elements within the list in the \"Changes From Last Backup\" realms menu cannot be selected via the mouse cursor",
     "MC-263309": "You can configure your realm before it has been created by using the TAB key",
