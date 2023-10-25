@@ -1,4 +1,5 @@
 {
+    "MC-265886": "The built-in update_1_21 pack contains duplicate files from the vanilla pack",
     "MC-265901": "Comparator sometimes doesn't update when crafting with the Crafter",
     "MC-1981": "All arrow types lose their name/NBT data when shot and picked up",
     "MC-265939": "The \"No pending invites!\" text within the realms invitation menu cannot be narrated or selected",
