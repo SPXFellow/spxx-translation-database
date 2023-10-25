@@ -26,7 +26,7 @@
     "MC-234483": "在一些 Realms 菜单中的世界槽位边框的左边可以看到一些奇怪的像素",
     "MC-189261": "许多有关 Realms 界面上的按钮都未正确大小写",
     "MC-265744": "玩家登录服务器时踢出玩家会导致客户端错误",
-    "MC-189227": "First time tutorial uses old textures ",
+    "MC-189227": "教学提示上使用的是旧纹理 ",
     "MC-81656": "Field determining whether or not a wither skull is blue is not saved to and read from NBT",
     "MC-264710": "从函数中执行 `/execute if function` 总是会判定失败，从函数中执行 `/execute unless function` 总是会判定成功",
     "MC-264699": "Functions return the output of commands only if the command doesn't start with return run",
