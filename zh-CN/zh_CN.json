@@ -1,7 +1,7 @@
 {
     "MC-265886": "内置的1.21数据包里包含原版包已有的重复文件",
-    "MC-265901": "Comparator sometimes doesn't update when crafting with the Crafter",
-    "MC-1981": "All arrow types lose their name/NBT data when shot and picked up",
+    "MC-265901": "合成器进行合成时，比较器有时不会随之更新",
+    "MC-1981": "所有类型的箭在射出或捡起时都会丢失它们的名称和NBT数据",
     "MC-265939": "The \"No pending invites!\" text within the realms invitation menu cannot be narrated or selected",
     "MC-265938": "Elements within the list in the \"Changes From Last Backup\" realms menu cannot be selected via the mouse cursor",
     "MC-263309": "You can configure your realm before it has been created by using the TAB key",
