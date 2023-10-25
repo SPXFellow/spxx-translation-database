@@ -1,4 +1,10 @@
 {
+    "MC-265939": "The \"No pending invites!\" text within the realms invitation menu cannot be narrated or selected",
+    "MC-265938": "Elements within the list in the \"Changes From Last Backup\" realms menu cannot be selected via the mouse cursor",
+    "MC-263309": "You can configure your realm before it has been created by using the TAB key",
+    "MC-263272": "You cannot click on an area to set a value within the spawn protection slider in the realms world options menu",
+    "MC-263263": "The operator buttons intersect the scroll bar within the realms player menu",
+    "MC-257786": "游戏会花费很长的时间来处理玩家离开 Realms 群组、接受或拒绝 Realms 邀请的操作",
     "MC-265961": "Inconsistent pixels near light on the crafter's side",
     "MC-265896": "Additional lines appear on the crafter's face when it crafts",
     "MC-265891": "Placing items into the crafter output slot deletes them",
@@ -35,7 +41,6 @@
     "MC-198113": "不完整的命令不会阻止函数加载",
     "MC-143269": "Nested intermediate functions are skipped when maxCommandChainLength commands are already queued",
     "MC-143266": "Nested function calls reevaluate maxCommandChainLength before queueing commands",
-    "MC-257786": "游戏会花费很长的时间来处理玩家离开 Realms 群组、接受或拒绝 Realms 邀请的操作",
     "MC-265656": "南瓜不能被雕刻",
     "MC-264880": "使用 `Programmer Art` 纹理包时 GUI 滑块会使用新纹理",
     "MC-265516": "部分 Realms 菜单中的“取消”按钮可以通过使用键盘导航来取消选择，即使其为菜单中唯一的控件。",
