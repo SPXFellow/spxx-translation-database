@@ -1,4 +1,6 @@
 {
+    "MC-266052": "Subtitles for turning copper bulb on or off display raw translation string",
+    "MC-266053": "Subtitles for opening or closing a copper trapdoor display raw translation string",
     "MC-265805": "Executing a tail-recursive function consumes memory resources linearly with recursion depth",
     "MC-265886": "内置的1.21数据包里包含原版包已有的重复文件",
     "MC-265901": "合成器进行合成时，比较器有时不会随之更新",
