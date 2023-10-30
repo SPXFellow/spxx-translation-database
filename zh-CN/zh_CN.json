@@ -1,4 +1,5 @@
 {
+    "MC-265805": "Executing a tail-recursive function consumes memory resources linearly with recursion depth",
     "MC-265886": "内置的1.21数据包里包含原版包已有的重复文件",
     "MC-265901": "合成器进行合成时，比较器有时不会随之更新",
     "MC-1981": "所有类型的箭在射出或捡起时都会丢失它们的名称和NBT数据",
