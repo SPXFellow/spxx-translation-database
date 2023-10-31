@@ -1,4 +1,7 @@
 {
+    "MC-266215": "The pivot point of the head of the new bats is different from that of Bedrock's",
+    "MC-266112": "New Bat's ears are lower than the official render and Bedrock's",
+    "MC-266105": "Bat head upside down when spawned while ticks are frozen",
     "MC-266147": "Copper Door item texture is inconsistent with the block",
     "MC-266086": "Tuff bricks do not properly align with other bricks",
     "MC-266052": "Subtitles for turning copper bulb on or off display raw translation string",
