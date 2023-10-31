@@ -1,4 +1,5 @@
 {
+    "MC-266086": "Tuff bricks do not properly align with other bricks",
     "MC-266052": "Subtitles for turning copper bulb on or off display raw translation string",
     "MC-266053": "Subtitles for opening or closing a copper trapdoor display raw translation string",
     "MC-265805": "Executing a tail-recursive function consumes memory resources linearly with recursion depth",
