@@ -1,4 +1,5 @@
 {
+    "MC-266197": "The \"Transfer Now\" button in the realms menu cannot be selected via keyboard navigation",
     "MC-219293": "When teleporting via Chorus Fruit, the burping and teleporting sounds play at the wrong location",
     "MC-266215": "The pivot point of the head of the new bats is different from that of Bedrock's",
     "MC-266112": "New Bat's ears are lower than the official render and Bedrock's",
