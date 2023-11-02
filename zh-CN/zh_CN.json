@@ -1,6 +1,6 @@
 {
-    "MC-266289": "Could not save data raids.dat and random_sequences.dat",
-    "MC-266287": "Can't load .dat and .nbt files (server list & saved hotbar)",
+    "MC-266289": "无法保存 `raids.dat` 和 `random_sequences.dat` 数据",
+    "MC-266287": "无法加载 `.dat` 和 `.nbt` 文件（服务器列表和保存的快捷栏）",
     "MC-266117": "切石机不能把切制铜块切成雕纹铜块",
     "MC-266064": "磨制凝灰岩的脚步声缺失字幕",
     "MC-266084": "Top of copper doors include an open part of the window",
