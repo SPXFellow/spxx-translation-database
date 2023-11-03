@@ -1,4 +1,5 @@
 {
+    "MC-265747": "Punching a TNT Minecart in creative mode drops the minecart",
     "MC-266096": "Mobs can spawn on oxidized or waxed copper grates",
     "MC-266091": "Copper Bulbs do not cull faces correctly",
     "MC-266090": "Light can pass through copper bulbs",
