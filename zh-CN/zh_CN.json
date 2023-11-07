@@ -1,4 +1,10 @@
 {
+    "MC-266248": "No error message when granting/revoking an advancement that is already granted/revoked",
+    "MC-265875": "Compasses, Clocks and Recovery Compasses work normally within the output slot of the crafter",
+    "MC-265702": "Text components in commands accept malformed JSON",
+    "MC-255244": "NBT link/reference when using /fill",
+    "MC-186797": "Functioning clock and compasses in crafting output slot",
+    "MC-177446": "\"RootVehicle\" tag in playerdata entry is not upgraded",
     "MC-266256": "Accessibility button in the Welcome screen still needs its own string",
     "MC-265747": "Punching a TNT Minecart in creative mode drops the minecart",
     "MC-266096": "Mobs can spawn on oxidized or waxed copper grates",
