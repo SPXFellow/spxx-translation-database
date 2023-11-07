@@ -1,4 +1,5 @@
 {
+    "MC-131646": "Drowned spawners only work in biomes where drowned spawn",
     "MC-266248": "No error message when granting/revoking an advancement that is already granted/revoked",
     "MC-265875": "Compasses, Clocks and Recovery Compasses work normally within the output slot of the crafter",
     "MC-265702": "Text components in commands accept malformed JSON",
