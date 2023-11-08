@@ -1,4 +1,5 @@
 {
+    "MC-259321": "Spawner counts related entities against MaxNearbyEntities",
     "MC-266063": "放置铜门和铜活板门时发出的是通用的金属声音",
     "MC-131646": "溺尸刷怪笼仅在可生成溺尸的生物群系中正常运作",
     "MC-266248": "重复授予或撤销进度时不会显示错误消息",
