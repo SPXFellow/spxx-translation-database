@@ -1,14 +1,11 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
+This catagory is empty for now.
+## Rank for Latest Version 23w45a
 |Translator|Score|
 |---|---|
 |![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|10|
 |![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|7|
-## Rank for Latest Version 23w44a
-|Translator|Score|
-|---|---|
-|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|4|
-|![#388d40](https://img.shields.io/static/v1?label=&message=yzy32767&color=388d40&style=flat-square)|2|
 ## Rank for All Time
 Data since 22w14a.
 |Translator|Score|
