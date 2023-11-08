@@ -1,5 +1,5 @@
 {
-    "MC-266063": "Copper Doors and Trapdoors make generic metal sounds when placing",
+    "MC-266063": "放置铜门和铜活板门时发出的是通用的金属声音",
     "MC-131646": "Drowned spawners only work in biomes where drowned spawn",
     "MC-266248": "No error message when granting/revoking an advancement that is already granted/revoked",
     "MC-265875": "Compasses, Clocks and Recovery Compasses work normally within the output slot of the crafter",
