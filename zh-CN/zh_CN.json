@@ -1,4 +1,5 @@
 {
+    "MC-266148": "Some Crafting recipes for the new copper blocks appear when Experiment is disabled",
     "MC-265873": "Narrator Hotkey description mentions the wrong modifier key on macOS",
     "MC-259321": "Spawner counts related entities against MaxNearbyEntities",
     "MC-266063": "放置铜门和铜活板门时发出的是通用的金属声音",
