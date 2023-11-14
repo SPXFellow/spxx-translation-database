@@ -1,4 +1,9 @@
 {
+    "MC-266622": "Wind Charges can't switch levers off",
+    "MC-266459": "The hitboxes and models of wind charges are misaligned",
+    "MC-266455": "Breeze spawn eggs are in the incorrect place in the creative inventory",
+    "MC-266445": "Breeze mob doesn't count to Monster Hunter",
+    "MC-266437": "Wind charge subtitles are improperly capitalized",
     "MC-266538": "Trial spawners can be replaced by lava pools and other features",
     "MC-266190": "Tuff blockset palette is inconsistent with itself",
     "MC-266148": "Some Crafting recipes for the new copper blocks appear when Experiment is disabled",
