@@ -94,7 +94,7 @@
     "MC-263575": "When an item is extracted from suspicious sand/gravel, gravity does not work on this block",
     "MC-262105": "Entities can block brushing actions when players look very close to their hitboxes",
     "MC-261682": "Brushing can continue when block goes out of range",
-    "MC-233276": "You can feed adult donkeys, horses, llamas or mules with maximum Temper value, and hand animation is not played",
+    "MC-233276": "好感度为最大值的马、驴、骡和羊驼仍可以被喂食，但此时不会播放手部动画",
     "MC-249408": "Boats with Chests lose their name when placed",
     "MC-236501": "Renamed minecarts and boats don't show their name tag in the world",
     "MC-234323": "Performance issue with text parsing",
