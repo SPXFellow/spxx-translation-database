@@ -1,4 +1,5 @@
 {
+    "MC-266538": "Trial spawners can be replaced by lava pools and other features",
     "MC-266190": "Tuff blockset palette is inconsistent with itself",
     "MC-266148": "Some Crafting recipes for the new copper blocks appear when Experiment is disabled",
     "MC-265873": "Narrator Hotkey description mentions the wrong modifier key on macOS",
