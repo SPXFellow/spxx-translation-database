@@ -93,7 +93,7 @@
     "MC-263660": "“告示牌：晃动”的字幕在告示牌和悬挂式告示牌上是相同的，这导致翻译出现问题",
     "MC-263575": "When an item is extracted from suspicious sand/gravel, gravity does not work on this block",
     "MC-262105": "Entities can block brushing actions when players look very close to their hitboxes",
-    "MC-261682": "Brushing can continue when block goes out of range",
+    "MC-261682": "即使要刷扫的方块已超出范围，刷扫的动作也依然继续",
     "MC-233276": "好感度为最大值的马、驴、骡和羊驼仍可以被喂食，但此时不会播放手部动画",
     "MC-249408": "Boats with Chests lose their name when placed",
     "MC-236501": "Renamed minecarts and boats don't show their name tag in the world",
