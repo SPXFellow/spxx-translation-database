@@ -1,4 +1,5 @@
 {
+    "MC-266099": "Spectating an entity that takes damage makes the camera shake",
     "MC-265910": "Crafter block has a one game tick cooldown",
     "MC-265662": "\"Cannot kick server owner in LAN game\" message when trying to kick yourself from non-LAN singleplayer world",
     "MC-266076": "Copper Grates can't be waterlogged",
