@@ -1,4 +1,5 @@
 {
+    "MC-265662": "\"Cannot kick server owner in LAN game\" message when trying to kick yourself from non-LAN singleplayer world",
     "MC-266076": "Copper Grates can't be waterlogged",
     "MC-266622": "Wind Charges can't switch levers off",
     "MC-266459": "The hitboxes and models of wind charges are misaligned",
