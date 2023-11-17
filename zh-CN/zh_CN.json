@@ -1,4 +1,6 @@
 {
+    "MC-265929": "Ctrl+Backspacing a word with non-BMP characters in an edit box deletes additional characters",
+    "MC-265927": "Edit box length restrictions can result in unpaired surrogate characters",
     "MC-266571": "Breezes won't attack while under the effects of levitation status",
     "MC-266468": "Breeze cannot attack in deep water",
     "MC-266456": "Breezes in minecarts or boats are passive",
