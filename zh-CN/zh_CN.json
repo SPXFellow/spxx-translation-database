@@ -1,4 +1,7 @@
 {
+    "MC-266571": "Breezes won't attack while under the effects of levitation status",
+    "MC-266468": "Breeze cannot attack in deep water",
+    "MC-266456": "Breezes in minecarts or boats are passive",
     "MC-265950": "Crafters will stack items when outputting into chiseled bookshelf",
     "MC-266120": "Some advancements for 1.21 block recipes are in the regular datapack",
     "MC-266099": "Spectating an entity that takes damage makes the camera shake",
