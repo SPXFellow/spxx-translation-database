@@ -1,4 +1,5 @@
 {
+    "MC-266723": "Monsters Hunted advancement requires killing a Breeze even when they're disabled",
     "MC-266656": "The interpolation of particle, entity and block entity transforms is disrupted when pausing the game in singleplayer",
     "MC-142160": "pausedTickDelta updated when the game is unpaused rather than paused",
     "MC-266507": "Number of block drops from TNT explosions is capped to 16",
