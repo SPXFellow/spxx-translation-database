@@ -1,4 +1,5 @@
 {
+    "MC-266472": "Charged creeper / wither armor is rendered incorrectly",
     "MC-265929": "在编辑框中使用 Ctrl + Backspace 删除非BMP字符时会多删除一些字符",
     "MC-265927": "编辑框长度限制会导致出现未配对代理字符",
     "MC-266571": "旋风人无法在具有飘浮状态效果时攻击",
