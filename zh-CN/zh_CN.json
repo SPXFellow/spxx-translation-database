@@ -1,4 +1,6 @@
 {
+    "MC-266656": "The interpolation of particle, entity and block entity transforms is disrupted when pausing the game in singleplayer",
+    "MC-142160": "pausedTickDelta updated when the game is unpaused rather than paused",
     "MC-266507": "Number of block drops from TNT explosions is capped to 16",
     "MC-266472": "Charged creeper / wither armor is rendered incorrectly",
     "MC-265929": "在编辑框中使用 Ctrl + Backspace 删除非BMP字符时会多删除一些字符",
