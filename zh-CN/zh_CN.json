@@ -1,4 +1,7 @@
 {
+    "MC-266563": "End Crystals and TNT Minecarts that explode without a source entity deal no damage at all",
+    "MC-266729": "Unformatted objects in scoreboard error messages",
+    "MC-266724": "scoreboard players reset <targets> <objective> no longer works",
     "MC-266723": "Monsters Hunted advancement requires killing a Breeze even when they're disabled",
     "MC-266656": "The interpolation of particle, entity and block entity transforms is disrupted when pausing the game in singleplayer",
     "MC-142160": "pausedTickDelta updated when the game is unpaused rather than paused",
