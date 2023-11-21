@@ -1,4 +1,8 @@
 {
+    "MC-266496": "Wind Charge can not break Decorated Pots",
+    "MC-266890": "The minecraft:grass item does not get upgraded to minecraft:short_grass",
+    "MC-266886": "Backspace in Anvil no longer works when renaming an item",
+    "MC-266206": "Renamed arrows are reffered as just \"Arrow\" in the death message",
     "MC-266516": "Arrows on fire set breezes on fire, despite being deflected",
     "MC-251126": "Server resource pack is not redownloaded when a hash mismatch is detected with the previously downloaded version",
     "MC-164316": "Resource pack update by a hash doesn't work",
