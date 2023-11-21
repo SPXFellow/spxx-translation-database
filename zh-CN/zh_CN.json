@@ -1,4 +1,5 @@
 {
+    "MC-266439": "Decorated pots with loot table desync item consumption if it cannot be inserted in the pot",
     "MC-266496": "Wind Charge can not break Decorated Pots",
     "MC-266890": "The minecraft:grass item does not get upgraded to minecraft:short_grass",
     "MC-266886": "Backspace in Anvil no longer works when renaming an item",
