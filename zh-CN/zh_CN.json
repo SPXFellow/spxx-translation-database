@@ -1,8 +1,8 @@
 {
-    "MC-266075": "\"Player teleports\" not shown in subtitles when an ender pearl lands far from the thrower",
-    "MC-266439": "Decorated pots with loot table desync item consumption if it cannot be inserted in the pot",
-    "MC-266496": "Wind Charge can not break Decorated Pots",
-    "MC-266890": "The minecraft:grass item does not get upgraded to minecraft:short_grass",
+    "MC-266075": "末影珍珠落地的位置离投掷者太远时，“玩家：传送”的字幕将不显示",
+    "MC-266439": "向试炼厅内带有战利品表的饰纹陶罐内放入无法填充的物品时，物品数量将会不同步",
+    "MC-266496": "风弹无法破坏饰纹陶罐",
+    "MC-266890": "`minecraft:grass`物品不会被升级为`minecraft:short_grass`",
     "MC-266886": "Backspace in Anvil no longer works when renaming an item",
     "MC-266206": "Renamed arrows are reffered as just \"Arrow\" in the death message",
     "MC-266516": "Arrows on fire set breezes on fire, despite being deflected",
