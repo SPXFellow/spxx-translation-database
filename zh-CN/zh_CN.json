@@ -1,4 +1,5 @@
 {
+    "MC-266516": "Arrows on fire set breezes on fire, despite being deflected",
     "MC-251126": "Server resource pack is not redownloaded when a hash mismatch is detected with the previously downloaded version",
     "MC-164316": "Resource pack update by a hash doesn't work",
     "MC-266563": "End Crystals and TNT Minecarts that explode without a source entity deal no damage at all",
