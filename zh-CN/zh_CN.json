@@ -1,6 +1,6 @@
 {
-    "MC-266728": "The \"styled\" number format uses the resource location \"result\"",
-    "MC-265788": "The \"Start free Snapshot Realm\" element can be selected or remain selected causing its tooltip to erroneously be visible when other interfaces are open",
+    "MC-266728": "`styled` 数字格式错误地使用了 `result` 资源标识符。",
+    "MC-265788": "“开启免费的快照版Realm”界面元素在打开其他界面时依然可选中，并导致它的提示框错误的显示在上层。",
     "MC-265772": "包含多个子命令的 `execute` 命令可以绕过游戏规则 \"maxCommandChainLength\" 的限制",
     "MC-265291": "命令方块界面的输入框未被选中时，命令提示依旧显示",
     "MC-266380": "雨的纹理循环错误",
