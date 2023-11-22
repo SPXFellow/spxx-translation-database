@@ -2,7 +2,7 @@
     "MC-266728": "The \"styled\" number format uses the resource location \"result\"",
     "MC-265788": "The \"Start free Snapshot Realm\" element can be selected or remain selected causing its tooltip to erroneously be visible when other interfaces are open",
     "MC-265772": "A command with multiple redirect modifiers can ignore \"maxCommandChainLength\"",
-    "MC-265291": "Command suggestions within the command block interface don't disappear when the console command field is unselected",
+    "MC-265291": "命令方块界面的输入框未被选中时，命令提示依旧显示",
     "MC-266380": "雨的纹理循环错误",
     "MC-265426": "按下F3+Esc暂停游戏后，特定输入将在游戏暂停状态结束后进行",
     "MC-266075": "末影珍珠落地的位置离投掷者太远时，“玩家：传送”的字幕将不显示",
