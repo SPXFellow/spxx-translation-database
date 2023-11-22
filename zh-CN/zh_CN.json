@@ -1,4 +1,5 @@
 {
+    "MC-265426": "Certain inputs pressed whilst in F3+Esc Pause will be carried out after game is unpaused",
     "MC-266075": "末影珍珠落地的位置离投掷者太远时，“玩家：传送”的字幕将不显示",
     "MC-266439": "向试炼厅内带有战利品表的饰纹陶罐内放入无法填充的物品时，物品数量将会不同步",
     "MC-266496": "风弹无法破坏饰纹陶罐",
