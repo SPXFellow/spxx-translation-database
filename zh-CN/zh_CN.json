@@ -1,4 +1,5 @@
 {
+    "MC-266115": "Inconsistent Copper Door block drops when broken with tools weaker than stone",
     "MC-266948": "You can run \"/summon wind_charge\" without enabling the 1.21 datapack",
     "MC-266210": "Dragon respawn is unable to be frozen with /tick freeze",
     "MC-266189": "Freezing the game during pick-up animation desyncs item position",
