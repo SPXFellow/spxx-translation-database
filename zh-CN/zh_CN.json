@@ -1,4 +1,7 @@
 {
+    "MC-266210": "Dragon respawn is unable to be frozen with /tick freeze",
+    "MC-266189": "Freezing the game during pick-up animation desyncs item position",
+    "MC-266060": "The word \"ignored\" is misspelled as \"ingored\" within the \"commands.tick.query.rate.sprinting\" string",
     "MC-266934": "旋风人发射的风弹无法破坏滴水石锥",
     "MC-265908": "Pool aliases don't redirect start pool",
     "MC-266728": "`styled` 数字格式错误地使用了 `result` 资源标识符。",
