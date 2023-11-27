@@ -1,4 +1,5 @@
 {
+    "MC-266920": "Server Resource Packs Setting disabled no longer overridden by require-resource-pack",
     "MC-266115": "使用品质低于石质的工具挖掘铜门上下部分时，方块掉落的情况不同",
     "MC-266948": "即使没有启用 1.21 数据包，`/summon wind_charge` 命令依然可以执行",
     "MC-266210": "末影龙复活的过程不受 `/tick freeze` 命令影响",
