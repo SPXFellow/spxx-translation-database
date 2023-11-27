@@ -1,10 +1,10 @@
 {
     "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-266903": "铜门纹理部分不正确",
-    "MC-266335": "Copper Doors/Trapdoors have wrong Blast Resistance",
-    "MC-266145": "Copper Trapdoors are not part of the #trapdoors item tag",
+    "MC-266335": "铜门及铜活板门的爆炸抗性不正确",
+    "MC-266145": "铜活板门不属于`#trapdoors`物品标签",
     "MC-266144": "铜门不属于`#doors`物品标签",
-    "MC-266920": "Server Resource Packs Setting disabled no longer overridden by require-resource-pack",
+    "MC-266920": "“服务器资源包”设置不再被服务器的`require-resource-pack`设置项覆盖",
     "MC-266115": "使用品质低于石质的工具挖掘铜门上下部分时，方块掉落的情况不同",
     "MC-266948": "即使没有启用 1.21 数据包，`/summon wind_charge` 命令依然可以执行",
     "MC-266210": "末影龙复活的过程不受 `/tick freeze` 命令影响",
