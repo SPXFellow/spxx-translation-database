@@ -3,7 +3,6 @@
 |Translator|Score|
 |---|---|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|6|
-|![#388d40](https://img.shields.io/static/v1?label=&message=zyjking&color=388d40&style=flat-square)|1|
 ## Rank for Latest Version 1.20.3 Pre-Release 2
 |Translator|Score|
 |---|---|
