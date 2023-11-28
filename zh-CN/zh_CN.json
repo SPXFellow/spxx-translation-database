@@ -1,7 +1,7 @@
 {
-    "MC-267062": "Server list ping icon doesn't display tooltip",
-    "MC-266968": "/return executed within an advancement reward function globally discards all subsequent commands",
-    "MC-266430": "Breeze on top of a non-full block produces particles of the block below it",
+    "MC-267062": "服务器列表中的延迟图标不显示提示框",
+    "MC-266968": "以进度奖励的形式执行`/return`命令后，后续所有命令均无法执行",
+    "MC-266430": "在不完整方块上的旋风人会产生更下方方块的粒子效果",
     "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-266903": "铜门纹理部分不正确",
     "MC-266335": "铜门及铜活板门的爆炸抗性不正确",
