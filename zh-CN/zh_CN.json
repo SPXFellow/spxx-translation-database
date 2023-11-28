@@ -1,4 +1,6 @@
 {
+    "MC-267062": "Server list ping icon doesn't display tooltip",
+    "MC-266968": "/return executed within an advancement reward function globally discards all subsequent commands",
     "MC-266430": "Breeze on top of a non-full block produces particles of the block below it",
     "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-266903": "铜门纹理部分不正确",
