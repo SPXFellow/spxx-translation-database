@@ -1,4 +1,5 @@
 {
+    "MC-266537": "Disparity between the read/write logic of the explosion packet",
     "MC-267062": "服务器列表中的延迟图标不显示提示框",
     "MC-266968": "以进度奖励的形式执行`/return`命令后，后续所有命令均无法执行",
     "MC-266430": "在不完整方块上的旋风人会产生更下方方块的粒子效果",
