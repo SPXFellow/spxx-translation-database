@@ -2,6 +2,7 @@
 ## Rank for Future Version
 |Translator|Score|
 |---|---|
+|![#156fe6](https://img.shields.io/static/v1?label=&message=Lakeus&color=156fe6&style=flat-square)|2|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|1|
 ## Rank for Latest Version 1.20.4 Release Candidate 1
 This catagory is empty for now.
