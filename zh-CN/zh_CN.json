@@ -1,4 +1,7 @@
 {
+    "MC-266432": "Exposed, weathered and oxidised copper bulbs are unwaxed in trial chambers ",
+    "MC-266145": "铜活板门不属于`#trapdoors`物品标签",
+    "MC-266144": "铜门不属于`#doors`物品标签",
     "MC-266308": "Copper Bulbs have unused \"turn_off\" sound",
     "MC-267185": "Decorated pots can delete items when reloading the world",
     "MC-266430": "在不完整方块上的旋风人会产生更下方方块的粒子效果",
@@ -6,8 +9,6 @@
     "MC-266685": "The entity shadows of breezes are too large in relation to the size of their models",
     "MC-266680": "The glowing outline isn't applied to the eyes or eyebrows of breezes",
     "MC-266334": "潜影贝子弹会破坏盔甲架",
-    "MC-266145": "铜活板门不属于`#trapdoors`物品标签",
-    "MC-266144": "铜门不属于`#doors`物品标签",
     "MC-265788": "“开启免费的快照版Realm”界面元素在打开其他界面时依然可选中，并导致它的提示框错误的显示在上层。",
     "MC-150278": "红沙无法用于制作混凝土粉末",
     "MC-266990": "Maps with the same 'map' tag value, but different 'display' tag data can cause markers to disappear",
