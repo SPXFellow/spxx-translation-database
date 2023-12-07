@@ -1,4 +1,5 @@
 {
+    "MC-266999": "Crafter's tooltip buttons can still be visible to players on spectator mode",
     "MC-266432": "Exposed, weathered and oxidised copper bulbs are unwaxed in trial chambers ",
     "MC-266145": "铜活板门不属于`#trapdoors`物品标签",
     "MC-266144": "铜门不属于`#doors`物品标签",
