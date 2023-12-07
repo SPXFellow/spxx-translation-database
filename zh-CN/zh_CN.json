@@ -1,4 +1,6 @@
 {
+    "MC-266524": "Breezes sometimes get the zoomies after jumping",
+    "MC-266469": "When attacked, breezes sometimes stop pathfinding, jumping, or firing wind charges",
     "MC-266999": "Crafter's tooltip buttons can still be visible to players on spectator mode",
     "MC-266432": "Exposed, weathered and oxidised copper bulbs are unwaxed in trial chambers ",
     "MC-266145": "铜活板门不属于`#trapdoors`物品标签",
