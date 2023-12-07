@@ -1,4 +1,5 @@
 {
+    "MC-266308": "Copper Bulbs have unused \"turn_off\" sound",
     "MC-267185": "Decorated pots can delete items when reloading the world",
     "MC-266430": "在不完整方块上的旋风人会产生更下方方块的粒子效果",
     "MC-266688": "Breeze model's glowing eyes are not resource pack-friendly",
