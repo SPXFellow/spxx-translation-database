@@ -1,4 +1,9 @@
 {
+    "MC-266533": "Breeze's AI has serious flaws in open terrain",
+    "MC-251027": "Wearing a helmet doesn't reduce the damage of falling anvils or stalactites by 1⁄4",
+    "MC-248961": "takenDamage for achievement criteria is calculated wrongly when the player has equipped a helmet",
+    "MC-266589": "Armor durability is changed when swapping on creative",
+    "MC-266628": "High polling rate causing stuttering",
     "MC-266055": "Opening or closing a copper door or trapdoor while holding an axe / honeycomb grants wax-related advancement",
     "MC-266524": "Breezes sometimes get the zoomies after jumping",
     "MC-266469": "When attacked, breezes sometimes stop pathfinding, jumping, or firing wind charges",
