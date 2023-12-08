@@ -1,4 +1,5 @@
 {
+    "MC-266055": "Opening or closing a copper door or trapdoor while holding an axe / honeycomb grants wax-related advancement",
     "MC-266524": "Breezes sometimes get the zoomies after jumping",
     "MC-266469": "When attacked, breezes sometimes stop pathfinding, jumping, or firing wind charges",
     "MC-266999": "Crafter's tooltip buttons can still be visible to players on spectator mode",
