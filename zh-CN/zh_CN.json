@@ -1,5 +1,5 @@
 {
-    "MC-266738": "Subtitles string \"subtitles.block.trial_spawner.spawn_mob\" is misleading and inconsistent",
+    "MC-266738": "字幕 `subtitles.block.trial_spawner.spawn_mob` 字符串具有误导性，且与其他字符串不一致",
     "MC-266533": "旋风人使用的AI在开阔地形中有严重缺陷",
     "MC-251027": "Wearing a helmet doesn't reduce the damage of falling anvils or stalactites by 1⁄4",
     "MC-248961": "takenDamage for achievement criteria is calculated wrongly when the player has equipped a helmet",
