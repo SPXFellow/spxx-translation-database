@@ -1,4 +1,5 @@
 {
+    "MC-266738": "Subtitles string \"subtitles.block.trial_spawner.spawn_mob\" is misleading and inconsistent",
     "MC-266533": "Breeze's AI has serious flaws in open terrain",
     "MC-251027": "Wearing a helmet doesn't reduce the damage of falling anvils or stalactites by 1⁄4",
     "MC-248961": "takenDamage for achievement criteria is calculated wrongly when the player has equipped a helmet",
