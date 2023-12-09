@@ -26,7 +26,7 @@
     "MC-266135": "Cached macro commands ignore permission level, allowing limited permission escalation",
     "MC-266960": "Bossbar text renders in front of player list background and player icons",
     "MC-265835": "The freezing effect is rendered totally opaque when using a spyglass",
-    "MC-265669": "Hotbar text renders above subtitle background but under subtitle text",
+    "MC-265669": "快捷栏文本渲染在字幕背景与字幕文本之间",
     "MC-263256": "聊天栏渲染在玩家列表上层，这会挡住一部分信息",
     "MC-261577": "The nether portal overlay is rendered completely opaque when using spyglasses while standing inside of nether portals",
     "MC-198963": "聊天文本渲染在玩家列表中玩家名称上层",
