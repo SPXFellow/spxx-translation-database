@@ -1,4 +1,5 @@
 {
+    "MC-184622": "Sound for exiting a portal/travelling to another dimension does not use its subtitle string despite it existing in en_us.json",
     "MC-266738": "字幕 `subtitles.block.trial_spawner.spawn_mob` 字符串具有误导性，且与其他字符串不一致",
     "MC-266533": "旋风人使用的AI在开阔地形中有严重缺陷",
     "MC-251027": "头盔不会将下落的铁砧或钟乳石造成的伤害减少 1/4",
