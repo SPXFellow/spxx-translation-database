@@ -1,4 +1,5 @@
 {
+    "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-267194": "/return run function in combination with a fork and a function that doesn't return has inconsistent behavior.",
     "MC-267193": "A function with /return fail run in chat doesn't indicate failure.",
     "MC-266389": "对洞穴藤蔓使用骨粉时，产生的粒子过少",
@@ -33,11 +34,10 @@
     "MC-266688": "旋风人模型上发光的眼睛对资源包不友好",
     "MC-266685": "与实际模型大小相比，旋风人的实体阴影过大",
     "MC-266680": "The glowing outline isn't applied to the eyes or eyebrows of breezes",
-    "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-265788": "“开启免费的快照版Realm”界面元素在打开其他界面时依然可选中，并导致它的提示框错误的显示在上层。",
     "MC-150278": "红沙无法用于制作混凝土粉末",
     "MC-266990": "Maps with the same 'map' tag value, but different 'display' tag data can cause markers to disappear",
-    "MC-266136": "Macro commands ignore function-permisson-level server setting, including when lower than default",
+    "MC-266136": "宏函数执行时无视服务器`function-permisson-level`设置，包括在该项设定为低于默认值的情况",
     "MC-266135": "缓存的宏命令在执行时无视权限等级，可导致命令被越权执行",
     "MC-266960": "Boss栏文本渲染在玩家列表背景上层，但在玩家图标下层",
     "MC-265835": "使用望远镜时，屏幕边缘的冻结效果将完全不透明",
