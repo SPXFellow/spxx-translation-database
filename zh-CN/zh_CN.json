@@ -1,4 +1,6 @@
 {
+    "MC-267194": "/return run function in combination with a fork and a function that doesn't return has inconsistent behavior.",
+    "MC-267193": "A function with /return fail run in chat doesn't indicate failure.",
     "MC-266389": "对洞穴藤蔓使用骨粉时，产生的粒子过少",
     "MC-259587": "负数耐久值导致物品耐久条渲染错误",
     "MC-252409": "调试屏幕的内存统计中存在多余的空格",
