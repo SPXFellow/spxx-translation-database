@@ -1,4 +1,5 @@
 {
+    "MC-198787": "Inefficient streams in GoalSelector",
     "MC-265541": "player.dat_old won't be read even if player.dat doesn't exist",
     "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-267194": "/return run function in combination with a fork and a function that doesn't return has inconsistent behavior.",
