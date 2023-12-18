@@ -1,7 +1,7 @@
 {
     "MC-153643": "Debug overlay is rendered behind hotbar items",
     "MC-198787": "Inefficient streams in GoalSelector",
-    "MC-265541": "player.dat_old won't be read even if player.dat doesn't exist",
+    "MC-265541": "即使`player.dat`不存在，游戏也不会读取`player.dat_old`文件的内容",
     "MC-266334": "潜影贝子弹会破坏盔甲架",
     "MC-267194": "/return run function in combination with a fork and a function that doesn't return has inconsistent behavior.",
     "MC-267193": "A function with /return fail run in chat doesn't indicate failure.",
