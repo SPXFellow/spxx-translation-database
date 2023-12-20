@@ -1,4 +1,5 @@
 {
+    "MC-155857": "Team command doesn't affect illagers and witches AI",
     "MC-153643": "Debug overlay is rendered behind hotbar items",
     "MC-198787": "Inefficient streams in GoalSelector",
     "MC-265541": "即使`player.dat`不存在，游戏也不会读取`player.dat_old`文件的内容",
