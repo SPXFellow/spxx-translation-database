@@ -1,4 +1,6 @@
 {
+    "MC-267379": "Applying bone meal to rooted dirt no longer produces any particles",
+    "MC-267377": "Applying bone meal to mangrove leaves no longer produces any particles",
     "MC-155857": "Team command doesn't affect illagers and witches AI",
     "MC-153643": "Debug overlay is rendered behind hotbar items",
     "MC-198787": "Inefficient streams in GoalSelector",
