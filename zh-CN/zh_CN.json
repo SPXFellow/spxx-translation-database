@@ -1,4 +1,6 @@
 {
+    "MC-187372": "There is no space between fps limit/vsync and graphics level in the debug screen",
+    "MC-171981": "Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached",
     "MC-267379": "Applying bone meal to rooted dirt no longer produces any particles",
     "MC-267377": "Applying bone meal to mangrove leaves no longer produces any particles",
     "MC-155857": "Team command doesn't affect illagers and witches AI",
@@ -16,7 +18,6 @@
     "MC-219899": "对缠根泥土使用骨粉时，产生的粒子在方块上方，尽管垂根从下方生长",
     "MC-194948": "画、物品展示框和拴绳被破坏时的字幕与方块被破坏时的字幕不一致",
     "MC-193753": "Respawn anchor ambient sound subtitle refers to it as a portal",
-    "MC-187372": "There is no space between fps limit/vsync and graphics level in the debug screen",
     "MC-185379": "幼年北极熊的字幕没有明确提及其来自幼年北极熊",
     "MC-184066": "重生锚不会产生环境音效",
     "MC-167375": "幼年海龟字幕文本的语法不正确",
