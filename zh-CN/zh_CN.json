@@ -1,4 +1,5 @@
 {
+    "MC-267404": "Scared armadillo pushed into boat is scared of player riding the boat",
     "MC-187372": "There is no space between fps limit/vsync and graphics level in the debug screen",
     "MC-171981": "Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached",
     "MC-267379": "Applying bone meal to rooted dirt no longer produces any particles",
