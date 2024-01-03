@@ -1,4 +1,13 @@
 {
+    "MC-260889": "Players can use water buckets and lava buckets on blocks that are out of reach",
+    "MC-267454": "Baby striders are visibly the same size as normal striders",
+    "MC-267422": "Attribute entity_interaction_range is classified as 'generic', but has no effect on mobs",
+    "MC-267420": "Boat placement ignores custom \"block_interaction_range\" attribute",
+    "MC-267416": "Particles created from Slimes do not account for the scale attribute",
+    "MC-267385": "Attribute entity_interaction_range is capped by block_interaction_range",
+    "MC-267383": "Can't place water and lava with extended attribute \"block_interaction_range\"",
+    "MC-267380": "Cannot open inventories beyond default block reach",
+    "MC-267371": "Shulkers hitbox doesn't scale with generic.scale",
     "MC-267404": "Scared armadillo pushed into boat is scared of player riding the boat",
     "MC-187372": "There is no space between fps limit/vsync and graphics level in the debug screen",
     "MC-171981": "Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached",
