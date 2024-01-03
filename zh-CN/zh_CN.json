@@ -1,4 +1,5 @@
 {
+    "MC-267465": "1.20.3 upload error: \"Cannot invoke \"ctt.c()\" because \"this.b\" is null\"",
     "MC-267384": "Unused duplicate wolf armor sound events",
     "MC-267435": "Baby armadillos do not follow parents consistently or closely",
     "MC-267413": "Feeding an armadillo a spider eye doesn't cancel eating it",
