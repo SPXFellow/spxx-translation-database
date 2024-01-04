@@ -1,4 +1,6 @@
 {
+    "MC-265273": "The tab list in create world screen does not indicate it's tab-focused by highlight or rendering borders",
+    "MC-261596": "Crafting Table search keyboard shortcut not working",
     "MC-267465": "1.20.3 upload error: \"Cannot invoke \"ctt.c()\" because \"this.b\" is null\"",
     "MC-267384": "Unused duplicate wolf armor sound events",
     "MC-267435": "Baby armadillos do not follow parents consistently or closely",
