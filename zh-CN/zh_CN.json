@@ -1,4 +1,5 @@
 {
+    "MC-267726": "Applying bone meal to blocks underwater no longer produces any particles",
     "MC-267104": "The bottom face textures of breezes' rods are incorrect and don't match with surrounding colors",
     "MC-267149": "Crafter top face has an inverted UV texture map",
     "MC-265273": "The tab list in create world screen does not indicate it's tab-focused by highlight or rendering borders",
