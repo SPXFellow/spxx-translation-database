@@ -1,4 +1,7 @@
 {
+    "MC-267086": "Compass does not indicate spawn point correctly when game is frozen with /tick",
+    "MC-267045": "Some tick strings are missing articles and are unclear",
+    "MC-267044": "Tick status strings contain inconsistent word usage",
     "MC-267497": "Baby armadillos do not sound high pitched when curling up",
     "MC-267726": "Applying bone meal to blocks underwater no longer produces any particles",
     "MC-267104": "The bottom face textures of breezes' rods are incorrect and don't match with surrounding colors",
