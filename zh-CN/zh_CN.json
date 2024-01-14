@@ -16,7 +16,7 @@
     "MC-267413": "Feeding an armadillo a spider eye doesn't cancel eating it",
     "MC-267406": "Armadillos with their \"Silent\" NBT tag set to \"1b\" still play their landing and rolling up sounds",
     "MC-267405": "Scared armadillo can move when having a passenger",
-    "MC-267402": "Head of armadillo in boat is twitching when turning the boat",
+    "MC-267402": "搭乘船的犰狳在船转向时，头部渲染效果异常",
     "MC-267398": "犰狳结束蜷缩后，不会播放播放展开声音",
     "MC-267397": "受食物吸引的犰狳和幼年犰狳距离玩家过远",
     "MC-267395": "骆驼在受到摔落伤害后会恐慌",
