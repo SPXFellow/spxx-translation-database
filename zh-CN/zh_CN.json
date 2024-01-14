@@ -1,6 +1,6 @@
 {
-    "MC-153160": "Villagers don't auto-fill items if NBT data doesn't match",
-    "MC-267588": "The hand animation is no longer played when putting items inside decorated pots",
+    "MC-153160": "NBT 数据若不匹配，村民则不会自动填充物品",
+    "MC-267588": "将物品放入饰纹陶罐时，不再播放手部动画",
     "MC-267086": "Compass does not indicate spawn point correctly when game is frozen with /tick",
     "MC-267045": "Some tick strings are missing articles and are unclear",
     "MC-267044": "Tick status strings contain inconsistent word usage",
