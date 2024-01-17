@@ -4,7 +4,7 @@ This catagory is empty for now.
 ## Rank for Latest Version 24w03a
 |Translator|Score|
 |---|---|
-|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|40|
+|![#808000](https://img.shields.io/static/v1?label=&message=Olvcpr423&color=808000&style=flat-square)|39|
 |![#84c1ff](https://img.shields.io/static/v1?label=&message=Don_Trueno&color=84c1ff&style=flat-square)|3|
 ## Rank for All Time
 Data since 22w14a.
