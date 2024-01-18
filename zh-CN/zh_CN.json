@@ -1,4 +1,5 @@
 {
+    "MC-267918": "The game crashes when opening the configure realms menu",
     "MC-266577": "Some trial spawners in trial chambers spawn mobs without persistence",
     "MC-266032": "Attempting to copy a \"Copy of a copy\" book in a Crafter behaves incorrectly",
     "MC-267725": "玩家经验等级不再于生命栏和饥饿栏上层渲染",
