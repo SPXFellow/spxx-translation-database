@@ -1,4 +1,6 @@
 {
+    "MC-266577": "Some trial spawners in trial chambers spawn mobs without persistence",
+    "MC-266032": "Attempting to copy a \"Copy of a copy\" book in a Crafter behaves incorrectly",
     "MC-267725": "玩家经验等级不再于生命栏和饥饿栏上层渲染",
     "MC-267708": "凋灵头颅弹射物攻击不受属性 `scale` 影响",
     "MC-267707": "凋灵的粒子不受属性 `scale` 影响",
