@@ -1,4 +1,6 @@
 {
+    "MC-267935": "Items on top of soul sand or mud will be rendered black",
+    "MC-267927": "The hitboxes of magma cubes are too large",
     "MC-267918": "The game crashes when opening the configure realms menu",
     "MC-266577": "Some trial spawners in trial chambers spawn mobs without persistence",
     "MC-266032": "Attempting to copy a \"Copy of a copy\" book in a Crafter behaves incorrectly",
