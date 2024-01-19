@@ -1,4 +1,6 @@
 {
+    "MC-267925": "Retrieving an item from a flower pot while holding something causes the item to end up in your off hand",
+    "MC-232489": "Retrieving a plant from a flower pot ignores inventory contents",
     "MC-267935": "Items on top of soul sand or mud will be rendered black",
     "MC-267927": "The hitboxes of magma cubes are too large",
     "MC-267918": "The game crashes when opening the configure realms menu",
