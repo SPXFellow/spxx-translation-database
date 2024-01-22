@@ -1,4 +1,5 @@
 {
+    "MC-266449": "Breeze doesn't attack or retaliate against mob on sight",
     "MC-267937": "Shooting a breeze with a piercing crossbow makes the game crash",
     "MC-266707": "Trial spawners ignore custom_spawn_rules",
     "MC-267925": "Retrieving an item from a flower pot while holding something causes the item to end up in your off hand",
