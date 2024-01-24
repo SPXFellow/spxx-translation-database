@@ -1,4 +1,6 @@
 {
+    "MC-267941": "The end portal kills mobs at spawnChunkRadius 0",
+    "MC-267938": "The world loading percentage value can get covered by the spawn chunk loading animation when the \"spawnChunkRadius\" gamerule is set to large values",
     "MC-267953": "No element is focused when opening the realms world backups menu using keyboard navigation",
     "MC-266449": "Breeze doesn't attack or retaliate against mob on sight",
     "MC-267937": "Shooting a breeze with a piercing crossbow makes the game crash",
