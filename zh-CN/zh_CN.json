@@ -1,4 +1,7 @@
 {
+    "MC-264821": "The fog on armor worn by entities occurs too early",
+    "MC-260099": "Sniffer's snout shading changes during sniffing",
+    "MC-225170": "Normal matrix scaling broken in some situations",
     "MC-267941": "The end portal kills mobs at spawnChunkRadius 0",
     "MC-267938": "The world loading percentage value can get covered by the spawn chunk loading animation when the \"spawnChunkRadius\" gamerule is set to large values",
     "MC-267953": "No element is focused when opening the realms world backups menu using keyboard navigation",
