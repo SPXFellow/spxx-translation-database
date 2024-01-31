@@ -27,7 +27,7 @@
     "MC-267428": "幻翼翅膀的粒子不受属性 `scale` 影响",
     "MC-267427": "实体睡眠时渲染的偏移量不受属性 `scale` 影响",
     "MC-267418": "监守者音波攻击不受属性 `scale` 影响",
-    "MC-267417": "Suffocation overlay shown when on solid almost-full blocks at scale > .06",
+    "MC-267417": "站在碰撞箱接近一格的方块上时，若属性 scale 的值 < .06，则会出现窒息的叠加层",
     "MC-267378": "Armor stand interaction points do not change with scale",
     "MC-265749": "按钮文本或字段的值改变时，提示框会闪烁",
     "MC-265520": "Switching connection protocols sometimes produces errors",
