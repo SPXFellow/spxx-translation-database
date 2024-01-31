@@ -1,4 +1,5 @@
 {
+    "MC-267922": "Wolf armor loses custom display name and other NBT when equipped",
     "MC-264821": "The fog on armor worn by entities occurs too early",
     "MC-260099": "Sniffer's snout shading changes during sniffing",
     "MC-225170": "Normal matrix scaling broken in some situations",
