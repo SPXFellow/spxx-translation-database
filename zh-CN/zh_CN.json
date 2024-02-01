@@ -1,4 +1,7 @@
 {
+    "MC-268172": "Game crashes when saving an entity's effect above 127",
+    "MC-268168": "Chainmail armor texture broken due to armor material renaming",
+    "MC-118857": "Effect amplifier is read/written as byte from NBT despite being stored as an integer",
     "MC-267922": "狼铠在装备后会丢失自定义显示名称和其他NBT标签",
     "MC-264821": "穿有盔甲的实体的迷雾出现的太早",
     "MC-260099": "嗅探兽嗅探时鼻子的阴影发生变化",
