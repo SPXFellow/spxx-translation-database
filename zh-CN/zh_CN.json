@@ -1,4 +1,5 @@
 {
+    "MC-268096": "Singleplayer client discards synced biome tags",
     "MC-264684": "Too long macro silently fail",
     "MC-267512": "Invulnerable ghasts can be killed with reflected fireballs",
     "MC-268189": "`block.vault.fall` 使用了默认占位符的音效",
