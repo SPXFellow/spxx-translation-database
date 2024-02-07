@@ -1,4 +1,7 @@
 {
+    "MC-268091": "\"Shuniji\", \"Dragon Fish\" and \"Axolotl\" no longer play underwater",
+    "MC-193202": "Tamed wolf health resets when NBT is loaded (e.g. relog)",
+    "MC-267917": "Baby armadillos don't make an eating sound when feeding them spider eyes",
     "MC-268065": "Armadillos with no AI roll up after being attacked",
     "MC-267940": "Armadillo's scute drop timer is not saved to data",
     "MC-259142": "Hoppers with barrel facing downwards on top picking up item",
