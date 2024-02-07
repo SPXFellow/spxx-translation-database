@@ -1,4 +1,5 @@
 {
+    "MC-267732": "/place jigsaw still caps max depth at 7",
     "MC-72151": "雪傀儡发射的雪球会对狼造成伤害，而不会击退",
     "MC-268091": "“Shuniji”、“Dragon Fish”和“Axolotl”音乐不会在处于水下时播放",
     "MC-193202": "驯服的狼在加载 NBT（如重新登入时）时会重置血量",
