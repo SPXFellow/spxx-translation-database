@@ -1,5 +1,6 @@
 {
-    "MC-267732": "`/place jigsaw` 命令仍将拼图结构的最大深度限制为 7",
+    "MC-268339": "\"Japanese\" is misspelled as \"Japanse\" in options.japaneseGlyphVariants.tooltip",
+    "MC-267732": "`/place jigsaw` 命令的最大深度限制仍为 7",
     "MC-72151": "雪傀儡发射的雪球会对狼造成伤害，而不会击退",
     "MC-268091": "“Shuniji”、“Dragon Fish”和“Axolotl”音乐不会在处于水下时播放",
     "MC-193202": "驯服的狼在加载 NBT（如重新登入时）时会重置血量",
