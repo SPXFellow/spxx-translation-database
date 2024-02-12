@@ -1,7 +1,7 @@
 {
-    "MC-266570": "Wind charges can't go through non solid blocks",
-    "MC-268451": "Hoppers can't pull honey bottles from bee hives or bee nests",
-    "MC-268339": "\"Japanese\" is misspelled as \"Japanse\" in options.japaneseGlyphVariants.tooltip",
+    "MC-266570": "风弹无法穿过方块轮廓箱",
+    "MC-268451": "漏斗无法从蜂箱或蜂巢吸取蜂蜜瓶",
+    "MC-268339": "原文中，`options.japaneseGlyphVariants.tooltip` 字符串里的“Japanese”误拼作了“Japanse”",
     "MC-267732": "`/place jigsaw` 命令的最大深度限制仍为 7",
     "MC-72151": "雪傀儡发射的雪球会对狼造成伤害，而不会击退",
     "MC-268091": "“Shuniji”、“Dragon Fish”和“Axolotl”音乐不会在处于水下时播放",
