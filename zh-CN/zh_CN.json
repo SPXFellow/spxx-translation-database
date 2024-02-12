@@ -1,4 +1,5 @@
 {
+    "MC-266570": "Wind charges can't go through non solid blocks",
     "MC-268451": "Hoppers can't pull honey bottles from bee hives or bee nests",
     "MC-268339": "\"Japanese\" is misspelled as \"Japanse\" in options.japaneseGlyphVariants.tooltip",
     "MC-267732": "`/place jigsaw` 命令的最大深度限制仍为 7",
