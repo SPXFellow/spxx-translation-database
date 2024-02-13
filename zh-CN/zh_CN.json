@@ -1,4 +1,8 @@
 {
+    "MC-268389": "Fall damage is conserved between game modes with Wind Charge",
+    "MC-268383": "Wind Charges negate ALL fall damage that does not occur below the hit point, regardless of whether the fall was caused by the charge or not",
+    "MC-268368": "Wind charge bounces cause fall damage after exiting water",
+    "MC-268362": "Blocks which typically negate fall damage fail to do so from falls after using wind charges",
     "MC-266570": "风弹无法穿过方块轮廓箱",
     "MC-268451": "漏斗无法从蜂箱或蜂巢吸取蜂蜜瓶",
     "MC-268339": "原文中，`options.japaneseGlyphVariants.tooltip` 字符串里的“Japanese”误拼作了“Japanse”",
