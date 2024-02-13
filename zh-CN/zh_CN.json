@@ -1,4 +1,6 @@
 {
+    "MC-268349": "Hopper minecarts with a full block above them no longer search for item entities to pick up",
+    "MC-268418": "Pre-1.9 chunks get regenerated seemingly randomly when upgrading",
     "MC-268389": "Fall damage is conserved between game modes with Wind Charge",
     "MC-268383": "Wind Charges negate ALL fall damage that does not occur below the hit point, regardless of whether the fall was caused by the charge or not",
     "MC-268368": "Wind charge bounces cause fall damage after exiting water",
