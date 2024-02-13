@@ -1,4 +1,5 @@
 {
+    "MC-268080": "When the projectiles are reflected from the breeze, the projectiles will deflect in the opposite direction in Bedrock, but in Java they will always deflect downward",
     "MC-268349": "Hopper minecarts with a full block above them no longer search for item entities to pick up",
     "MC-268418": "Pre-1.9 chunks get regenerated seemingly randomly when upgrading",
     "MC-268389": "Fall damage is conserved between game modes with Wind Charge",
