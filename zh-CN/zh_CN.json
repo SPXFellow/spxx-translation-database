@@ -1,4 +1,6 @@
 {
+    "MC-268355": "Tick freeze lets chunk tickets expire",
+    "MC-268353": "Tick Freeze randomizes next AI tick type",
     "MC-267866": "Panda slimeball drop is hardcoded",
     "MC-268344": "Breezes are not affected by the looting enchantment",
     "MC-268426": "Wind charges shot from breezes no longer explode and instead are deleted upon hitting breezes after being deflected",
