@@ -1,4 +1,5 @@
 {
+    "MC-195572": "The fog from lava is much denser when having the Fire Resistance effect active compared to Bedrock Edition",
     "MC-226775": "Extinguishing candle shows inaccurate subtitle",
     "MC-268350": "Wind Charges never despawn",
     "MC-268580": "Chiseled bookshelf model is not deterministic in data generation",
