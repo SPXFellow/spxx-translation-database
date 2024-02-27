@@ -1,4 +1,5 @@
 {
+    "MC-267451": "Items named with an anvil on 1.20.4 don't stack with items named prior",
     "MC-268011": "Hoppers leak the last world they sucked item on",
     "MC-267500": "Attribute modifier on an item with the first and/or last 2 integers of the UUID being 0 are non-functional",
     "MC-259284": "Severe performance issues with inventories with lots of data",
