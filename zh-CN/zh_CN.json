@@ -1,4 +1,9 @@
 {
+    "MC-268011": "Hoppers leak the last world they sucked item on",
+    "MC-267500": "Attribute modifier on an item with the first and/or last 2 integers of the UUID being 0 are non-functional",
+    "MC-259284": "Severe performance issues with inventories with lots of data",
+    "MC-257119": "Lodestone Compass does not stack after dropping and destroying the Lodestone",
+    "MC-118890": "Tipped arrows stuck in the ground never lose their effect",
     "MC-268710": "The fall damage reduction for the Wind Charge is not working",
     "MC-195572": "The fog from lava is much denser when having the Fire Resistance effect active compared to Bedrock Edition",
     "MC-226775": "Extinguishing candle shows inaccurate subtitle",
