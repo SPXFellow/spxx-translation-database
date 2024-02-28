@@ -1,4 +1,10 @@
 {
+    "MC-268236": "Search field in the social interactions menu not focused by default",
+    "MC-268022": "Elements within the list in the \"Experimental feature requirements\" menu cannot be selected via the mouse cursor",
+    "MC-267976": "The scroll bar in the realms player list can no longer be dragged using the mouse cursor",
+    "MC-267975": "The realms player list is rendered larger than its visual size",
+    "MC-251042": "Third-party warning buttons are not positioned well in non-English languages",
+    "MC-268778": "Baby armadillos shouldn't drop scutes when brushed",
     "MC-267451": "Items named with an anvil on 1.20.4 don't stack with items named prior",
     "MC-268011": "Hoppers leak the last world they sucked item on",
     "MC-267500": "Attribute modifier on an item with the first and/or last 2 integers of the UUID being 0 are non-functional",
