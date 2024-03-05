@@ -16,7 +16,7 @@
     "MC-268392": "Setting gravity attribute to 0.0 kicks player for flying",
     "MC-157133": "Enchanted books with curses can be stacked using a grindstone",
     "MC-140397": "When combining two enchanted unbreakable items, the result will be two stacked items",
-    "MC-268834": "Vault texture is inconsistent",
+    "MC-268834": "宝库的纹理不统一",
     "MC-268236": "社交屏幕的搜索框默认不会被聚焦",
     "MC-268022": "Realms 菜单中，“需要开启实验性玩法”列表中的元素无法通过鼠标选中",
     "MC-267976": "无法使用鼠标拖动 Realms 玩家列表的滚动条",
