@@ -1,6 +1,6 @@
 {
     "MC-269091": "AttributeModifiers NBT with missing fields is not upgraded correctly to components",
-    "MC-269066": "Item modifier cannot remove `custom_name`",
+    "MC-269066": "物品修饰器无法移除 `custom_name` 组件",
     "MC-269062": "Bundles with \"Bundle Contents\" component removed return after right clicking",
     "MC-269005": "Player heads from previous versions cause game crash and/or are converted incorrectly",
     "MC-268971": "Lodestone compass stops being a lodestone compass after breaking its tracked lodestone",
