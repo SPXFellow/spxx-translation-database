@@ -1,7 +1,7 @@
 # SPXX Bug Translator Rank
 ## Rank for Future Version
 This catagory is empty for now.
-## Rank for Latest Version 24w38a
+## Rank for Latest Version 24w39a
 This catagory is empty for now.
 ## Rank for All Time
 Data since 22w14a.
